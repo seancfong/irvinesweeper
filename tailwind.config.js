@@ -13,7 +13,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        primary: ['var(--josefin-font)', ...fontFamily.sans]
+        josefin: ['var(--josefin-font)', fontFamily.sans]
       }
     }
   },

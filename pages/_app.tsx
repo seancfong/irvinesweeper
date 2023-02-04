@@ -1,6 +1,25 @@
-import '@/styles/globals.css'
-import type { AppProps } from 'next/app'
+import { Josefin_Sans } from '@next/font/google';
+import { AppProps } from 'next/app';
+import '@/styles/globals.css';
+import Layout from '@/components/Layout/Layout';
+const josefinSans = Josefin_Sans({
+  subsets: ['latin'],
+});
 
-export default function App({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+function MyApp({ Component, pageProps }: AppProps) {
+  return (
+    <>
+      <style jsx global>
+        {`
+          :root {
+            --josefin-font: ${josefinSans.style.fontFamily};
+          }
+        `}
+      </style>
+      <Layout>
+        <Component {...pageProps} />
+      </Layout>
+    </>
+  );
 }
+export default MyApp;

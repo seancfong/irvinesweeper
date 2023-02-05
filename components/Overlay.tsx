@@ -25,7 +25,7 @@ const Overlay = ({ showGreeting, setShowGreeting }: Props) => {
 						onClick={() => {setShowGreeting(false)}}>
 							<div 
 								
-								className="flex flex-col items-center">
+								className="text-center break-words flex flex-col items-center">
 								<h2 className={"text-4xl text-white font-bold tracking-widest uppercase drop-shadow-lg transition duration-1000 ease-in-out " + (isInView ? "opacity-[100%]" : "opacity-[0%] translate-y-4")}>
 										Welcome to Irvine.
 								</h2>

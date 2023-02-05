@@ -1,0 +1,76 @@
+Get city boundary polygon:
+https://search.irvinecompanyapartments.com/search
+content-type: application/json
+{"index":"prod_ica_city","query":"","params":{"hitsPerPage":1000,"attributesToHighlight":[],"filters":"cityIdAEM:\"7bee34c1-a645-45c2-ad68-b5e12a63f82e\"","attributesToRetrieve":"cityLocBoundary"}}
+
+Get apartment communities in irvine:
+https://search.irvinecompanyapartments.com/search
+content-type: application/json
+{
+    "index": "prod_ica_community",
+    "query": "",
+    "params": {
+        "hitsPerPage": 1000,
+        "attributesToHighlight": [],
+        "filters": "cityIdAEM:\"7bee34c1-a645-45c2-ad68-b5e12a63f82e\"",
+        "attributesToRetrieve": ["communityIdAEM",
+                                 "communityHeroSqImage",
+                                 "cityThumbnail",
+                                 "communityHeroImages",
+                                 "communityName",
+                                 "calc_minRent",
+                                 "calc_maxRent",
+                                 "calc_minBedrooms",
+                                 "calc_maxBedrooms",
+                                 "calc_minBathrooms",
+                                 "calc_maxBathrooms",
+                                 "calc_minSqFt",
+                                 "calc_maxSqFt",
+                                 "communityPath",
+                                 "communityStatus",
+                                 "isCommunityNewFlag",
+                                 "dispCommLocationPt",
+                                 "cityName",
+                                 "neighborhoodName",
+                                 "marketName",
+                                 "cityIdAEM",
+                                 "marketPath",
+                                 "cityPath",
+                                 "isFeaturedFlag",
+                                 "marketIdAEM",
+                                 "propertyConcessions",
+                                 "commPromoLink",
+                                 "commPromotion",
+                                 "communityExternalUrl",
+                                 "communityDescription",
+                                 "communityPropertyAddress",
+                                 "communityPropertyPostalCode",
+                                 "hideUnitPricing",
+                                 "noAvailabilityMessage"]
+    }
+}
+
+
+Customized apartment search:
+{
+    "index": "prod_ica_community",
+    "query": "",
+    "params": {
+        "hitsPerPage": 1000,
+        "attributesToHighlight": [],
+        "filters": "cityIdAEM:\"7bee34c1-a645-45c2-ad68-b5e12a63f82e\"",
+        "attributesToRetrieve": [
+                                 "communityHeroSqImage",
+                                 "communityName",
+                                 "calc_minRent",
+                                 "calc_maxRent",
+                                 "communityStatus",
+                                 "dispCommLocationPt",
+                                 "commPromotion",
+                                 "communityDescription",
+                                 "communityPropertyAddress",
+                                 "communityPropertyPostalCode"]
+    }
+}
+
+{    "index": "prod_ica_community",    "query": "",    "params": {        "hitsPerPage": 1000,        "attributesToHighlight": [],        "filters": "cityIdAEM:\"7bee34c1-a645-45c2-ad68-b5e12a63f82e\"",        "attributesToRetrieve": [                                 "communityHeroSqImage",                                 "communityHeroImages",                                 "communityName",                                 "calc_minRent",                                 "calc_maxRent",                                 "communityStatus",                                 "dispCommLocationPt",                                 "commPromotion",                                 "communityDescription",                                 "communityPropertyAddress",                                 "communityPropertyPostalCode"]    }}

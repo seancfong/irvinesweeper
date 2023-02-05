@@ -1,0 +1,686 @@
+[
+    {
+        "type": "office",
+        "name": "17032 Murphy",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Located on Murphy near Jamboree Road and McGaw Avenue, this mid-tech and manufacturing building features 21,500 SF of prime space. Centrally located in the John Wayne Airport Area, 17032 Murphy offers easy freeway access, nearby retail amenities and ample surface parking. Free up your time and streamline your success with nearby business conveniences, retail, dining and lifestyle amenities including The Market Place and Fashion Island. ",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.6864518591539,
+            "lng": -117.830076933937
+        }
+    },
+    {
+        "type": "office",
+        "name": "17221 Von Karman",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Find efficient spaces for productive solutions at 17221 Von Karman, an 87,000 SF midtech office building in the heart of the John Wayne Airport Area. Convenient freeway access, abundant retail amenities and ample surface parking make 17221 Von Karman a top choice for growing and established businesses, including KI &nbsp;Speed indoor racing. Grab lunch on-the-go from one of the many nearby quick service restaurants or head to nearby The Market Place for extensive dining and retail conveniences.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.69147435775271,
+            "lng": -117.84216274868776
+        }
+    },
+    {
+        "type": "office",
+        "name": "17421 Derian",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Located on the corner of Jamboree Road and McGaw Avenue, this office and manufacturing building offers 90,000 SF designed for maximum productivity. Centrally located in the John Wayne Airport Area, 17421 Derian offers easy freeway access, nearby retail amenities and ample surface parking. Nearby retail, dining and lifestyle amenities including The Market Place and Fashion Island free up your time and streamline your success.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.68685661013138,
+            "lng": -117.84061095106505
+        }
+    },
+    {
+        "type": "office",
+        "name": "2552 McGaw",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Located on McGaw Avenue between Von Karman and Jamboree Road, 2552 McGaw is a 36,000 SF mid-tech and manufacturing building designed to power your productive potential. A central location in the John Wayne Airport Area puts the best of Irvine at your doorstep, including nearby business necessities, convenient freeway access and abundant surface parking. Retail, dining and lifestyle amenities abound at The Market Place and Fashion Island.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.68711171148549,
+            "lng": -117.8380715436554
+        }
+    },
+    {
+        "type": "office",
+        "name": "2640 Main",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Located on Main Street near Jamboree Road, 2640 Main is a 42,500 SF single-story mid tech &nbsp;building. The central location near John Wayne Airport powers your business\u2019s productivity by streamlining daily commutes and simplifying business travel. &nbsp;Access Orange County\u2019s best retail, dining and lifestyle amenities at The Market Place and Fashion Island, or walk to lunch at one of the many nearby healthy and satisfying quick service restaurant options.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.68104747232759,
+            "lng": -117.84173679762269
+        }
+    },
+    {
+        "type": "office",
+        "name": "2652 McGaw",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Located on McGaw Avenue between Von Karman and Jamboree Road, 2652 McGaw features 43,500 SF of dedicated midtech space designed to maximize your productive potential. A convenient location in the heart of John Wayne Airport Area delivers time-saving conveniences, including easy freeway access, abundant nearby business amenities, a wide array of delicious dining options, and ample surface parking. Popular shopping destination The Market Place is just minutes away.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.68622664427053,
+            "lng": -117.83678706511961
+        }
+    },
+    {
+        "type": "office",
+        "name": "2712 McGaw",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Located on McGaw Avenue between Von Karman and Jamboree Road, 2717 McGaw is a 40,000 SF mid tech office building in a sought-after John Wayne Airport Area location. Businesses benefit from easy freeway access, abundant retail amenities and ample surface parking. Refresh your team for heightened productivity with &nbsp;lunch on-the-go from one of the many nearby quick service restaurants or head to nearby The Market Place for extensive dining and retail conveniences.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.685526227664575,
+            "lng": -117.83575709500035
+        }
+    },
+    {
+        "type": "office",
+        "name": "2802 Kelvin",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Harness your productive potential at 2802 Kelvin, a single-story building with 47,000 SF of midtech space. Located on Kelvin near Main Street and Jamboree Road, 2802 Kelvin &nbsp;is centrally located in the John Wayne Airport Area with easy freeway access and ample surface parking. Free up your time with nearby conveniences including a wealth of retail, dining and lifestyle amenities at The Market Place and Fashion Island, including Prego Ristorante and The Sports Club, Irvine.&nbsp;",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.68251971345999,
+            "lng": -117.83696628836059
+        }
+    },
+    {
+        "type": "office",
+        "name": "Irvine Towers",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Irvine Towers makes coming to work a powerful catalyst for meaningful connections through an immersive workplace experience, unique amenities and a convenient, central location.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.67729639274672,
+            "lng": -117.85073967704591
+        }
+    },
+    {
+        "type": "office",
+        "name": "Jamboree Center",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Jamboree Center elevates your brand to new heights with a prime location, an extensive collection of conveniences and amenities and 1.6M SF of BOMA award-winning workspace designed to attract and retain top talent.&nbsp;&nbsp;",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.67833796915532,
+            "lng": -117.83931573852897
+        }
+    },
+    {
+        "type": "office",
+        "name": "MacArthur Court",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Newport Beach\u2019s MacArthur Court positions your brand for success in a prestigious workplace community featuring deluxe finishes, upscale amenities and concierge-style conveniences. ",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.66974054473096,
+            "lng": -117.86212120069924
+        }
+    },
+    {
+        "type": "office",
+        "name": "Newport Gateway",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Newport Gateway\u2019s 12-acre campus gives teams the ideal work/life style with a wealth of on-site amenities at the intersection of all that Newport Beach and Irvine have to offer.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.6560171417285,
+            "lng": -117.85991518119812
+        }
+    },
+    {
+        "type": "office",
+        "name": "The Launch",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Maximize your brand\u2019s momentum at The Launch, an ideally located creative community featuring award-winning architectural design steps from John Wayne Airport.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.67705607214597,
+            "lng": -117.85981542041732
+        }
+    },
+    {
+        "type": "office",
+        "name": "Venture Park",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Venture Park makes it easy to attract and retain top talent with a modern campus in a premier Irvine location featuring innovative spaces to work, dine and play.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.6859119542734,
+            "lng": -117.859113136245
+        }
+    },
+    {
+        "type": "office",
+        "name": "140 &amp; 142 Technology Park",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Office and office/warehouse space is available and with benefits from nearby freeway access, abundant surface parking, and many retail amenities close by.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.664633714583985,
+            "lng": -117.74467502712201
+        }
+    },
+    {
+        "type": "office",
+        "name": "152 Technology",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "152 Technology offers an ideal combination of a high image two-story single tenant building with R&amp;D/Warehouse areas.&nbsp;Centrally located on Technology Drive and Alton Parkway, the property offers both office and office/warehouse space and benefits from an excellent proximity to freeways and nearby retail amenities.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.6653711289107,
+            "lng": -117.74594761376989
+        }
+    },
+    {
+        "type": "office",
+        "name": "15800 Alton",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "15800 Alton features an ideal mix of one- and two-story, single-use and multi-tenant buildings. Conveniently located between the 405 and 133 Freeways, both buildings offer superior visibility with prominent building signage and ample surface parking. Office and office/warehouse suites are available starting at 1,200 square feet.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.657173863452755,
+            "lng": -117.76201802117922
+        }
+    },
+    {
+        "type": "office",
+        "name": "19 &amp; 21 Technology Drive",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "With approximately 130K SF of combined office space, 19 and 21 Technology Drive offer an attractive campus-like setting with abundant parking and excellent freeway access adjacent to Irvine Spectrum Center.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65042103456911,
+            "lng": -117.73816096560668
+        }
+    },
+    {
+        "type": "office",
+        "name": "20-40 Pacifica",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "State-of-the-art amenities, elegant design and an unrivaled Irvine Spectrum location combine at 20\u202240 Pacifica, two 15-story travertine towers along the Spectrum Skyline.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.6506657056977,
+            "lng": -117.75068587403165
+        }
+    },
+    {
+        "type": "office",
+        "name": "200 Spectrum Center",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Teams thrive at 200 Spectrum Center, walking distance from Irvine Spectrum Center and boasting panoramic views, abundant amenities and convenient connectivity to Orange County and beyond.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65289896623216,
+            "lng": -117.74787245703895
+        }
+    },
+    {
+        "type": "office",
+        "name": "25-29 Technology",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Ideally situated on Technology Drive, this five-building campus-office complex offers approximately 168,000 square feet of space. The property benefits from excellent freeway access and visibility and offers tenants ample surface parking. Additionally, many retail amenities are nearby and within walking distance.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.652283275618686,
+            "lng": -117.73994176322908
+        }
+    },
+    {
+        "type": "office",
+        "name": "3 Morgan",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Located off Alton Parkway, 3 Morgan offers 41K+ SF of office and warehouse space minutes from Irvine Spectrum Center.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65449472087874,
+            "lng": -117.71424150793436
+        }
+    },
+    {
+        "type": "office",
+        "name": "400 Spectrum Center Drive",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "400 Spectrum Center, one of six buildings transforming the Irvine Spectrum skyline, offers convenient commuting, on-site dining and abundant amenities with unrivaled walkability to Irvine Spectrum Center.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65438654784697,
+            "lng": -117.74561762809707
+        }
+    },
+    {
+        "type": "office",
+        "name": "5 &amp; 9 Pasteur",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Conveniently located off Alton Parkway, 5 &amp; 9 Pasteur is a complex of low-rise buildings with customizable office and office/warehouse suites, visible signage opportunities and ample parking in the heart of Irvine Spectrum.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65407846973054,
+            "lng": -117.76395310221154
+        }
+    },
+    {
+        "type": "office",
+        "name": "7 Morgan",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "7 Morgan is a two-story, single-tenant workplace in a high-visibility location at the corner of Alton Parkway and Morgan in the heart of Irvine Spectrum.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.653737632312776,
+            "lng": -117.71360278129553
+        }
+    },
+    {
+        "type": "office",
+        "name": "9601 Jeronimo",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Conveniently located near Bake Parkway and Jeronimo, 9601 Jeronimo is home to 40K SF of office and warehouse space boasting convenient commuting and building-top signage opportunities minutes from Irvine Spectrum Center.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.6490710728227,
+            "lng": -117.71579854554358
+        }
+    },
+    {
+        "type": "office",
+        "name": "9801 Muirlands",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "9801 Muirlands features an ideal location near Bake Parkway and the 5 Freeway. This freestanding, mid-tech building offers approximately 152,000 square feet of space with attractive landscaping at the perimeter and ample surface parking.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.6439287283096,
+            "lng": -117.71935385248051
+        }
+    },
+    {
+        "type": "office",
+        "name": "Alton Corporate Center",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Experience unparalleled convenience at Alton Corporate Center, where seamless commutes and access to Irvine Spectrum meet unlimited customization opportunities.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65816942680789,
+            "lng": -117.76709586508174
+        }
+    },
+    {
+        "type": "office",
+        "name": "Alton Plaza",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Innovation starts at Alton Plaza, an R&amp;D campus with a prime location in the tech hub of Irvine minutes from Orange County\u2019s best shopping, dining and entertainment.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65087087550561,
+            "lng": -117.73399075493217
+        }
+    },
+    {
+        "type": "office",
+        "name": "Alton-Ada",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Located at the intersection of two prominent streets, Alton/Ada is a convenient, mid-tech campus offering seamless commutes and an Irvine Spectrum location talent loves.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65414899864511,
+            "lng": -117.73665095239232
+        }
+    },
+    {
+        "type": "office",
+        "name": "Alton-Jeronimo Business Park",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Alton Jeronimo Business Park\u2019s four mid-tech and manufacturing buildings provide convenience and flexibility with customizable workspaces, attentive service teams and a convenient Irvine Spectrum location.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65180343188884,
+            "lng": -117.71980886640883
+        }
+    },
+    {
+        "type": "office",
+        "name": "Alton-Technology",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "This eight-building campus-office complex at the corner of Alton and Technology offers tenants an ideal office location in the heart of Irvine Spectrum\u00ae. With ground-level loading, plentiful parking, and available signage opportunities, businesses seeking prime productivity &nbsp;will be drawn to the many on-site amenities.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.650901061392446,
+            "lng": -117.73667067193514
+        }
+    },
+    {
+        "type": "office",
+        "name": "Bake Technology Park",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Bake Technology Park is comprised of seven mid-tech buildings that are located in close proximity to Irvine Spectrum\u00ae. With approximately 417,000 square feet of workspace, the buildings are served by abundant surface parking.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65253878187051,
+            "lng": -117.70748175241533
+        }
+    },
+    {
+        "type": "office",
+        "name": "Barranca",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Featuring an ideal mix of one- and two-story, multi-tenant office buildings, this property is centrally located on Barranca Parkway. With office and warehouse space currently available, the building is within walking distance of the Irvine Transportation Center and nearby retail amenities.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.66005298854388,
+            "lng": -117.73848536952511
+        }
+    },
+    {
+        "type": "office",
+        "name": "Corporate Business Center",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "This impressive 500,000 SF business park integrates campus-style office buildings with warehouse space and offers sought-after frontage along the 5 Freeway. A convenient location in the heart of Irvine Spectrum boosts talent recruitment and retention. Employees benefit from easy access to the 5, 405 and 133 Freeways and the 241 Toll Road as well as the Irvine Station Transportation Hub. Adjacent to Irvine Home Center and minutes from more than 175+ stores, restaurants and entertainment venues at Irvine Spectrum Center\u00ae.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.66327713929312,
+            "lng": -117.74702529367111
+        }
+    },
+    {
+        "type": "office",
+        "name": "Discovery Park",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "&nbsp;",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.667461003742986,
+            "lng": -117.75898946292114
+        }
+    },
+    {
+        "type": "office",
+        "name": "Discovery-Waterworks",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Discovery/Waterworks is an attractive campus-office project that is conveniently located near Irvine Center Drive and Sand Canyon Road. Ample surface parking and adjacent retail amenities at Sand Canyon Plaza further enhance the value of tenancy at this property.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.66389440952097,
+            "lng": -117.75932235980217
+        }
+    },
+    {
+        "type": "office",
+        "name": "Fairbanks Industrial Park",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "With approximately 295,000 square feet of manufacturing and distribution space, Fairbanks Industrial Park is designed for scalability. Irvine Company\u2019s signature&nbsp;Workspace Flexibility suites are newly renovated and offer streamlined leasing for &nbsp;immediate occupancy and no hassle move-in. The four-building complex is an ideal mix of office, assembly, manufacturing and warehouse space, and is served by abundant surface parking. Prime location near Irvine Station and Alton Tech Retail Center.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65972334021924,
+            "lng": -117.71309503837618
+        }
+    },
+    {
+        "type": "office",
+        "name": "Freeway Technology Park",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Unleash your productive potential at Freeway Technology Park, a ten building mix of two-story campus-style and mid-tech offices with approximately 346,000 square feet of office space. From Irvine Company\u2019s signature concierge-style services to Flex Workspace+\u00ae offices, productivity and efficiency is in Freeway Technology Park\u2019s DNA. Essential time-saving conveniences minimize daily disruptions and WiFi-enabled outdoor workspaces power productivity beyond the everyday office. Exclusive building signage opportunities along Technology Drive elevate your brand. Recruit and retain top talent with a sought-after location in the heart of Irvine Spectrum\u00ae, Orange County\u2019s premier master-planned community with a coveted mix of residential and retail. At Freeway Technology Park, your space is your success.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.66561977175183,
+            "lng": -117.75012021166992
+        }
+    },
+    {
+        "type": "office",
+        "name": "Hubble Industrial Park",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Four, single story industrial buildings offer a variety of suites for office and office/warehouse users to boost productivity and maximize space. Conveniently located near Irvine Center Drive and Bake Parkway, Hubble Industrial Park is located in the heart of Irvine Spectrum, a master-planned community that mixes residential, office and retail with abundant amenities and easy access to the 5, 405, and 133 Freeways and near the 241 Toll Road.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.64249774372748,
+            "lng": -117.73979134854886
+        }
+    },
+    {
+        "type": "office",
+        "name": "Innovation Office Park",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "With space for small to enterprise teams in a open-air, village-like setting, we\u2019ve redefined the creative office to be a workplace where innovators experience more.&nbsp;",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.67753611053994,
+            "lng": -117.76011021180955
+        }
+    },
+    {
+        "type": "office",
+        "name": "Irvine Business Center",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Redefine efficiency at Irvine Business Center. Close to everything but far from standard, this collection of 10, two-story office buildings set in an energizing campus-style environment is just minutes from Irvine Spectrum Center\u00ae. Your guests will enjoy the convenience of the nearby Courtyard Marriott, while access to the 5, 405, 133, and 241 Toll Road makes commuting easy so you can attract top talent. At The Commons, Irvine Business Center\u2019s vibrant outdoor workspace, your teams will discover productivity beyond the everyday office. Featuring flexible floorplans that bring your ideal workspace to life,&nbsp;Irvine Business Center has everything your company needs to redefine efficiency.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.6612462011335,
+            "lng": -117.75098564683533
+        }
+    },
+    {
+        "type": "office",
+        "name": "Irvine Business Park",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Ideally located on Alton Parkway, Irvine Business Park offers multi-tenant units from approximately 1,200 to 5,000 SF. Two mid-tech buildings offer an additional 100,000 SF of office space. The entire business park benefits from unique architectural details, beautiful landscaping, and ample surface parking. Minutes from Irvine Spectrum Center, Sand Canyon Plaza, Woodbridge Village Center and Oak Creek Golf Club.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65092616647888,
+            "lng": -117.72172330821228
+        }
+    },
+    {
+        "type": "office",
+        "name": "Jenner Business Park",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Your space, your success: discover Jenner Business Park, featuring an ideal mix of one- and two-story, single- and multi-tenant buildings for office and office/warehouse suites. Conveniently located near the 405 and 133 Freeways, sought-after building top signage opportunities boost brand visibility. Jenner Business Park provides office/R&amp;D/Manufacturing suites. Streamline your path to success with ample surface parking and freeway access.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65533728464487,
+            "lng": -117.76638157077828
+        }
+    },
+    {
+        "type": "office",
+        "name": "Jeronimo 5 &amp; 6",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Inspire your productive potential at 5 and 6 Jeronimo, a three-building industrial park offering 200,000+ SF of manufacturing and mid-tech facilities, suitable for combination office, R&amp;D manufacturing and warehouse. Ideally located on the corner of Bake and Jeronimo, coveted building top signage opportunities boost brand visibility. Beautifully landscaped grounds refresh your team for better results. Abundant surface parking and easy access to Irvine Station simplify commuting for heightened productivity.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.64751854626765,
+            "lng": -117.71642261111487
+        }
+    },
+    {
+        "type": "office",
+        "name": "Laguna Canyon",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "With a sought-after location near Irvine Center Drive and Sand Canyon Avenue, Laguna Canyon is an ideal choice for corporate headquarters. The property\u2019s three-building arrangement is suitable for office, manufacturing and/or distribution and offers abundant surface parking, building top signage opportunities, and convenient access to the adjacent dining and retail amenities at<a href=\"http://www.shopneighborhoodcenters.com/NeighborhoodCenters/Center/Sand_Canyon_Plaza.aspx\"> Sand Canyon Plaza</a>. Enjoy the benefits of a prime business location in the heart of Irvine Spectrum.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.664267903776214,
+            "lng": -117.75980694442728
+        }
+    },
+    {
+        "type": "office",
+        "name": "Lakeview Business Center",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Lakeview Business Center is a productivity-enhancing campus in Irvine Spectrum\u00ae with a unique mix of 17 two-story business and mid-tech workspaces and transformed outdoor spaces coming in 2023.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.658374102255614,
+            "lng": -117.73946270765641
+        }
+    },
+    {
+        "type": "office",
+        "name": "Oak Canyon Business Center",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Every space counts at Oak Canyon Business Center, a four-building office park with approximately 418,000 SF of manufacturing space designed to power your productivity. &nbsp;Located on Sand Canyon Avenue, just off of the 5 Freeway, Oak Canyon Business Center is only minutes from <a href=\"http://www.shopneighborhoodcenters.com/NeighborhoodCenters/Center/Oak_Creek_Shopping_Center.aspx\">Oak Creek\u00ae Shopping Center</a> and<a href=\"http://www.oakcreekgolfclub.com/\"> Oak Creek Golf Club\u00ae</a>. Abundant surface parking and easy access to the 5, 405 and 133 Freeways, the 241 Toll Road and Irvine Station makes Oak Canyon Business Center an ideal business location.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.67564119504626,
+            "lng": -117.76213719105014
+        }
+    },
+    {
+        "type": "office",
+        "name": "Oak Creek Business Center",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Your space is your success at Oak Creek Business Center, a campus comprised of four, two-story buildings and is just minutes away from local amenities including Oak Creek Golf Course and Irvine Spectrum Center\u00ae, allowing customers and employees convenient access to 150+ shops, restaurants, and entertainment options. Abundant outdoor workspace, surface parking, and modern amenities keep your teams inspired and engaged.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.6757817728568,
+            "lng": -117.76778059001526
+        }
+    },
+    {
+        "type": "office",
+        "name": "One Technology Park",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Presenting an ideal mix of 10, one- and two-story buildings, One Technology Park is perfect for single- or multi-tenant users. Nestled in a park-like setting near the corner of Technology Drive and Alton Parkway, the property is freeway-close and sits near numerous retail amenities.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.64724736056925,
+            "lng": -117.73419451451088
+        }
+    },
+    {
+        "type": "office",
+        "name": "Parker Technology Center",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Parker Technology Center is a four-building business center featuring a unique mix of industrial and R&amp;D space, conveniently located at the intersection of Irvine Boulevard and Bake Parkway minutes from Irvine Spectrum Center.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.656799777356426,
+            "lng": -117.70278589549255
+        }
+    },
+    {
+        "type": "office",
+        "name": "Sand Canyon Business Center",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "At Sand Canyon Business Center, innovative and connected workplace design invites seamless work-life integration at the heart of Irvine Spectrum\u00ae. The campus features over 665,000 square feet of flexible office space over seven buildings. The indoor-outdoor building design brings the entire workplace community together in a social, creative, and inspiring environment. The collection of integrated amenity experiences seamlessly combines to build a workplace community that draws out the best in people and empower businesses to thrive.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.66870722299039,
+            "lng": -117.76897227514681
+        }
+    },
+    {
+        "type": "office",
+        "name": "Spectrum Court",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Striking architecture, plentiful amenities and an unbeatable Irvine Spectrum location make Spectrum Court a workplace that attracts talent and supports success.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65629412360511,
+            "lng": -117.7539462724917
+        }
+    },
+    {
+        "type": "office",
+        "name": "Spectrum Terrace",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Spectrum Terrace is a 1.1M SF connected campus designed for how teams work best. Indoor-outdoor experiences, resort-like amenities, vast outdoor spaces and elevated workplace wellness make coming to work worth it.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.647693462988286,
+            "lng": -117.76555682065587
+        }
+    },
+    {
+        "type": "office",
+        "name": "Technology Link",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Minutes from Irvine Spectrum Center, Technology Link offers a versatile mix of office and warehouse space enhanced with amenities like grab-and-go dining, outdoor workspace and a meeting and event space with adjoining lounge.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.65223670747764,
+            "lng": -117.73698604495237
+        }
+    },
+    {
+        "type": "office",
+        "name": "Tripointe",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Designed with productivity in mind, Tripointe\u2019s industrial workspaces feature expansive warehouses and are enhanced by on-site dining, outdoor workspace and a convenient Irvine Spectrum location.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.6616244649643,
+            "lng": -117.70761013624566
+        }
+    },
+    {
+        "type": "office",
+        "name": "Market Place Center",
+        "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+        "description": "Surround your business in success at Market Place Center, a&nbsp;22-building campus community&nbsp;with 1.3 million square feet of creative, vibrant workspace designed for efficiency. Conveniently located along the 5 freeway between Jamboree and Culver, this campus-office community offers convenient surface parking and easy access to John Wayne Airport. Freeway frontage and great visibility from the 5 are its hallmarks. Enjoy an energizing Cafe 350 breakfast or lunch in the revitalized soft-seating dining area, which features complimentary WiFi and shaded, outdoor lounge.",
+        "minRent": 2000,
+        "maxRent": 2500,
+        "coords": {
+            "lat": 33.7158056584151,
+            "lng": -117.78606685186764
+        }
+    }
+]

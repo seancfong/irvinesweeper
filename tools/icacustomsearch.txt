@@ -1,0 +1,20 @@
+{
+    "index": "prod_ica_community",
+    "query": "",
+    "params": {
+        "hitsPerPage": 1000,
+        "attributesToHighlight": [],
+        "filters": "cityIdAEM:\"7bee34c1-a645-45c2-ad68-b5e12a63f82e\"",
+        "attributesToRetrieve": [
+                                 "communityHeroSqImage",
+                                 "communityName",
+                                 "calc_minRent",
+                                 "calc_maxRent",
+                                 "communityStatus",
+                                 "dispCommLocationPt",
+                                 "commPromotion",
+                                 "communityDescription",
+                                 "communityPropertyAddress",
+                                 "communityPropertyPostalCode"]
+    }
+}

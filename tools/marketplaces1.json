@@ -1,0 +1,310 @@
+[
+    {
+        "type": "retail",
+        "name": "Alton Marketplace | Irvine Spectrum",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-18393/8e798ad74ef2cc4219b767bbe852e4f2/center-hero-altonmarketplace.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.658102,
+            "lng": -117.742759
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Alton Retail Center",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-18394/b864d46cbfd107b909ebd3e99af66f5a/center-hero-altonretailcenter.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.65457,
+            "lng": -117.738897
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Alton Square",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73447/4c5cfafdc473d4176d05dccab3e8a5ee/ShopIC_HeroImage1280x495_AltonSquare2.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.671314,
+            "lng": -117.78922
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Campus Plaza",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-78574/f0e4a38d41c9e3081bde465de4e3da39/center-hero-campusplaza-2021.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.649683,
+            "lng": -117.831678
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Crossroads",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73434/b486582b13ed3c9330af6c58f870a981/center-hero-crossroads-urbanplates.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.684798,
+            "lng": -117.811583
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Culver Plaza",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-36831/62331c3c08732316db374df35a5f18a7/center-hero-culverplaza-201703.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.696175,
+            "lng": -117.798923
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Cypress Village Shopping Center",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73438/9a30c0bd725898b4f65e2e2f60726488/center-hero-cypressvillage-2019.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.695619,
+            "lng": -117.764228
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Harvard Place Auto Plaza",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-18403/9a70bea056f707b727c889d7400c1cf9/center-hero-harvardplaceautoplaza.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.677915,
+            "lng": -117.834329
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Harvard Place Shopping Center",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-36832/6db6eb0df722e31b1bb16a911cb02f4b/center-hero-harvardplace-201702.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.676955,
+            "lng": -117.832645
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Lakeside Plaza",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-18367/99847104585f478c98592a1eeec59666/lakesidecenter_1280x495.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.678963,
+            "lng": -117.799535
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Los Olivos Apartment Village",
+        "image": "",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.64529,
+            "lng": -117.749301
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Los Olivos Marketplace | Irvine Spectrum",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73448/9fc438fc06f9e2f4dc56b9feb670b53a/center-hero-losolivosmarketplace-wholefoods.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.643498,
+            "lng": -117.743972
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Northpark Plaza",
+        "image": "https://images.ctfassets.net/l16b5usqno44/383GHgyxvsusMQl1xkksQH/4558b0619911e873d2df970415259f9c/center-hero-northpark-2020__1_.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.721938,
+            "lng": -117.771355
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Oak Creek Shopping Center",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73445/0d3b6ca18cc82497164fc7713784254f/center-hero-oakcreek-2020-EDITED.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.669655,
+            "lng": -117.786339
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Orchard Hills Chopping Center",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-36833/3228b478e965cad15bf7fb7520cbe33b/ShopIC_HeroImage1280x495_OrchardHills.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.734224,
+            "lng": -117.760621
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Sand Canyon Plaza",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73450/dc98a81f78f98bd3f65443b0e136c26b/center-hero-parkview-zionmart.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.659329,
+            "lng": -117.803111
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Quail Hill Shopping Center",
+        "image": "https://images.ctfassets.net/l16b5usqno44/vYMHq0czwxrp8vl30ApCd/bfe96138ed2420fcecaec8360241998c/Center-Hero-QuailHill__1_.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.655191,
+            "lng": -117.778304
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Sand Canyon Plaza",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73451/7dbbda8bdacb78648c9b66b647080a40/center-hero-sandcanyon-starbucks.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.668867,
+            "lng": -117.7647
+        }
+    },
+    {
+        "type": "retail",
+        "name": "The Park at Irvine Spectrum",
+        "image": "",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.653451,
+            "lng": -117.754078
+        }
+    },
+    {
+        "type": "retail",
+        "name": "The Square",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73444/b507429109bc1a3ac992c7dc2c8ba69f/center-hero-thesquare-2020.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.686642,
+            "lng": -117.855615
+        }
+    },
+    {
+        "type": "retail",
+        "name": "The Village at Irvine Spectrum",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-33233/71b5ff948d1cc8c8403181e7e052c0d5/center-hero-thevillageapartments.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.653589,
+            "lng": -117.750396
+        }
+    },
+    {
+        "type": "retail",
+        "name": "University Center",
+        "image": "https://images.ctfassets.net/l16b5usqno44/3kH9bLw6CJJhVXEyWxC0or/0d87c27bf8a6bbcbe4e9d89b0905f2af/Center-Hero-UniversityCenter.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.650438,
+            "lng": -117.838931
+        }
+    },
+    {
+        "type": "retail",
+        "name": "University Park Center",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-13457/b350e40e45ec2342fbfbf28da3f04c9e/universitypark_hero.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.664423,
+            "lng": -117.826131
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Venture Park",
+        "image": "https://images.ctfassets.net/l16b5usqno44/6V8RoR6boDzNQYbJBeVHCj/b0ea4087f480eaa5776547085b81e75b/center-hero-executivepark.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.685182,
+            "lng": -117.856366
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Walnut Village Center",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-75315/9bf936b58719865224518ea9fc8f98f7/center-hero-walnutvillagecenter.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.70598,
+            "lng": -117.787797
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Westpark Plaza",
+        "image": "https://images.ctfassets.net/l16b5usqno44/18ocppDvU7jQ5gqP1msOYB/b9c9e94e970ae1fab16e870953901a52/Center-Hero-WestparkPlaza.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.683115,
+            "lng": -117.814029
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Woodbridge Village Center",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-35801/4f3803359a42a045cf2fc4b2bc622b60/center-hero-woodbridgevillagecenter-201710.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.677273,
+            "lng": -117.799673
+        }
+    },
+    {
+        "type": "retail",
+        "name": "Woodbury Town Center",
+        "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-36840/cffe2142a8d6fb39350a10d183dfc66f/center-hero-woodburytowncenter-201703.jpg",
+        "minRent": 2500,
+        "maxRent": 3000,
+        "coords": {
+            "lat": 33.6979,
+            "lng": -117.741036
+        }
+    }
+]

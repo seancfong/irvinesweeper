@@ -51,8 +51,9 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 			paths: [irvineBorder],
 			fillColor: "rgb(150,150,150)",
 			fillOpacity: 0,
-			strokeColor: "#FF2E1C",
-			strokeWeight: 5,
+			strokeColor: "#ffffff",
+			strokeOpacity: 1,
+			strokeWeight: 8,
 		});
 
 		// Click not Irvine Company listener

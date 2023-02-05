@@ -21,7 +21,7 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
     const mapOptions: google.maps.MapOptions = {
         center,
         zoom,
-		minZoom: zoom,
+		minZoom: (zoom - 1),
         disableDefaultUI: true,
         mapTypeControlOptions: {
             mapTypeIds: ["roadmap", "satellite", "hybrid", "terrain", "styled_map"],
@@ -50,9 +50,9 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 			map,
 			paths: [irvineBorder],
 			fillColor: "rgb(150,150,150)",
-			fillOpacity: 0.3,
-			strokeColor: "#EAB305",
-			strokeWeight: 8,
+			fillOpacity: 0,
+			strokeColor: "#FF2E1C",
+			strokeWeight: 5,
 		});
 
 		// Click not Irvine Company listener
@@ -110,7 +110,7 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 					map,
 					paths: community.coords,
 					fillColor: "rgb(0,0,0)",
-					fillOpacity: 0.5,
+					fillOpacity: 0,
 					strokeOpacity: 0,
 					zIndex: zInd
 				})
@@ -126,7 +126,7 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 					strokeOpacity: 0,
 					strokeWeight: 2,
 					fillColor: "#000000",
-					fillOpacity: 0.5,
+					fillOpacity: 0,
 					radius: 400,
 					zIndex: zInd
 				});
@@ -146,7 +146,7 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 					strokeOpacity: 0,
 					strokeWeight: 2,
 					fillColor: "#000000",
-					fillOpacity: 0.5,
+					fillOpacity: 0,
 					radius: 450,
 					zIndex: zInd
 				});

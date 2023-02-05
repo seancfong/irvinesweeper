@@ -6,6 +6,7 @@ import Header from '@/components/Layout/Header'
 import GameOver from '@/components/GameOver'
 import Cursor from '@/components/Cursor'
 import Footer from '@/components/Footer'
+import Rules from '@/components/Rules'
 
 type Props = {
   irvineData: any
@@ -56,6 +57,7 @@ export default function Home({ irvineData }: Props) {
             showGreeting={showGreeting}
           />
           <Overlay showGreeting={showGreeting} setShowGreeting={setShowGreeting}/> 
+          {/* <Rules isVisible={((!isGameOver && !showGreeting))}/> */}
           <GameOver isGameOver={isGameOver} setGameOver={setIsGameOver} resetGame={() => {
             setBalance(startingBalance) 
             setShowGreeting(true)

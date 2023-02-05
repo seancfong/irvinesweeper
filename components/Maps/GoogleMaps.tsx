@@ -52,7 +52,7 @@ export function GoogleMaps({ showGreeting, isActive, changeBalance, savedClicks,
     }, [ showGreeting, panControl ]);
 
     const center = { lat: 33.686830, lng: -117.779413 };
-    const zoom = 12;
+    const zoom = 13;
 
     let mapsKey = process.env["NEXT_PUBLIC_GOOGLE_MAPS_KEY"];
 
@@ -85,7 +85,7 @@ export function GoogleMaps({ showGreeting, isActive, changeBalance, savedClicks,
                             {/* @ts-ignore */}
                             {currencyFormatter.format(drawerData?.minRent)}</span>
                         </h1>
-                        <h1 className="text-2xl">oh no! this property is owned by the <span className="text-2xl text-[#FF311F]">Irvine Company</span>. Pay one month's rent!</h1>
+                        <h1 className="text-2xl">oh no! this property is owned by the <span className="text-2xl text-[#FF311F]">Irvine Company</span>. Pay one month&apos;s rent!</h1>
                     </div>
                     <button 
                     onClick={() => {

@@ -1,5 +1,6 @@
 import React, { useRef, useState } from 'react'
 import { AnimatePresence, motion, useInView } from 'framer-motion';
+import Rules from './Rules';
 
 type Props = {
 	showGreeting: boolean
@@ -14,9 +15,6 @@ const Overlay = ({ showGreeting, setShowGreeting }: Props) => {
 		<AnimatePresence>
 			{ showGreeting && (
 				<>
-					{/* <motion.div 
-						exit={{ opacity: 0,  transition: { duration: 1 , ease: 'easeInOut' } }}
-						className="absolute bg-gray-700 bg-opacity-70 top-[-100vh] left-0 w-full h-[200vh]"/> */}
 					<motion.div
 						initial={isInView ? { y: "100vh" } : false}
 						animate={{ y: 0, opacity: 1, transition: { duration: 1 , ease: 'easeInOut' } }}
@@ -33,10 +31,11 @@ const Overlay = ({ showGreeting, setShowGreeting }: Props) => {
 
 							<span className="py-5">							
 								<span className={"animate-pulse font-semibold text-gray-100 text-xl drop-shadow-lg transition delay-[1200ms] duration-[1000ms] " + (isInView ? "opacity-[100%]" : "opacity-[0%] -translate-y-32")}>
-										click anywhere to begin
+									click anywhere to begin
 								</span>
 							</span>
 					</motion.div>
+					<Rules/>
 				</>
 			)}
 		</AnimatePresence>

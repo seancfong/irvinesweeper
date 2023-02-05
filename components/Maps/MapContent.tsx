@@ -96,19 +96,28 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 
 		irvineData.map((community: any) => {
 			const { coords } = community;
-			var shape = null;
-			
-			if(community.type == "reszone"){
+			let shape = null;
+			let zInd = 0;
+			if(community.type == "residential" || community.type == "special"){
+				if(community.type == "special"){
+					zInd = 5;
+				}
+				else{
+					zInd = 3;
+				}
 				shape = new window.google.maps.Polygon({
 					// @ts-ignore
 					map,
 					paths: community.coords,
 					fillColor: "rgb(0,0,0)",
-					fillOpacity: 0,
+					fillOpacity: 0.5,
 					strokeOpacity: 0,
+					zIndex: zInd
 				})
 			}
-			else{
+			else if(community.type == "office"){
+				zInd = 1;
+				console.log("found office")
 				shape = new window.google.maps.Circle({
 					// @ts-ignore
 					map,
@@ -117,8 +126,29 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 					strokeOpacity: 0,
 					strokeWeight: 2,
 					fillColor: "#000000",
-					fillOpacity: 0,
-					radius: 450
+					fillOpacity: 0.5,
+					radius: 400,
+					zIndex: zInd
+				});
+			}
+			else{
+				if(community.type == "retail"){
+					zInd = 2;
+				}
+				else{
+					zInd = 4;
+				}
+				shape = new window.google.maps.Circle({
+					// @ts-ignore
+					map,
+					center: coords,
+					strokeColor: "#FF0000",
+					strokeOpacity: 0,
+					strokeWeight: 2,
+					fillColor: "#000000",
+					fillOpacity: 0.5,
+					radius: 450,
+					zIndex: zInd
 				});
 			}
 

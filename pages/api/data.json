@@ -1,1180 +1,1273 @@
 [
-    {
-	"name": "The Village at Irvine Spectrum",
-	"description": "Voted the Best Community in Orange County, The Village at Irvine Spectrum Center features upscale, luxury amenities. View availabilities to learn more.",
-	"address": "50 Prism",
-	"zipcode": "92618-3147",
-	"status": "WELCOME TO THE NEW VILLAGE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/thevillageatirvinespectrumcenter/delrey/photography/2034-04A_DelRey-Pool-Dusk_TheVillages_Phase2_Irvine-Apartments_EricFIggePhotos.tif?&crop=1092,0,3840,3840&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2345,
-	"maxRent": 4545,
-	"coords": {
-	    "lat": 33.6536,
-	    "lng": -117.7508
-	},
-	"promo": "$99 Deposit Special!* ",
-	"type": "apartment"
-    },
-    {
-	"name": "The Park at Irvine Spectrum",
-	"description": "The Park at Irvine Spectrum features a 2.4-acre recreation space, high-end amenities, four spas, & three pools. View available floor plans for more information.",
-	"address": "50 Prism",
-	"zipcode": "92618-3403",
-	"status": "SOCIAL LIVING IN THE HEART OF IRVINE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/graphics/websitebanners/TheParkMobileWebtext.jpg?&crop=690,0,2828,2828&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2460,
-	"maxRent": 4355,
-	"coords": {
-	    "lat": 33.65353,
-	    "lng": -117.75504
-	},
-	"promo": "$99 Security Deposit!",
-	"type": "apartment"
-    },
-    {
-	"name": "Villa Coronado",
-	"description": "Villa Coronado apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Ambazar",
-	"zipcode": "92614-8565",
-	"status": "Updated Apartment Homes With Hardwood-Style Flooring, Stainless Steel Appliances, Glass Tile Back Splash, and Garage Available*",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/villacoronado/photography/VILLA_CORONADO-EXT-AUG2017-018R.tif?&crop=582,0,3840,3840&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2445,
-	"maxRent": 3295,
-	"coords": {
-	    "lat": 33.67635,
-	    "lng": -117.833885
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Park West",
-	"description": "Park West apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "3883 Parkview Ln",
-	"zipcode": "92612-1901",
-	"status": "3 Bedrooms available now!",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/parkwest/photography/PARKWEST-EXT-POOL-JUL2018.tif?&crop=490,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2195,
-	"maxRent": 3485,
-	"coords": {
-	    "lat": 33.668667,
-	    "lng": -117.827385
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Mirasol",
-	"description": "Mirasol apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Mirasol",
-	"zipcode": "92620-0335",
-	"status": "COME HOME TO THE VILLAGE OF STONEGATE ",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/mirasol/photography/Marisol-Pool-CMF-2911.jpg?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2540,
-	"maxRent": 3295,
-	"coords": {
-	    "lat": 33.70276,
-	    "lng": -117.74124
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Woodbridge Pines",
-	"description": "Woodbridge Pines apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "115 Pinestone",
-	"zipcode": "92604-4715",
-	"status": "NATIONALLY ACCLAIMED IN CUSTOMER SERVICE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbridgepines/photography/WOODBRIDGE_PINES-INT-MAY2019-DIN-LIVRM.tif?&crop=760,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2445,
-	"maxRent": 2845,
-	"coords": {
-	    "lat": 33.683937,
-	    "lng": -117.807
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "San Leon Villa",
-	"description": "San Leon Villa apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "1 San Leon",
-	"zipcode": "92606-8221",
-	"status": "NATIONALLY ACCLAIMED IN CUSTOMER SERVICE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sanleonvilla/photography/SAN_LEON-EXT-029R-MAY2017.tif?&crop=960,0,3840,3840&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2515,
-	"maxRent": 2965,
-	"coords": {
-	    "lat": 33.685715,
-	    "lng": -117.82477
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Portola Court",
-	"description": "Portola Court apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Family Tree",
-	"zipcode": "92618-1060",
-	"status": "APARTMENTS & 3-BEDROOM TOWNHOMES ",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/portolacourt/photography/ICAC-PORTOLA_COURT-EXTERIORS-JULY2016-007R1.tif?&crop=1289,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2520,
-	"maxRent": 4795,
-	"coords": {
-	    "lat": 33.68645,
-	    "lng": -117.71668
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Sonoma at Oak Creek",
-	"description": "Sonoma apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Saint Vincent",
-	"zipcode": "92618-3900",
-	"status": "Rustic California Charm",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sonoma/photography/SONOMA-JULY2017-M3-LIV.tif?&crop=1903,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 3185,
-	"maxRent": 4150,
-	"coords": {
-	    "lat": 33.66655,
-	    "lng": -117.7894
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Cypress Village",
-	"description": "Cypress Village apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Piccolo",
-	"zipcode": "92620",
-	"status": "FIVE MINUTES AWAY FROM EVERYTHING",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/cypressvillage/cadenza/photography/Cadenza-Model-CMF-6028.jpg?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2380,
-	"maxRent": 3905,
-	"coords": {
-	    "lat": 33.69138,
-	    "lng": -117.75593
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Los Olivos at Irvine Spectrum",
-	"description": "Los Olivos at Irvine Spectrum offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "310 Gitano",
-	"zipcode": "92618",
-	"status": "Voted \"Best in OC\" four years in a row by OC Register!",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/losolivos/photography/LosOlivos-Antivo-CMF-0712.jpg?&crop=1289,0,4795,4795&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2615,
-	"maxRent": 4235,
-	"coords": {
-	    "lat": 33.64436,
-	    "lng": -117.74832
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Portola Place",
-	"description": "Portola Place apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "1000 Archway",
-	"zipcode": "92618-8847",
-	"status": "Three Bedrooms Available Now!",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/portolaplace/photography/PortolaPlace-PoolR-CMF-1987.jpg?&crop=0,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2665,
-	"maxRent": 3780,
-	"coords": {
-	    "lat": 33.6939,
-	    "lng": -117.71
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Berkeley & Columbia Court",
-	"description": "Berkeley & Columbia Court Apartment Homes in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "307 Berkeley",
-	"zipcode": "92612-4622",
-	"status": "IT'S ALL U AT UTC IRVINE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/universitytowncenter/berkeleycourt/photography/BerkeleyCourt-CMF-7019.jpg?&crop=2400,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2545,
-	"maxRent": 3065,
-	"coords": {
-	    "lat": 33.64861,
-	    "lng": -117.836174
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Park Place",
-	"description": "Located in the heart of Irvine, Park Place Apartments boasts a vibrant, luxury lifestyle in a cosmopolitan community. Explore availabilities now.",
-	"address": "3395 Michelson Dr Ste 100",
-	"zipcode": "92612-4439",
-	"status": "Modern Luxury Apartment Homes",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/parkplace/photography/BF0A9957.jpg?&crop=2240,0,4480,4480&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2530,
-	"maxRent": 3870,
-	"coords": {
-	    "lat": 33.6704,
-	    "lng": -117.84127
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "San Marino Villa",
-	"description": "San Marino Villa apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "403 San Marino",
-	"zipcode": "92614-0219",
-	"status": "NATIONALLY ACCLAIMED IN CUSTOMER SERVICE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sanmarinovilla/photography/SAN_MARINO-EXT-JAN2019-POOLDECK-A.tif?&crop=737,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2715,
-	"maxRent": 3650,
-	"coords": {
-	    "lat": 33.680775,
-	    "lng": -117.814285
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Parkwood",
-	"description": "Parkwood apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "17560 Rosa Drew Ln",
-	"zipcode": "92612-2940",
-	"status": "Relaxed Park-Style Living",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/parkwood/photography/Parkwood_Apt_0134.tif?&crop=582,0,2720,2720&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2300,
-	"maxRent": 3485,
-	"coords": {
-	    "lat": 33.65967,
-	    "lng": -117.80563
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Deerfield",
-	"description": "Deerfield Apartment Homes in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "3 Bear Paw",
-	"zipcode": "92604-3073",
-	"status": "",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/deerfield/photography/DEERFIELD-MODEL-NOV2019-13-LIV-DIN.tif?&crop=206,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2245,
-	"maxRent": 3560,
-	"coords": {
-	    "lat": 33.69513,
-	    "lng": -117.79522
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Rancho San Joaquin",
-	"description": "Rancho San Joaquin apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "20 Pergola",
-	"zipcode": "92612-1703",
-	"status": "\"Gold Design Award\" Winner",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/ranchosanjoaquin/photography/RSJ-INT2-MAY2019-LVRM.tif?&crop=1742,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2395,
-	"maxRent": 3495,
-	"coords": {
-	    "lat": 33.662296,
-	    "lng": -117.82943
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Woodbury Lane",
-	"description": "Woodbury Lane apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Simplicity",
-	"zipcode": "92620-2847",
-	"status": "Timeless Santa Barbara Charm Desirable Woodbury Address",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbury/woodburylane/photography/WoodburyLane-1Bedroom-Dining_Kitchen-CMF-4934.jpg?&crop=0,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2620,
-	"maxRent": 3895,
-	"coords": {
-	    "lat": 33.70257,
-	    "lng": -117.74671
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Cross Creek",
-	"description": "Cross Creek apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "22 Creek Rd Ste 1",
-	"zipcode": "92604-4700",
-	"status": "LOCATED CENTRAL TO AWARD-WINNING SCHOOLS",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/crosscreek/photography/CROSSCREEK-MODEL-JULY2019-LIV-KIT-DIN.tif?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2895,
-	"maxRent": 2895,
-	"coords": {
-	    "lat": 33.674362,
-	    "lng": -117.79943
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Turtle Rock Vista",
-	"description": "Turtle Rock Vista apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "3 Rockview",
-	"zipcode": "92612-3249",
-	"status": "A NATURE LOVER'S PARADISE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/turtlerockvista/photography/TRV-AUG2019-POOL-1-E.tif?&crop=0,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2920,
-	"maxRent": 3920,
-	"coords": {
-	    "lat": 33.651443,
-	    "lng": -117.81864
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Solana",
-	"description": "Solana apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "500 Estancia",
-	"zipcode": "92602-1111",
-	"status": "Rustic Early California Retreat, Stylish Northpark Setting",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/solana/photography/SOLANA-EXT-JULY2017-058.tif?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2900,
-	"maxRent": 4100,
-	"coords": {
-	    "lat": 33.726097,
-	    "lng": -117.77232
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Quail Hill",
-	"description": "Quail Hill apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "105 Quail Rdg",
-	"zipcode": "92603-0693",
-	"status": "LUXURY LIVING IN INSPIRED SURROUNDINGS",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/quailhill/quailridge/photography/QUAILRIDGEEXT-0809-002.tif?&crop=569,0,2400,2400&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2390,
-	"maxRent": 3425,
-	"coords": {
-	    "lat": 33.650497,
-	    "lng": -117.77042
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Centerpointe at Irvine Spectrum",
-	"description": "Centerpointe at Irvine Spectrum features open floor plans, saltwater pools, and premium amenities. Explore availabilities at the Centerpointe Apartments today.",
-	"address": "7725 Gateway",
-	"zipcode": "92618-1599",
-	"status": "Live in the height of luxury! Schedule a Tour Today",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/centerpointe/photography/Unit4245_14568_1_Flat.tif?&crop=2357,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2715,
-	"maxRent": 3870,
-	"coords": {
-	    "lat": 33.6572,
-	    "lng": -117.7512
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Villa Siena",
-	"description": "Villa Siena apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "25 Palatine",
-	"zipcode": "92612-7605",
-	"status": "RESORT-STYLE LIVING IN THE HEART OF IRVINE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/villasiena/photography/VillaSiena-Pool-CMF-7408.jpg?&crop=1608,0,6000,6000&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2320,
-	"maxRent": 4150,
-	"coords": {
-	    "lat": 33.66879,
-	    "lng": -117.84764
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Santa Maria",
-	"description": "Santa Maria apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "800 Santa Maria",
-	"zipcode": "92606-7699",
-	"status": "NEAR NATIONALLY HONORED BLUE RIBBON NEIGHBORHOOD SCHOOLS",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/santamaria/photography/SantaMaria-Pool-CMF-9150.jpg?&crop=1006,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 3130,
-	"maxRent": 3850,
-	"coords": {
-	    "lat": 33.69857,
-	    "lng": -117.80243
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Somerset",
-	"description": "Somerset apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "10 Marketview",
-	"zipcode": "92602-1605",
-	"status": "Stylish Italian Residence, Ideal West Irvine Setting",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/somerset/photography/SOMERSET-INT-M107-LVRM-FEB2018.tif?&crop=994,0,3744,3744&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2640,
-	"maxRent": 3625,
-	"coords": {
-	    "lat": 33.72982,
-	    "lng": -117.78151
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "San Mateo",
-	"description": "San Mateo apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Cantata",
-	"zipcode": "92606-8339",
-	"status": "GEMM COMMUNITY OF THE YEAR AWARD WINNER",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sanmateo/photography/San Mateo-CMF-1891.jpg?&crop=2227,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2315,
-	"maxRent": 3425,
-	"coords": {
-	    "lat": 33.684902,
-	    "lng": -117.81729
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Shadow Oaks",
-	"description": "Shadow Oaks apartment community in Irvine offers luxury-style amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Shadow Oaks",
-	"zipcode": "92618-4073",
-	"status": "Come see our new look!",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/shadowoaks/photography/SHADOWOAKS-EXTERIORS-SEPT2017-138.tif?&crop=0,0,3840,3840&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 3495,
-	"maxRent": 3685,
-	"coords": {
-	    "lat": 33.671417,
-	    "lng": -117.78592
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Harvard & Cornell Court",
-	"description": "Harvard & Cornell Court Apartment Homes in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "146 Berkeley",
-	"zipcode": "92612-4618",
-	"status": "IT'S ALL U AT UTC IRVINE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/universitytowncenter/harvardcourt/photography/IAC-UTC-HARVARD_COURT-JUNE2013LAMB-043.tif?&crop=623,0,2560,2560&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2515,
-	"maxRent": 3930,
-	"coords": {
-	    "lat": 33.648323,
-	    "lng": -117.83527
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Esperanza",
-	"description": "Esperanza apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Esperanza",
-	"zipcode": "92618-1775",
-	"status": "nationally acclaimed in customer service",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/esperanza/photography/IAC-ESPERANZA_APTS-0908-343.tif?&crop=654,0,2400,2400&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2525,
-	"maxRent": 3480,
-	"coords": {
-	    "lat": 33.6951,
-	    "lng": -117.7385
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Woodbury Place",
-	"description": "Woodbury Place apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Cantor",
-	"zipcode": "92620-3835",
-	"status": "Spanish Colonial Rental Townhomes in Charming Woodbury",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbury/woodburyplace/photography/WOODBURYPLACE-EXT-APR2017-002.tif?&crop=434,0,3776,3776&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 3370,
-	"maxRent": 4005,
-	"coords": {
-	    "lat": 33.69509,
-	    "lng": -117.74391
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Ambrose",
-	"description": "Ambrose Apartment Homes  in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Amherst Aisle",
-	"zipcode": "92612-4660",
-	"status": "It's all U at UTC Irvine ",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/universitytowncenter/ambrose/photography/Ambrose-Pool-CMF-7327.jpg?&crop=2400,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2395,
-	"maxRent": 3405,
-	"coords": {
-	    "lat": 33.65287,
-	    "lng": -117.83553
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Stanford Court",
-	"description": "Stanford Court Apartment Homes in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "146 Berkeley",
-	"zipcode": "92612-4618",
-	"status": "IT'S ALL U AT UTC IRVINE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/universitytowncenter/stanfordcourt/photography/Stanford-CMF-4339.jpg?&crop=336,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2520,
-	"maxRent": 3275,
-	"coords": {
-	    "lat": 33.651463,
-	    "lng": -117.84127
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Westview at Irvine Spectrum",
-	"description": "Westview at Irvine Spectrum offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "21100 Spectrum",
-	"zipcode": "92618-7314",
-	"status": "",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/westview/photography/WESTVIEW-POOL-SEPT2017-187RE.tif?&crop=1352,0,3840,3840&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2650,
-	"maxRent": 3695,
-	"coords": {
-	    "lat": 33.654552,
-	    "lng": -117.75762
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Santa Rosa",
-	"description": "Santa Rosa apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.\r\n",
-	"address": "500 Cardiff",
-	"zipcode": "92606-0870",
-	"status": "SMART RECREATIONAL LIFESTYLE, CONVENIENT WESTPARK LOCATION",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/santarosa/photography/SantaRosa-CMF-1794.jpg?&crop=0,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2675,
-	"maxRent": 4395,
-	"coords": {
-	    "lat": 33.687836,
-	    "lng": -117.80747
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Cedar Creek",
-	"description": "Cedar Creek apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "5051 Alton Pkwy Ste 10",
-	"zipcode": "92604-8615",
-	"status": "Tranquil Woodland Setting Near Woodbridge Lakes",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/cedarcreek/photography/CedarCreek-2Bedroom-CMF-1349.jpg?&crop=288,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2395,
-	"maxRent": 2805,
-	"coords": {
-	    "lat": 33.672516,
-	    "lng": -117.7958
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Avella",
-	"description": "Avella apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "6500 Roosevelt",
-	"zipcode": "92618-1776",
-	"status": "RELAXED LUXURY LIVING IN CYPRESS VILLAGE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/avella/photography/IAC-AVELLA-EXTERIOR-MARCH2015-002.tif?&crop=569,0,2400,2400&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2420,
-	"maxRent": 3925,
-	"coords": {
-	    "lat": 33.6834,
-	    "lng": -117.7505
-	},
-	"promo": "$99 Deposit Special ",
-	"type": "apartment"
-    },
-    {
-	"name": "San Marco",
-	"description": "San Marco apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "101 Veneto",
-	"zipcode": "92614-8534",
-	"status": "PRESTIGIOUS WESTPARK ADDRESS",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sanmarcovilla/photography/SanMarco-CMF-1877R.jpg?&crop=1817,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2815,
-	"maxRent": 2990,
-	"coords": {
-	    "lat": 33.679264,
-	    "lng": -117.833046
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Orchard Hills",
-	"description": "Orchard Hills apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Whispering Trl",
-	"zipcode": "92602-0800",
-	"status": "Striking Tuscan Farmhouse Design in the Village of Orchard Hills",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/orchardhills/photography/Orchard Hills-CMF-2302.jpg?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2575,
-	"maxRent": 3895,
-	"coords": {
-	    "lat": 33.7369,
-	    "lng": -117.7623
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Promenade at Irvine Spectrum",
-	"description": "The Promenade at Irvine Spectrum features open floor plans, saltwater pools, and premium amenities. Explore available homes at the Promenade Apartments today.",
-	"address": "1100 Perlita",
-	"zipcode": "92618-4816",
-	"status": "Final Phase - Now Leasing",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/promenade/photography/2130-06-afternoon-centered_Promenade-Pool-IrvineApartments_EricFiggePhotos.tif?&crop=1050,255,3579,3579&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2525,
-	"maxRent": 4615,
-	"coords": {
-	    "lat": 33.640488,
-	    "lng": -117.74537
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Woodbury Court",
-	"description": "Woodbury Court apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "1000 Payton",
-	"zipcode": "92620-3451",
-	"status": "Relaxed Santa Barbara Styling, Desirable Woodbury Location",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbury/woodburycourt/photography/WOODBURY_COURT-5611.TIF?&crop=163,0,2267,2267&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2420,
-	"maxRent": 3175,
-	"coords": {
-	    "lat": 33.693275,
-	    "lng": -117.746445
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Anacapa",
-	"description": "Anacapa apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Anacapa",
-	"zipcode": "92602-2301",
-	"status": "Come See Our New Look!",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/anacapa/photography/Anacapa-CMF-2595.jpg?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2775,
-	"maxRent": 4235,
-	"coords": {
-	    "lat": 33.726,
-	    "lng": -117.7855
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Las Palmas",
-	"description": "Las Palmas apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Las Palmas Dr",
-	"zipcode": "92602-2311",
-	"status": "Classic Mediterranean Charm At The Market Place ",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/laspalmas/photography/LAS_PALMAS-EXT-POOLDECK-SEPT2018-3.tif?&crop=764,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2555,
-	"maxRent": 3120,
-	"coords": {
-	    "lat": 33.72465,
-	    "lng": -117.787
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Serrano",
-	"description": "Serrano apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Wycliffe",
-	"zipcode": "92602-1206",
-	"status": "Relaxed Tuscan Style Near The Market Place ",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/serrano/photography/SERRANO-JUNE2018-POOL-C.tif?&crop=954,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2420,
-	"maxRent": 3085,
-	"coords": {
-	    "lat": 33.72041,
-	    "lng": -117.784904
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "San Carlo Villa",
-	"description": "San Carlo Villa apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "15 Murica Aisle",
-	"zipcode": "92614-0252",
-	"status": "CONDO STYLE APARTMENT HOMES",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sancarlovilla/photography/SanCarlo-Pool-CMF-5945.jpg?&crop=0,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 3105,
-	"maxRent": 4065,
-	"coords": {
-	    "lat": 33.682137,
-	    "lng": -117.824165
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Palmeras",
-	"description": "Palmeras apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Virtuoso",
-	"zipcode": "92620-0335",
-	"status": "COME HOME TO THE VILLAGE OF STONEGATE ",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/palmeras/photography/PALMERASEXT-1208-072.tif?&crop=362,0,2400,2400&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2495,
-	"maxRent": 3375,
-	"coords": {
-	    "lat": 33.6999,
-	    "lng": -117.7392
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Woodbury Square",
-	"description": "Woodbury Square apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Piedmont",
-	"zipcode": "92620-2840",
-	"status": "Classic Italian Style Convenient Woodbury Location",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbury/woodburysquare/photography/IAC-WOODBURY_SQUARE-EXT-LAMB-168--87R.tif?&crop=525,0,3200,3200&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2595,
-	"maxRent": 3195,
-	"coords": {
-	    "lat": 33.700714,
-	    "lng": -117.74446
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Santa Clara Apartment Homes",
-	"description": "Santa Clara apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Santa Louisa",
-	"zipcode": "92606-8852",
-	"status": "MEDITERRANEAN STYLE APARTMENT HOMES",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/santaclara/photography/IAC-SANTA_CLARA-FEB2012LAMB-LR-115-V2.jpg?&crop=0,0,1000,1000&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2565,
-	"maxRent": 3325,
-	"coords": {
-	    "lat": 33.689095,
-	    "lng": -117.8164
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Turtle Rock Canyon",
-	"description": "Turtle Rock Canyon apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Stonecliffe Aisle",
-	"zipcode": "92603-3751",
-	"status": "NEAR NATIONALLY HONORED BLUE RIBBON NEIGHBORHOOD SCHOOLS",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/turtlerockcanyon/photography/IAC-TROCKCYNAPTS-0809-006.tif?&crop=528,0,2400,2400&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2825,
-	"maxRent": 4035,
-	"coords": {
-	    "lat": 33.64385,
-	    "lng": -117.80435
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "San Paulo",
-	"description": "San Paulo apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Duranzo Aisle",
-	"zipcode": "92606-8356",
-	"status": "NATIONALLY ACCLAIMED IN CUSTOMER SERVICE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sanpaulo/photography/SAN_PAULO-INT-MODEL-LIV_DIN-OCT2108.tif?&crop=222,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2445,
-	"maxRent": 4075,
-	"coords": {
-	    "lat": 33.68486,
-	    "lng": -117.82386
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Windwood Glen",
-	"description": "Windwood Glen apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "97 Hearthstone",
-	"zipcode": "92606-7631",
-	"status": "Award-Winning Schools",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/windwoodglen/photography/WindwoodGlen-MasterBedroom-R-CMF-3686.jpg?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2420,
-	"maxRent": 3440,
-	"coords": {
-	    "lat": 33.6978,
-	    "lng": -117.7999
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Woodbridge Willows",
-	"description": "Woodbridge Willows apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "344 Knollglen",
-	"zipcode": "92614-7497",
-	"status": "RELAXING LAKESIDE LIFESTYLE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbridgewillows/photography/WOODBRIDGE_WILLOWS-INT_MODEL-KIT-JUNE2019-HHR.tif?&crop=495,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2695,
-	"maxRent": 3165,
-	"coords": {
-	    "lat": 33.669598,
-	    "lng": -117.7916
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Northwood",
-	"description": "Northwood apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "146 Roosevelt",
-	"zipcode": "92620-3608",
-	"status": "SPACIOUS RETREAT IN THE HEART OF IRVINE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/northwood/northwoodplace/photography/NWOOD_PL-INT-M1119-MAR2020-BEDRM.tif?&crop=0,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2390,
-	"maxRent": 3495,
-	"coords": {
-	    "lat": 33.69539,
-	    "lng": -117.77
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Windwood Knoll",
-	"description": "Windwood Knoll apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "2 Flagstone",
-	"zipcode": "92606",
-	"status": "BEAUTIFUL CAPE COD VILLAGE ",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/windwoodknoll/photography/IACMKT-WINDWOODKNOLL-017R.tif?&crop=770,0,3840,3840&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2480,
-	"maxRent": 3225,
-	"coords": {
-	    "lat": 33.6982,
-	    "lng": -117.7963
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Brittany",
-	"description": "Brittany apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Saint Vincent",
-	"zipcode": "92618-3900",
-	"status": "",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/brittany/photography/IAC-BRITTANY-MAY2013LAMB-037-REV.tif?&crop=0,0,4096,4096&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2515,
-	"maxRent": 3710,
-	"coords": {
-	    "lat": 33.6656,
-	    "lng": -117.7904
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Estancia",
-	"description": "Estancia apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "500 Estancia",
-	"zipcode": "92602-1111",
-	"status": "Elegant Spanish Colonial Villa, Prestigious Northpark Area",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/estancia/photography/IAC-ESTANCIA_APT_HOMES-MAY07-005.TIF?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2495,
-	"maxRent": 3415,
-	"coords": {
-	    "lat": 33.72557,
-	    "lng": -117.77493
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "San Remo Villa",
-	"description": "The Irvine Company's San Remo Villa apartments are award winning apartments in Irvine, CA. View floor plans, amenities, and our virtual tour to learn more.",
-	"address": "1011 San Remo",
-	"zipcode": "92606-8218",
-	"status": "",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sanremovilla/photography/San Remo-CMF-1957.jpg?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2645,
-	"maxRent": 3165,
-	"coords": {
-	    "lat": 33.685024,
-	    "lng": -117.81927
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Dartmouth Court",
-	"description": "Dartmouth Court Apartment Homes in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "1100 Stanford",
-	"zipcode": "92612-4630",
-	"status": "IT'S ALL U AT UTC IRVINE",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/universitytowncenter/dartmouthcourt/photography/Dartmouth-R-CMF-4504.jpg?&crop=938,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2480,
-	"maxRent": 3365,
-	"coords": {
-	    "lat": 33.6523,
-	    "lng": -117.8386
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Oak Glen ",
-	"description": "Oak Glen apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "100 Oak Gln",
-	"zipcode": "92618-4701",
-	"status": "IDEAL IRVINE LOCATION",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/oakglen/photography/OakGlen-2Bedroom-CMF-3293.jpg?&crop=2542,134,4658,4658&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2380,
-	"maxRent": 3115,
-	"coords": {
-	    "lat": 33.664024,
-	    "lng": -117.77589
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"name": "Woodbridge Villas",
-	"description": "Woodbridge Villas apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
-	"address": "10 Thunder Run #30",
-	"zipcode": "92614",
-	"status": "Lakeside Cape Cod Village in Woodbridge",
-	"image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbridgevillas/photography/IAC-WOODBRIDGEVILLAS-002-R.tif?&crop=522,0,1920,1920&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
-	"minRent": 2415,
-	"maxRent": 2785,
-	"coords": {
-	    "lat": 33.6674,
-	    "lng": -117.80853
-	},
-	"promo": "",
-	"type": "apartment"
-    },
-    {
-	"type": "commerce",
-	"name": "Alton Marketplace | Irvine Spectrum",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-18393/8e798ad74ef2cc4219b767bbe852e4f2/center-hero-altonmarketplace.jpg",
-	"coords": { "lat": 33.658102, "lng": -117.742759 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Alton Retail Center",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-18394/b864d46cbfd107b909ebd3e99af66f5a/center-hero-altonretailcenter.jpg",
-	"coords": { "lat": 33.65457, "lng": -117.738897 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Alton Square",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73447/4c5cfafdc473d4176d05dccab3e8a5ee/ShopIC_HeroImage1280x495_AltonSquare2.jpg",
-	"coords": { "lat": 33.671314, "lng": -117.78922 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Campus Plaza",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-78574/f0e4a38d41c9e3081bde465de4e3da39/center-hero-campusplaza-2021.jpg",
-	"coords": { "lat": 33.649683, "lng": -117.831678 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Crossroads",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73434/b486582b13ed3c9330af6c58f870a981/center-hero-crossroads-urbanplates.jpg",
-	"coords": { "lat": 33.684798, "lng": -117.811583 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Culver Plaza",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-36831/62331c3c08732316db374df35a5f18a7/center-hero-culverplaza-201703.jpg",
-	"coords": { "lat": 33.696175, "lng": -117.798923 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Cypress Village Shopping Center",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73438/9a30c0bd725898b4f65e2e2f60726488/center-hero-cypressvillage-2019.jpg",
-	"coords": { "lat": 33.695619, "lng": -117.764228 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Harvard Place Auto Plaza",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-18403/9a70bea056f707b727c889d7400c1cf9/center-hero-harvardplaceautoplaza.jpg",
-	"coords": { "lat": 33.677915, "lng": -117.834329 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Harvard Place Shopping Center",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-36832/6db6eb0df722e31b1bb16a911cb02f4b/center-hero-harvardplace-201702.jpg",
-	"coords": { "lat": 33.676955, "lng": -117.832645 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Lakeside Plaza",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-18367/99847104585f478c98592a1eeec59666/lakesidecenter_1280x495.jpg",
-	"coords": { "lat": 33.678963, "lng": -117.799535 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Los Olivos Apartment Village",
-	"image": "",
-	"coords": { "lat": 33.64529, "lng": -117.749301 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Los Olivos Marketplace | Irvine Spectrum",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73448/9fc438fc06f9e2f4dc56b9feb670b53a/center-hero-losolivosmarketplace-wholefoods.jpg",
-	"coords": { "lat": 33.643498, "lng": -117.743972 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Northpark Plaza",
-	"image": "https://images.ctfassets.net/l16b5usqno44/383GHgyxvsusMQl1xkksQH/4558b0619911e873d2df970415259f9c/center-hero-northpark-2020__1_.jpg",
-	"coords": { "lat": 33.721938, "lng": -117.771355 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Oak Creek Shopping Center",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73445/0d3b6ca18cc82497164fc7713784254f/center-hero-oakcreek-2020-EDITED.jpg",
-	"coords": { "lat": 33.669655, "lng": -117.786339 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Orchard Hills Chopping Center",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-36833/3228b478e965cad15bf7fb7520cbe33b/ShopIC_HeroImage1280x495_OrchardHills.jpg",
-	"coords": { "lat": 33.734224, "lng": -117.760621 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Sand Canyon Plaza",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73450/dc98a81f78f98bd3f65443b0e136c26b/center-hero-parkview-zionmart.jpg",
-	"coords": { "lat": 33.659329, "lng": -117.803111 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Quail Hill Shopping Center",
-	"image": "https://images.ctfassets.net/l16b5usqno44/vYMHq0czwxrp8vl30ApCd/bfe96138ed2420fcecaec8360241998c/Center-Hero-QuailHill__1_.jpg",
-	"coords": { "lat": 33.655191, "lng": -117.778304 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Sand Canyon Plaza",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73451/7dbbda8bdacb78648c9b66b647080a40/center-hero-sandcanyon-starbucks.jpg",
-	"coords": { "lat": 33.668867, "lng": -117.7647 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "The Park at Irvine Spectrum",
-	"image": "",
-	"coords": { "lat": 33.653451, "lng": -117.754078 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "The Square",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73444/b507429109bc1a3ac992c7dc2c8ba69f/center-hero-thesquare-2020.jpg",
-	"coords": { "lat": 33.686642, "lng": -117.855615 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "The Village at Irvine Spectrum",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-33233/71b5ff948d1cc8c8403181e7e052c0d5/center-hero-thevillageapartments.jpg",
-	"coords": { "lat": 33.653589, "lng": -117.750396 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "University Center",
-	"image": "https://images.ctfassets.net/l16b5usqno44/3kH9bLw6CJJhVXEyWxC0or/0d87c27bf8a6bbcbe4e9d89b0905f2af/Center-Hero-UniversityCenter.jpg",
-	"coords": { "lat": 33.650438, "lng": -117.838931 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "University Park Center",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-13457/b350e40e45ec2342fbfbf28da3f04c9e/universitypark_hero.jpg",
-	"coords": { "lat": 33.664423, "lng": -117.826131 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Venture Park",
-	"image": "https://images.ctfassets.net/l16b5usqno44/6V8RoR6boDzNQYbJBeVHCj/b0ea4087f480eaa5776547085b81e75b/center-hero-executivepark.jpg",
-	"coords": { "lat": 33.685182, "lng": -117.856366 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Walnut Village Center",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-75315/9bf936b58719865224518ea9fc8f98f7/center-hero-walnutvillagecenter.jpg",
-	"coords": { "lat": 33.70598, "lng": -117.787797 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Westpark Plaza",
-	"image": "https://images.ctfassets.net/l16b5usqno44/18ocppDvU7jQ5gqP1msOYB/b9c9e94e970ae1fab16e870953901a52/Center-Hero-WestparkPlaza.jpg",
-	"coords": { "lat": 33.683115, "lng": -117.814029 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Woodbridge Village Center",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-35801/4f3803359a42a045cf2fc4b2bc622b60/center-hero-woodbridgevillagecenter-201710.jpg",
-	"coords": { "lat": 33.677273, "lng": -117.799673 }
-    }
-    ,
-    {
-	"type": "commerce",
-	"name": "Woodbury Town Center",
-	"image": "https://images.ctfassets.net/l16b5usqno44/umb-media-36840/cffe2142a8d6fb39350a10d183dfc66f/center-hero-woodburytowncenter-201703.jpg",
-	"coords": { "lat": 33.6979, "lng": -117.741036 }
-    },
   {
-    "type": "reszone",
+    "type": "apartment",
+    "name": "The Village at Irvine Spectrum",
+    "description": "Voted the Best Community in Orange County, The Village at Irvine Spectrum Center features upscale, luxury amenities. View availabilities to learn more.",
+    "address": "50 Prism",
+    "zipcode": "92618-3147",
+    "status": "WELCOME TO THE NEW VILLAGE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/thevillageatirvinespectrumcenter/delrey/photography/2034-04A_DelRey-Pool-Dusk_TheVillages_Phase2_Irvine-Apartments_EricFIggePhotos.tif?&crop=1092,0,3840,3840&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2345,
+    "maxRent": 4545,
+    "coords": {
+      "lat": 33.6536,
+      "lng": -117.7508
+    },
+    "promo": "$99 Deposit Special!* "
+  },
+  {
+    "type": "apartment",
+    "name": "The Park at Irvine Spectrum",
+    "description": "The Park at Irvine Spectrum features a 2.4-acre recreation space, high-end amenities, four spas, & three pools. View available floor plans for more information.",
+    "address": "50 Prism",
+    "zipcode": "92618-3403",
+    "status": "SOCIAL LIVING IN THE HEART OF IRVINE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/graphics/websitebanners/TheParkMobileWebtext.jpg?&crop=690,0,2828,2828&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2460,
+    "maxRent": 4355,
+    "coords": {
+      "lat": 33.65353,
+      "lng": -117.75504
+    },
+    "promo": "$99 Security Deposit!"
+  },
+  {
+    "type": "apartment",
+    "name": "Villa Coronado",
+    "description": "Villa Coronado apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Ambazar",
+    "zipcode": "92614-8565",
+    "status": "Updated Apartment Homes With Hardwood-Style Flooring, Stainless Steel Appliances, Glass Tile Back Splash, and Garage Available*",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/villacoronado/photography/VILLA_CORONADO-EXT-AUG2017-018R.tif?&crop=582,0,3840,3840&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2445,
+    "maxRent": 3295,
+    "coords": {
+      "lat": 33.67635,
+      "lng": -117.833885
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Park West",
+    "description": "Park West apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "3883 Parkview Ln",
+    "zipcode": "92612-1901",
+    "status": "3 Bedrooms available now!",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/parkwest/photography/PARKWEST-EXT-POOL-JUL2018.tif?&crop=490,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2195,
+    "maxRent": 3485,
+    "coords": {
+      "lat": 33.668667,
+      "lng": -117.827385
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Mirasol",
+    "description": "Mirasol apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Mirasol",
+    "zipcode": "92620-0335",
+    "status": "COME HOME TO THE VILLAGE OF STONEGATE ",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/mirasol/photography/Marisol-Pool-CMF-2911.jpg?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2540,
+    "maxRent": 3295,
+    "coords": {
+      "lat": 33.70276,
+      "lng": -117.74124
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Woodbridge Pines",
+    "description": "Woodbridge Pines apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "115 Pinestone",
+    "zipcode": "92604-4715",
+    "status": "NATIONALLY ACCLAIMED IN CUSTOMER SERVICE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbridgepines/photography/WOODBRIDGE_PINES-INT-MAY2019-DIN-LIVRM.tif?&crop=760,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2445,
+    "maxRent": 2845,
+    "coords": {
+      "lat": 33.683937,
+      "lng": -117.807
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "San Leon Villa",
+    "description": "San Leon Villa apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "1 San Leon",
+    "zipcode": "92606-8221",
+    "status": "NATIONALLY ACCLAIMED IN CUSTOMER SERVICE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sanleonvilla/photography/SAN_LEON-EXT-029R-MAY2017.tif?&crop=960,0,3840,3840&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2515,
+    "maxRent": 2965,
+    "coords": {
+      "lat": 33.685715,
+      "lng": -117.82477
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Portola Court",
+    "description": "Portola Court apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Family Tree",
+    "zipcode": "92618-1060",
+    "status": "APARTMENTS & 3-BEDROOM TOWNHOMES ",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/portolacourt/photography/ICAC-PORTOLA_COURT-EXTERIORS-JULY2016-007R1.tif?&crop=1289,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2520,
+    "maxRent": 4795,
+    "coords": {
+      "lat": 33.68645,
+      "lng": -117.71668
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Sonoma at Oak Creek",
+    "description": "Sonoma apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Saint Vincent",
+    "zipcode": "92618-3900",
+    "status": "Rustic California Charm",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sonoma/photography/SONOMA-JULY2017-M3-LIV.tif?&crop=1903,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 3185,
+    "maxRent": 4150,
+    "coords": {
+      "lat": 33.66655,
+      "lng": -117.7894
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Cypress Village",
+    "description": "Cypress Village apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Piccolo",
+    "zipcode": "92620",
+    "status": "FIVE MINUTES AWAY FROM EVERYTHING",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/cypressvillage/cadenza/photography/Cadenza-Model-CMF-6028.jpg?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2380,
+    "maxRent": 3905,
+    "coords": {
+      "lat": 33.69138,
+      "lng": -117.75593
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Los Olivos at Irvine Spectrum",
+    "description": "Los Olivos at Irvine Spectrum offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "310 Gitano",
+    "zipcode": "92618",
+    "status": "Voted \"Best in OC\" four years in a row by OC Register!",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/losolivos/photography/LosOlivos-Antivo-CMF-0712.jpg?&crop=1289,0,4795,4795&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2615,
+    "maxRent": 4235,
+    "coords": {
+      "lat": 33.64436,
+      "lng": -117.74832
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Portola Place",
+    "description": "Portola Place apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "1000 Archway",
+    "zipcode": "92618-8847",
+    "status": "Three Bedrooms Available Now!",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/portolaplace/photography/PortolaPlace-PoolR-CMF-1987.jpg?&crop=0,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2665,
+    "maxRent": 3780,
+    "coords": {
+      "lat": 33.6939,
+      "lng": -117.71
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Berkeley & Columbia Court",
+    "description": "Berkeley & Columbia Court Apartment Homes in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "307 Berkeley",
+    "zipcode": "92612-4622",
+    "status": "IT'S ALL U AT UTC IRVINE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/universitytowncenter/berkeleycourt/photography/BerkeleyCourt-CMF-7019.jpg?&crop=2400,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2545,
+    "maxRent": 3065,
+    "coords": {
+      "lat": 33.64861,
+      "lng": -117.836174
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Park Place",
+    "description": "Located in the heart of Irvine, Park Place Apartments boasts a vibrant, luxury lifestyle in a cosmopolitan community. Explore availabilities now.",
+    "address": "3395 Michelson Dr Ste 100",
+    "zipcode": "92612-4439",
+    "status": "Modern Luxury Apartment Homes",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/parkplace/photography/BF0A9957.jpg?&crop=2240,0,4480,4480&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2530,
+    "maxRent": 3870,
+    "coords": {
+      "lat": 33.6704,
+      "lng": -117.84127
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "San Marino Villa",
+    "description": "San Marino Villa apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "403 San Marino",
+    "zipcode": "92614-0219",
+    "status": "NATIONALLY ACCLAIMED IN CUSTOMER SERVICE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sanmarinovilla/photography/SAN_MARINO-EXT-JAN2019-POOLDECK-A.tif?&crop=737,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2715,
+    "maxRent": 3650,
+    "coords": {
+      "lat": 33.680775,
+      "lng": -117.814285
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Parkwood",
+    "description": "Parkwood apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "17560 Rosa Drew Ln",
+    "zipcode": "92612-2940",
+    "status": "Relaxed Park-Style Living",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/parkwood/photography/Parkwood_Apt_0134.tif?&crop=582,0,2720,2720&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2300,
+    "maxRent": 3485,
+    "coords": {
+      "lat": 33.65967,
+      "lng": -117.80563
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Deerfield",
+    "description": "Deerfield Apartment Homes in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "3 Bear Paw",
+    "zipcode": "92604-3073",
+    "status": "",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/deerfield/photography/DEERFIELD-MODEL-NOV2019-13-LIV-DIN.tif?&crop=206,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2245,
+    "maxRent": 3560,
+    "coords": {
+      "lat": 33.69513,
+      "lng": -117.79522
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Rancho San Joaquin",
+    "description": "Rancho San Joaquin apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "20 Pergola",
+    "zipcode": "92612-1703",
+    "status": "\"Gold Design Award\" Winner",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/ranchosanjoaquin/photography/RSJ-INT2-MAY2019-LVRM.tif?&crop=1742,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2395,
+    "maxRent": 3495,
+    "coords": {
+      "lat": 33.662296,
+      "lng": -117.82943
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Woodbury Lane",
+    "description": "Woodbury Lane apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Simplicity",
+    "zipcode": "92620-2847",
+    "status": "Timeless Santa Barbara Charm Desirable Woodbury Address",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbury/woodburylane/photography/WoodburyLane-1Bedroom-Dining_Kitchen-CMF-4934.jpg?&crop=0,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2620,
+    "maxRent": 3895,
+    "coords": {
+      "lat": 33.70257,
+      "lng": -117.74671
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Cross Creek",
+    "description": "Cross Creek apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "22 Creek Rd Ste 1",
+    "zipcode": "92604-4700",
+    "status": "LOCATED CENTRAL TO AWARD-WINNING SCHOOLS",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/crosscreek/photography/CROSSCREEK-MODEL-JULY2019-LIV-KIT-DIN.tif?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2895,
+    "maxRent": 2895,
+    "coords": {
+      "lat": 33.674362,
+      "lng": -117.79943
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Turtle Rock Vista",
+    "description": "Turtle Rock Vista apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "3 Rockview",
+    "zipcode": "92612-3249",
+    "status": "A NATURE LOVER'S PARADISE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/turtlerockvista/photography/TRV-AUG2019-POOL-1-E.tif?&crop=0,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2920,
+    "maxRent": 3920,
+    "coords": {
+      "lat": 33.651443,
+      "lng": -117.81864
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Solana",
+    "description": "Solana apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "500 Estancia",
+    "zipcode": "92602-1111",
+    "status": "Rustic Early California Retreat, Stylish Northpark Setting",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/solana/photography/SOLANA-EXT-JULY2017-058.tif?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2900,
+    "maxRent": 4100,
+    "coords": {
+      "lat": 33.726097,
+      "lng": -117.77232
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Quail Hill",
+    "description": "Quail Hill apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "105 Quail Rdg",
+    "zipcode": "92603-0693",
+    "status": "LUXURY LIVING IN INSPIRED SURROUNDINGS",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/quailhill/quailridge/photography/QUAILRIDGEEXT-0809-002.tif?&crop=569,0,2400,2400&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2390,
+    "maxRent": 3425,
+    "coords": {
+      "lat": 33.650497,
+      "lng": -117.77042
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Centerpointe at Irvine Spectrum",
+    "description": "Centerpointe at Irvine Spectrum features open floor plans, saltwater pools, and premium amenities. Explore availabilities at the Centerpointe Apartments today.",
+    "address": "7725 Gateway",
+    "zipcode": "92618-1599",
+    "status": "Live in the height of luxury! Schedule a Tour Today",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/centerpointe/photography/Unit4245_14568_1_Flat.tif?&crop=2357,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2715,
+    "maxRent": 3870,
+    "coords": {
+      "lat": 33.6572,
+      "lng": -117.7512
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Villa Siena",
+    "description": "Villa Siena apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "25 Palatine",
+    "zipcode": "92612-7605",
+    "status": "RESORT-STYLE LIVING IN THE HEART OF IRVINE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/villasiena/photography/VillaSiena-Pool-CMF-7408.jpg?&crop=1608,0,6000,6000&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2320,
+    "maxRent": 4150,
+    "coords": {
+      "lat": 33.66879,
+      "lng": -117.84764
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Santa Maria",
+    "description": "Santa Maria apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "800 Santa Maria",
+    "zipcode": "92606-7699",
+    "status": "NEAR NATIONALLY HONORED BLUE RIBBON NEIGHBORHOOD SCHOOLS",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/santamaria/photography/SantaMaria-Pool-CMF-9150.jpg?&crop=1006,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 3130,
+    "maxRent": 3850,
+    "coords": {
+      "lat": 33.69857,
+      "lng": -117.80243
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Somerset",
+    "description": "Somerset apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "10 Marketview",
+    "zipcode": "92602-1605",
+    "status": "Stylish Italian Residence, Ideal West Irvine Setting",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/somerset/photography/SOMERSET-INT-M107-LVRM-FEB2018.tif?&crop=994,0,3744,3744&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2640,
+    "maxRent": 3625,
+    "coords": {
+      "lat": 33.72982,
+      "lng": -117.78151
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "San Mateo",
+    "description": "San Mateo apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Cantata",
+    "zipcode": "92606-8339",
+    "status": "GEMM COMMUNITY OF THE YEAR AWARD WINNER",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sanmateo/photography/San Mateo-CMF-1891.jpg?&crop=2227,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2315,
+    "maxRent": 3425,
+    "coords": {
+      "lat": 33.684902,
+      "lng": -117.81729
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Shadow Oaks",
+    "description": "Shadow Oaks apartment community in Irvine offers luxury-style amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Shadow Oaks",
+    "zipcode": "92618-4073",
+    "status": "Come see our new look!",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/shadowoaks/photography/SHADOWOAKS-EXTERIORS-SEPT2017-138.tif?&crop=0,0,3840,3840&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 3495,
+    "maxRent": 3685,
+    "coords": {
+      "lat": 33.671417,
+      "lng": -117.78592
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Harvard & Cornell Court",
+    "description": "Harvard & Cornell Court Apartment Homes in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "146 Berkeley",
+    "zipcode": "92612-4618",
+    "status": "IT'S ALL U AT UTC IRVINE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/universitytowncenter/harvardcourt/photography/IAC-UTC-HARVARD_COURT-JUNE2013LAMB-043.tif?&crop=623,0,2560,2560&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2515,
+    "maxRent": 3930,
+    "coords": {
+      "lat": 33.648323,
+      "lng": -117.83527
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Esperanza",
+    "description": "Esperanza apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Esperanza",
+    "zipcode": "92618-1775",
+    "status": "nationally acclaimed in customer service",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/esperanza/photography/IAC-ESPERANZA_APTS-0908-343.tif?&crop=654,0,2400,2400&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2525,
+    "maxRent": 3480,
+    "coords": {
+      "lat": 33.6951,
+      "lng": -117.7385
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Woodbury Place",
+    "description": "Woodbury Place apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Cantor",
+    "zipcode": "92620-3835",
+    "status": "Spanish Colonial Rental Townhomes in Charming Woodbury",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbury/woodburyplace/photography/WOODBURYPLACE-EXT-APR2017-002.tif?&crop=434,0,3776,3776&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 3370,
+    "maxRent": 4005,
+    "coords": {
+      "lat": 33.69509,
+      "lng": -117.74391
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Ambrose",
+    "description": "Ambrose Apartment Homes  in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Amherst Aisle",
+    "zipcode": "92612-4660",
+    "status": "It's all U at UTC Irvine ",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/universitytowncenter/ambrose/photography/Ambrose-Pool-CMF-7327.jpg?&crop=2400,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2395,
+    "maxRent": 3405,
+    "coords": {
+      "lat": 33.65287,
+      "lng": -117.83553
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Stanford Court",
+    "description": "Stanford Court Apartment Homes in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "146 Berkeley",
+    "zipcode": "92612-4618",
+    "status": "IT'S ALL U AT UTC IRVINE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/universitytowncenter/stanfordcourt/photography/Stanford-CMF-4339.jpg?&crop=336,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2520,
+    "maxRent": 3275,
+    "coords": {
+      "lat": 33.651463,
+      "lng": -117.84127
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Westview at Irvine Spectrum",
+    "description": "Westview at Irvine Spectrum offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "21100 Spectrum",
+    "zipcode": "92618-7314",
+    "status": "",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/westview/photography/WESTVIEW-POOL-SEPT2017-187RE.tif?&crop=1352,0,3840,3840&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2650,
+    "maxRent": 3695,
+    "coords": {
+      "lat": 33.654552,
+      "lng": -117.75762
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Santa Rosa",
+    "description": "Santa Rosa apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.\r\n",
+    "address": "500 Cardiff",
+    "zipcode": "92606-0870",
+    "status": "SMART RECREATIONAL LIFESTYLE, CONVENIENT WESTPARK LOCATION",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/santarosa/photography/SantaRosa-CMF-1794.jpg?&crop=0,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2675,
+    "maxRent": 4395,
+    "coords": {
+      "lat": 33.687836,
+      "lng": -117.80747
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Cedar Creek",
+    "description": "Cedar Creek apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "5051 Alton Pkwy Ste 10",
+    "zipcode": "92604-8615",
+    "status": "Tranquil Woodland Setting Near Woodbridge Lakes",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/cedarcreek/photography/CedarCreek-2Bedroom-CMF-1349.jpg?&crop=288,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2395,
+    "maxRent": 2805,
+    "coords": {
+      "lat": 33.672516,
+      "lng": -117.7958
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Avella",
+    "description": "Avella apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "6500 Roosevelt",
+    "zipcode": "92618-1776",
+    "status": "RELAXED LUXURY LIVING IN CYPRESS VILLAGE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/avella/photography/IAC-AVELLA-EXTERIOR-MARCH2015-002.tif?&crop=569,0,2400,2400&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2420,
+    "maxRent": 3925,
+    "coords": {
+      "lat": 33.6834,
+      "lng": -117.7505
+    },
+    "promo": "$99 Deposit Special "
+  },
+  {
+    "type": "apartment",
+    "name": "San Marco",
+    "description": "San Marco apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "101 Veneto",
+    "zipcode": "92614-8534",
+    "status": "PRESTIGIOUS WESTPARK ADDRESS",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sanmarcovilla/photography/SanMarco-CMF-1877R.jpg?&crop=1817,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2815,
+    "maxRent": 2990,
+    "coords": {
+      "lat": 33.679264,
+      "lng": -117.833046
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Orchard Hills",
+    "description": "Orchard Hills apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Whispering Trl",
+    "zipcode": "92602-0800",
+    "status": "Striking Tuscan Farmhouse Design in the Village of Orchard Hills",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/orchardhills/photography/Orchard Hills-CMF-2302.jpg?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2575,
+    "maxRent": 3895,
+    "coords": {
+      "lat": 33.7369,
+      "lng": -117.7623
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Promenade at Irvine Spectrum",
+    "description": "The Promenade at Irvine Spectrum features open floor plans, saltwater pools, and premium amenities. Explore available homes at the Promenade Apartments today.",
+    "address": "1100 Perlita",
+    "zipcode": "92618-4816",
+    "status": "Final Phase - Now Leasing",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/promenade/photography/2130-06-afternoon-centered_Promenade-Pool-IrvineApartments_EricFiggePhotos.tif?&crop=1050,255,3579,3579&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2525,
+    "maxRent": 4615,
+    "coords": {
+      "lat": 33.640488,
+      "lng": -117.74537
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Woodbury Court",
+    "description": "Woodbury Court apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "1000 Payton",
+    "zipcode": "92620-3451",
+    "status": "Relaxed Santa Barbara Styling, Desirable Woodbury Location",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbury/woodburycourt/photography/WOODBURY_COURT-5611.TIF?&crop=163,0,2267,2267&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2420,
+    "maxRent": 3175,
+    "coords": {
+      "lat": 33.693275,
+      "lng": -117.746445
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Anacapa",
+    "description": "Anacapa apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Anacapa",
+    "zipcode": "92602-2301",
+    "status": "Come See Our New Look!",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/anacapa/photography/Anacapa-CMF-2595.jpg?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2775,
+    "maxRent": 4235,
+    "coords": {
+      "lat": 33.726,
+      "lng": -117.7855
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Las Palmas",
+    "description": "Las Palmas apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Las Palmas Dr",
+    "zipcode": "92602-2311",
+    "status": "Classic Mediterranean Charm At The Market Place ",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/laspalmas/photography/LAS_PALMAS-EXT-POOLDECK-SEPT2018-3.tif?&crop=764,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2555,
+    "maxRent": 3120,
+    "coords": {
+      "lat": 33.72465,
+      "lng": -117.787
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Serrano",
+    "description": "Serrano apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Wycliffe",
+    "zipcode": "92602-1206",
+    "status": "Relaxed Tuscan Style Near The Market Place ",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/serrano/photography/SERRANO-JUNE2018-POOL-C.tif?&crop=954,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2420,
+    "maxRent": 3085,
+    "coords": {
+      "lat": 33.72041,
+      "lng": -117.784904
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "San Carlo Villa",
+    "description": "San Carlo Villa apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "15 Murica Aisle",
+    "zipcode": "92614-0252",
+    "status": "CONDO STYLE APARTMENT HOMES",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sancarlovilla/photography/SanCarlo-Pool-CMF-5945.jpg?&crop=0,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 3105,
+    "maxRent": 4065,
+    "coords": {
+      "lat": 33.682137,
+      "lng": -117.824165
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Palmeras",
+    "description": "Palmeras apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Virtuoso",
+    "zipcode": "92620-0335",
+    "status": "COME HOME TO THE VILLAGE OF STONEGATE ",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/palmeras/photography/PALMERASEXT-1208-072.tif?&crop=362,0,2400,2400&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2495,
+    "maxRent": 3375,
+    "coords": {
+      "lat": 33.6999,
+      "lng": -117.7392
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Woodbury Square",
+    "description": "Woodbury Square apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Piedmont",
+    "zipcode": "92620-2840",
+    "status": "Classic Italian Style Convenient Woodbury Location",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbury/woodburysquare/photography/IAC-WOODBURY_SQUARE-EXT-LAMB-168--87R.tif?&crop=525,0,3200,3200&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2595,
+    "maxRent": 3195,
+    "coords": {
+      "lat": 33.700714,
+      "lng": -117.74446
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Santa Clara Apartment Homes",
+    "description": "Santa Clara apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Santa Louisa",
+    "zipcode": "92606-8852",
+    "status": "MEDITERRANEAN STYLE APARTMENT HOMES",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/santaclara/photography/IAC-SANTA_CLARA-FEB2012LAMB-LR-115-V2.jpg?&crop=0,0,1000,1000&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2565,
+    "maxRent": 3325,
+    "coords": {
+      "lat": 33.689095,
+      "lng": -117.8164
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Turtle Rock Canyon",
+    "description": "Turtle Rock Canyon apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Stonecliffe Aisle",
+    "zipcode": "92603-3751",
+    "status": "NEAR NATIONALLY HONORED BLUE RIBBON NEIGHBORHOOD SCHOOLS",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/turtlerockcanyon/photography/IAC-TROCKCYNAPTS-0809-006.tif?&crop=528,0,2400,2400&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2825,
+    "maxRent": 4035,
+    "coords": {
+      "lat": 33.64385,
+      "lng": -117.80435
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "San Paulo",
+    "description": "San Paulo apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Duranzo Aisle",
+    "zipcode": "92606-8356",
+    "status": "NATIONALLY ACCLAIMED IN CUSTOMER SERVICE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sanpaulo/photography/SAN_PAULO-INT-MODEL-LIV_DIN-OCT2108.tif?&crop=222,0,3800,3800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2445,
+    "maxRent": 4075,
+    "coords": {
+      "lat": 33.68486,
+      "lng": -117.82386
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Windwood Glen",
+    "description": "Windwood Glen apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "97 Hearthstone",
+    "zipcode": "92606-7631",
+    "status": "Award-Winning Schools",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/windwoodglen/photography/WindwoodGlen-MasterBedroom-R-CMF-3686.jpg?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2420,
+    "maxRent": 3440,
+    "coords": {
+      "lat": 33.6978,
+      "lng": -117.7999
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Woodbridge Willows",
+    "description": "Woodbridge Willows apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "344 Knollglen",
+    "zipcode": "92614-7497",
+    "status": "RELAXING LAKESIDE LIFESTYLE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbridgewillows/photography/WOODBRIDGE_WILLOWS-INT_MODEL-KIT-JUNE2019-HHR.tif?&crop=495,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2695,
+    "maxRent": 3165,
+    "coords": {
+      "lat": 33.669598,
+      "lng": -117.7916
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Northwood",
+    "description": "Northwood apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "146 Roosevelt",
+    "zipcode": "92620-3608",
+    "status": "SPACIOUS RETREAT IN THE HEART OF IRVINE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/northwood/northwoodplace/photography/NWOOD_PL-INT-M1119-MAR2020-BEDRM.tif?&crop=0,0,5792,5792&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2390,
+    "maxRent": 3495,
+    "coords": {
+      "lat": 33.69539,
+      "lng": -117.77
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Windwood Knoll",
+    "description": "Windwood Knoll apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "2 Flagstone",
+    "zipcode": "92606",
+    "status": "BEAUTIFUL CAPE COD VILLAGE ",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/windwoodknoll/photography/IACMKT-WINDWOODKNOLL-017R.tif?&crop=770,0,3840,3840&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2480,
+    "maxRent": 3225,
+    "coords": {
+      "lat": 33.6982,
+      "lng": -117.7963
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Brittany",
+    "description": "Brittany apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Saint Vincent",
+    "zipcode": "92618-3900",
+    "status": "",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/brittany/photography/IAC-BRITTANY-MAY2013LAMB-037-REV.tif?&crop=0,0,4096,4096&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2515,
+    "maxRent": 3710,
+    "coords": {
+      "lat": 33.6656,
+      "lng": -117.7904
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Estancia",
+    "description": "Estancia apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "500 Estancia",
+    "zipcode": "92602-1111",
+    "status": "Elegant Spanish Colonial Villa, Prestigious Northpark Area",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/estancia/photography/IAC-ESTANCIA_APT_HOMES-MAY07-005.TIF?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2495,
+    "maxRent": 3415,
+    "coords": {
+      "lat": 33.72557,
+      "lng": -117.77493
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "San Remo Villa",
+    "description": "The Irvine Company's San Remo Villa apartments are award winning apartments in Irvine, CA. View floor plans, amenities, and our virtual tour to learn more.",
+    "address": "1011 San Remo",
+    "zipcode": "92606-8218",
+    "status": "",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/sanremovilla/photography/San Remo-CMF-1957.jpg?&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2645,
+    "maxRent": 3165,
+    "coords": {
+      "lat": 33.685024,
+      "lng": -117.81927
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Dartmouth Court",
+    "description": "Dartmouth Court Apartment Homes in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "1100 Stanford",
+    "zipcode": "92612-4630",
+    "status": "IT'S ALL U AT UTC IRVINE",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/universitytowncenter/dartmouthcourt/photography/Dartmouth-R-CMF-4504.jpg?&crop=938,0,4800,4800&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2480,
+    "maxRent": 3365,
+    "coords": {
+      "lat": 33.6523,
+      "lng": -117.8386
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Oak Glen ",
+    "description": "Oak Glen apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "100 Oak Gln",
+    "zipcode": "92618-4701",
+    "status": "IDEAL IRVINE LOCATION",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/oakglen/photography/OakGlen-2Bedroom-CMF-3293.jpg?&crop=2542,134,4658,4658&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2380,
+    "maxRent": 3115,
+    "coords": {
+      "lat": 33.664024,
+      "lng": -117.77589
+    },
+    "promo": ""
+  },
+  {
+    "type": "apartment",
+    "name": "Woodbridge Villas",
+    "description": "Woodbridge Villas apartment community in Irvine offers innovative amenities for your lifestyle. Find a floor plan and rent your dream home today.",
+    "address": "10 Thunder Run #30",
+    "zipcode": "92614",
+    "status": "Lakeside Cape Cod Village in Woodbridge",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/woodbridgevillas/photography/IAC-WOODBRIDGEVILLAS-002-R.tif?&crop=522,0,1920,1920&wid=600&hei=600&fit=crop&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto",
+    "minRent": 2415,
+    "maxRent": 2785,
+    "coords": {
+      "lat": 33.6674,
+      "lng": -117.80853
+    },
+    "promo": ""
+  },
+  {
+    "type": "retail",
+    "name": "Alton Marketplace | Irvine Spectrum",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-18393/8e798ad74ef2cc4219b767bbe852e4f2/center-hero-altonmarketplace.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.658102,
+      "lng": -117.742759
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Alton Retail Center",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-18394/b864d46cbfd107b909ebd3e99af66f5a/center-hero-altonretailcenter.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.65457,
+      "lng": -117.738897
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Alton Square",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73447/4c5cfafdc473d4176d05dccab3e8a5ee/ShopIC_HeroImage1280x495_AltonSquare2.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.671314,
+      "lng": -117.78922
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Campus Plaza",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-78574/f0e4a38d41c9e3081bde465de4e3da39/center-hero-campusplaza-2021.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.649683,
+      "lng": -117.831678
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Crossroads",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73434/b486582b13ed3c9330af6c58f870a981/center-hero-crossroads-urbanplates.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.684798,
+      "lng": -117.811583
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Culver Plaza",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-36831/62331c3c08732316db374df35a5f18a7/center-hero-culverplaza-201703.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.696175,
+      "lng": -117.798923
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Cypress Village Shopping Center",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73438/9a30c0bd725898b4f65e2e2f60726488/center-hero-cypressvillage-2019.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.695619,
+      "lng": -117.764228
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Harvard Place Auto Plaza",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-18403/9a70bea056f707b727c889d7400c1cf9/center-hero-harvardplaceautoplaza.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.677915,
+      "lng": -117.834329
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Harvard Place Shopping Center",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-36832/6db6eb0df722e31b1bb16a911cb02f4b/center-hero-harvardplace-201702.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.676955,
+      "lng": -117.832645
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Lakeside Plaza",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-18367/99847104585f478c98592a1eeec59666/lakesidecenter_1280x495.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.678963,
+      "lng": -117.799535
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Los Olivos Apartment Village",
+    "image": "",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.64529,
+      "lng": -117.749301
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Los Olivos Marketplace | Irvine Spectrum",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73448/9fc438fc06f9e2f4dc56b9feb670b53a/center-hero-losolivosmarketplace-wholefoods.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.643498,
+      "lng": -117.743972
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Northpark Plaza",
+    "image": "https://images.ctfassets.net/l16b5usqno44/383GHgyxvsusMQl1xkksQH/4558b0619911e873d2df970415259f9c/center-hero-northpark-2020__1_.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.721938,
+      "lng": -117.771355
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Oak Creek Shopping Center",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73445/0d3b6ca18cc82497164fc7713784254f/center-hero-oakcreek-2020-EDITED.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.669655,
+      "lng": -117.786339
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Orchard Hills Chopping Center",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-36833/3228b478e965cad15bf7fb7520cbe33b/ShopIC_HeroImage1280x495_OrchardHills.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.734224,
+      "lng": -117.760621
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Sand Canyon Plaza",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73450/dc98a81f78f98bd3f65443b0e136c26b/center-hero-parkview-zionmart.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.659329,
+      "lng": -117.803111
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Quail Hill Shopping Center",
+    "image": "https://images.ctfassets.net/l16b5usqno44/vYMHq0czwxrp8vl30ApCd/bfe96138ed2420fcecaec8360241998c/Center-Hero-QuailHill__1_.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.655191,
+      "lng": -117.778304
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Sand Canyon Plaza",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-73451/7dbbda8bdacb78648c9b66b647080a40/center-hero-sandcanyon-starbucks.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.668867,
+      "lng": -117.7647
+    }
+  },
+  {
+    "type": "retail",
+    "name": "The Park at Irvine Spectrum",
+    "image": "",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.653451,
+      "lng": -117.754078
+    }
+  },
+  {
+    "type": "retail",
+    "name": "The Village at Irvine Spectrum",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-33233/71b5ff948d1cc8c8403181e7e052c0d5/center-hero-thevillageapartments.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.653589,
+      "lng": -117.750396
+    }
+  },
+  {
+    "type": "retail",
+    "name": "University Center",
+    "image": "https://images.ctfassets.net/l16b5usqno44/3kH9bLw6CJJhVXEyWxC0or/0d87c27bf8a6bbcbe4e9d89b0905f2af/Center-Hero-UniversityCenter.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.650438,
+      "lng": -117.838931
+    }
+  },
+  {
+    "type": "retail",
+    "name": "University Park Center",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-13457/b350e40e45ec2342fbfbf28da3f04c9e/universitypark_hero.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.664423,
+      "lng": -117.826131
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Walnut Village Center",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-75315/9bf936b58719865224518ea9fc8f98f7/center-hero-walnutvillagecenter.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.70598,
+      "lng": -117.787797
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Westpark Plaza",
+    "image": "https://images.ctfassets.net/l16b5usqno44/18ocppDvU7jQ5gqP1msOYB/b9c9e94e970ae1fab16e870953901a52/Center-Hero-WestparkPlaza.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.683115,
+      "lng": -117.814029
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Woodbridge Village Center",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-35801/4f3803359a42a045cf2fc4b2bc622b60/center-hero-woodbridgevillagecenter-201710.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.677273,
+      "lng": -117.799673
+    }
+  },
+  {
+    "type": "retail",
+    "name": "Woodbury Town Center",
+    "image": "https://images.ctfassets.net/l16b5usqno44/umb-media-36840/cffe2142a8d6fb39350a10d183dfc66f/center-hero-woodburytowncenter-201703.jpg",
+    "minRent": 2500,
+    "maxRent": 3000,
+    "coords": {
+      "lat": 33.6979,
+      "lng": -117.741036
+    }
+  },
+  {
+    "type": "residential",
     "name": "Reserve at Orchard Hills",
     "image": "https://www.villagesofirvine.com/remote.axd/s3.amazonaws.com/villagesofirvine/media/395433/2.jpg?anchor=center&mode=crop&width=1440&height=600&quality=80&rnd=132167315610000000",
     "description": "Experience the prestige, natural tranquility and spectacular panoramas that distinguish this private village enclave. Stunning new home collections and a premier Irvine location heighten the extraordinary appeal of Reserve at Orchard Hills.",
+    "minRent": 3500,
+    "maxRent": 4000,
     "price": "Low $2 millions",
     "coords": [
       {
@@ -4092,10 +4185,12 @@
     ]
   },
   {
-    "type": "reszone",
+    "type": "residential",
     "name": "Portola Springs Village",
     "image": "https://www.villagesofirvine.com/remote.axd/s3.amazonaws.com/villagesofirvine/media/398423/2222-04_pool-late-day_highlandpark_irvineco_ericfiggephotos.jpg?center=0.6404494382022472,0.4943820224719101&mode=crop&width=1440&height=600&quality=80&rnd=132957233880000000",
     "description": "Nestled within nature, life within the Village of Portola Springs is enhanced by its serene location, yet close to everyday conveniences. Experience a premium Irvine address including.",
+    "minRent": 3500,
+    "maxRent": 4000,
     "price": "Mid $1 millions",
     "coords": [
       {
@@ -9965,10 +10060,12 @@
     ]
   },
   {
-    "type": "reszone",
+    "type": "residential",
     "name": "Eastwood Village",
     "image": "https://www.villagesofirvine.com/remote.axd/s3.amazonaws.com/villagesofirvine/media/395468/9.jpg?anchor=center&mode=crop&width=1440&height=600&quality=80&rnd=132167315760000000",
     "description": "Experience a welcoming and social village lifestyle, where pathways invite connection from one neighborhood to the next, and robust recreation brings opportunities for fun and adventure. Brand new homes, trails, pools and the elementary school make Eastwood one of Irvine’s most popular villages.",
+    "minRent": 3500,
+    "maxRent": 4000,
     "price": "Low $2 millions",
     "coords": [
       {
@@ -10934,6 +11031,804 @@
       {
         "lat": 33.7193601,
         "lng": -117.7405663
+      }
+    ]
+  },
+  {
+    "type": "office",
+    "name": "17032 Murphy",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Located on Murphy near Jamboree Road and McGaw Avenue, this mid-tech and manufacturing building features 21,500 SF of prime space. Centrally located in the John Wayne Airport Area, 17032 Murphy offers easy freeway access, nearby retail amenities and ample surface parking. Free up your time and streamline your success with nearby business conveniences, retail, dining and lifestyle amenities including The Market Place and Fashion Island. ",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.6864518591539,
+      "lng": -117.830076933937
+    }
+  },
+  {
+    "type": "office",
+    "name": "17221 Von Karman",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Find efficient spaces for productive solutions at 17221 Von Karman, an 87,000 SF midtech office building in the heart of the John Wayne Airport Area. Convenient freeway access, abundant retail amenities and ample surface parking make 17221 Von Karman a top choice for growing and established businesses, including KI &nbsp;Speed indoor racing. Grab lunch on-the-go from one of the many nearby quick service restaurants or head to nearby The Market Place for extensive dining and retail conveniences.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.69147435775271,
+      "lng": -117.84216274868776
+    }
+  },
+  {
+    "type": "office",
+    "name": "17421 Derian",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Located on the corner of Jamboree Road and McGaw Avenue, this office and manufacturing building offers 90,000 SF designed for maximum productivity. Centrally located in the John Wayne Airport Area, 17421 Derian offers easy freeway access, nearby retail amenities and ample surface parking. Nearby retail, dining and lifestyle amenities including The Market Place and Fashion Island free up your time and streamline your success.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.68685661013138,
+      "lng": -117.84061095106505
+    }
+  },
+  {
+    "type": "office",
+    "name": "2552 McGaw",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Located on McGaw Avenue between Von Karman and Jamboree Road, 2552 McGaw is a 36,000 SF mid-tech and manufacturing building designed to power your productive potential. A central location in the John Wayne Airport Area puts the best of Irvine at your doorstep, including nearby business necessities, convenient freeway access and abundant surface parking. Retail, dining and lifestyle amenities abound at The Market Place and Fashion Island.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.68711171148549,
+      "lng": -117.8380715436554
+    }
+  },
+  {
+    "type": "office",
+    "name": "2640 Main",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Located on Main Street near Jamboree Road, 2640 Main is a 42,500 SF single-story mid tech &nbsp;building. The central location near John Wayne Airport powers your business’s productivity by streamlining daily commutes and simplifying business travel. &nbsp;Access Orange County’s best retail, dining and lifestyle amenities at The Market Place and Fashion Island, or walk to lunch at one of the many nearby healthy and satisfying quick service restaurant options.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.68104747232759,
+      "lng": -117.84173679762269
+    }
+  },
+  {
+    "type": "office",
+    "name": "2652 McGaw",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Located on McGaw Avenue between Von Karman and Jamboree Road, 2652 McGaw features 43,500 SF of dedicated midtech space designed to maximize your productive potential. A convenient location in the heart of John Wayne Airport Area delivers time-saving conveniences, including easy freeway access, abundant nearby business amenities, a wide array of delicious dining options, and ample surface parking. Popular shopping destination The Market Place is just minutes away.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.68622664427053,
+      "lng": -117.83678706511961
+    }
+  },
+  {
+    "type": "office",
+    "name": "2712 McGaw",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Located on McGaw Avenue between Von Karman and Jamboree Road, 2717 McGaw is a 40,000 SF mid tech office building in a sought-after John Wayne Airport Area location. Businesses benefit from easy freeway access, abundant retail amenities and ample surface parking. Refresh your team for heightened productivity with &nbsp;lunch on-the-go from one of the many nearby quick service restaurants or head to nearby The Market Place for extensive dining and retail conveniences.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.685526227664575,
+      "lng": -117.83575709500035
+    }
+  },
+  {
+    "type": "office",
+    "name": "2802 Kelvin",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Harness your productive potential at 2802 Kelvin, a single-story building with 47,000 SF of midtech space. Located on Kelvin near Main Street and Jamboree Road, 2802 Kelvin &nbsp;is centrally located in the John Wayne Airport Area with easy freeway access and ample surface parking. Free up your time with nearby conveniences including a wealth of retail, dining and lifestyle amenities at The Market Place and Fashion Island, including Prego Ristorante and The Sports Club, Irvine.&nbsp;",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.68251971345999,
+      "lng": -117.83696628836059
+    }
+  },
+  {
+    "type": "office",
+    "name": "Irvine Towers",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Irvine Towers makes coming to work a powerful catalyst for meaningful connections through an immersive workplace experience, unique amenities and a convenient, central location.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.67729639274672,
+      "lng": -117.85073967704591
+    }
+  },
+  {
+    "type": "office",
+    "name": "Jamboree Center",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Jamboree Center elevates your brand to new heights with a prime location, an extensive collection of conveniences and amenities and 1.6M SF of BOMA award-winning workspace designed to attract and retain top talent.&nbsp;&nbsp;",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.67833796915532,
+      "lng": -117.83931573852897
+    }
+  },
+  {
+    "type": "office",
+    "name": "Newport Gateway",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Newport Gateway’s 12-acre campus gives teams the ideal work/life style with a wealth of on-site amenities at the intersection of all that Newport Beach and Irvine have to offer.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.6560171417285,
+      "lng": -117.85991518119812
+    }
+  },
+  {
+    "type": "office",
+    "name": "The Launch",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Maximize your brand’s momentum at The Launch, an ideally located creative community featuring award-winning architectural design steps from John Wayne Airport.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.67705607214597,
+      "lng": -117.85981542041732
+    }
+  },
+  {
+    "type": "office",
+    "name": "140 &amp; 142 Technology Park",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Office and office/warehouse space is available and with benefits from nearby freeway access, abundant surface parking, and many retail amenities close by.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.664633714583985,
+      "lng": -117.74467502712201
+    }
+  },
+  {
+    "type": "office",
+    "name": "152 Technology",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "152 Technology offers an ideal combination of a high image two-story single tenant building with R&amp;D/Warehouse areas.&nbsp;Centrally located on Technology Drive and Alton Parkway, the property offers both office and office/warehouse space and benefits from an excellent proximity to freeways and nearby retail amenities.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.6653711289107,
+      "lng": -117.74594761376989
+    }
+  },
+  {
+    "type": "office",
+    "name": "15800 Alton",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "15800 Alton features an ideal mix of one- and two-story, single-use and multi-tenant buildings. Conveniently located between the 405 and 133 Freeways, both buildings offer superior visibility with prominent building signage and ample surface parking. Office and office/warehouse suites are available starting at 1,200 square feet.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.657173863452755,
+      "lng": -117.76201802117922
+    }
+  },
+  {
+    "type": "office",
+    "name": "19 &amp; 21 Technology Drive",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "With approximately 130K SF of combined office space, 19 and 21 Technology Drive offer an attractive campus-like setting with abundant parking and excellent freeway access adjacent to Irvine Spectrum Center.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65042103456911,
+      "lng": -117.73816096560668
+    }
+  },
+  {
+    "type": "office",
+    "name": "20-40 Pacifica",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "State-of-the-art amenities, elegant design and an unrivaled Irvine Spectrum location combine at 20•40 Pacifica, two 15-story travertine towers along the Spectrum Skyline.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.6506657056977,
+      "lng": -117.75068587403165
+    }
+  },
+  {
+    "type": "office",
+    "name": "200 Spectrum Center",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Teams thrive at 200 Spectrum Center, walking distance from Irvine Spectrum Center and boasting panoramic views, abundant amenities and convenient connectivity to Orange County and beyond.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65289896623216,
+      "lng": -117.74787245703895
+    }
+  },
+  {
+    "type": "office",
+    "name": "25-29 Technology",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Ideally situated on Technology Drive, this five-building campus-office complex offers approximately 168,000 square feet of space. The property benefits from excellent freeway access and visibility and offers tenants ample surface parking. Additionally, many retail amenities are nearby and within walking distance.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.652283275618686,
+      "lng": -117.73994176322908
+    }
+  },
+  {
+    "type": "office",
+    "name": "3 Morgan",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Located off Alton Parkway, 3 Morgan offers 41K+ SF of office and warehouse space minutes from Irvine Spectrum Center.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65449472087874,
+      "lng": -117.71424150793436
+    }
+  },
+  {
+    "type": "office",
+    "name": "400 Spectrum Center Drive",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "400 Spectrum Center, one of six buildings transforming the Irvine Spectrum skyline, offers convenient commuting, on-site dining and abundant amenities with unrivaled walkability to Irvine Spectrum Center.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65438654784697,
+      "lng": -117.74561762809707
+    }
+  },
+  {
+    "type": "office",
+    "name": "5 &amp; 9 Pasteur",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Conveniently located off Alton Parkway, 5 &amp; 9 Pasteur is a complex of low-rise buildings with customizable office and office/warehouse suites, visible signage opportunities and ample parking in the heart of Irvine Spectrum.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65407846973054,
+      "lng": -117.76395310221154
+    }
+  },
+  {
+    "type": "office",
+    "name": "7 Morgan",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "7 Morgan is a two-story, single-tenant workplace in a high-visibility location at the corner of Alton Parkway and Morgan in the heart of Irvine Spectrum.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.653737632312776,
+      "lng": -117.71360278129553
+    }
+  },
+  {
+    "type": "office",
+    "name": "9601 Jeronimo",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Conveniently located near Bake Parkway and Jeronimo, 9601 Jeronimo is home to 40K SF of office and warehouse space boasting convenient commuting and building-top signage opportunities minutes from Irvine Spectrum Center.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.6490710728227,
+      "lng": -117.71579854554358
+    }
+  },
+  {
+    "type": "office",
+    "name": "9801 Muirlands",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "9801 Muirlands features an ideal location near Bake Parkway and the 5 Freeway. This freestanding, mid-tech building offers approximately 152,000 square feet of space with attractive landscaping at the perimeter and ample surface parking.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.6439287283096,
+      "lng": -117.71935385248051
+    }
+  },
+  {
+    "type": "office",
+    "name": "Alton Corporate Center",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Experience unparalleled convenience at Alton Corporate Center, where seamless commutes and access to Irvine Spectrum meet unlimited customization opportunities.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65816942680789,
+      "lng": -117.76709586508174
+    }
+  },
+  {
+    "type": "office",
+    "name": "Alton Plaza",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Innovation starts at Alton Plaza, an R&amp;D campus with a prime location in the tech hub of Irvine minutes from Orange County’s best shopping, dining and entertainment.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65087087550561,
+      "lng": -117.73399075493217
+    }
+  },
+  {
+    "type": "office",
+    "name": "Alton-Ada",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Located at the intersection of two prominent streets, Alton/Ada is a convenient, mid-tech campus offering seamless commutes and an Irvine Spectrum location talent loves.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65414899864511,
+      "lng": -117.73665095239232
+    }
+  },
+  {
+    "type": "office",
+    "name": "Alton-Jeronimo Business Park",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Alton Jeronimo Business Park’s four mid-tech and manufacturing buildings provide convenience and flexibility with customizable workspaces, attentive service teams and a convenient Irvine Spectrum location.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65180343188884,
+      "lng": -117.71980886640883
+    }
+  },
+  {
+    "type": "office",
+    "name": "Alton-Technology",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "This eight-building campus-office complex at the corner of Alton and Technology offers tenants an ideal office location in the heart of Irvine Spectrum®. With ground-level loading, plentiful parking, and available signage opportunities, businesses seeking prime productivity &nbsp;will be drawn to the many on-site amenities.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.650901061392446,
+      "lng": -117.73667067193514
+    }
+  },
+  {
+    "type": "office",
+    "name": "Bake Technology Park",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Bake Technology Park is comprised of seven mid-tech buildings that are located in close proximity to Irvine Spectrum®. With approximately 417,000 square feet of workspace, the buildings are served by abundant surface parking.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65253878187051,
+      "lng": -117.70748175241533
+    }
+  },
+  {
+    "type": "office",
+    "name": "Barranca",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Featuring an ideal mix of one- and two-story, multi-tenant office buildings, this property is centrally located on Barranca Parkway. With office and warehouse space currently available, the building is within walking distance of the Irvine Transportation Center and nearby retail amenities.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.66005298854388,
+      "lng": -117.73848536952511
+    }
+  },
+  {
+    "type": "office",
+    "name": "Corporate Business Center",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "This impressive 500,000 SF business park integrates campus-style office buildings with warehouse space and offers sought-after frontage along the 5 Freeway. A convenient location in the heart of Irvine Spectrum boosts talent recruitment and retention. Employees benefit from easy access to the 5, 405 and 133 Freeways and the 241 Toll Road as well as the Irvine Station Transportation Hub. Adjacent to Irvine Home Center and minutes from more than 175+ stores, restaurants and entertainment venues at Irvine Spectrum Center®.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.66327713929312,
+      "lng": -117.74702529367111
+    }
+  },
+  {
+    "type": "office",
+    "name": "Discovery Park",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "&nbsp;",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.667461003742986,
+      "lng": -117.75898946292114
+    }
+  },
+  {
+    "type": "office",
+    "name": "Discovery-Waterworks",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Discovery/Waterworks is an attractive campus-office project that is conveniently located near Irvine Center Drive and Sand Canyon Road. Ample surface parking and adjacent retail amenities at Sand Canyon Plaza further enhance the value of tenancy at this property.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.66389440952097,
+      "lng": -117.75932235980217
+    }
+  },
+  {
+    "type": "office",
+    "name": "Fairbanks Industrial Park",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "With approximately 295,000 square feet of manufacturing and distribution space, Fairbanks Industrial Park is designed for scalability. Irvine Company’s signature&nbsp;Workspace Flexibility suites are newly renovated and offer streamlined leasing for &nbsp;immediate occupancy and no hassle move-in. The four-building complex is an ideal mix of office, assembly, manufacturing and warehouse space, and is served by abundant surface parking. Prime location near Irvine Station and Alton Tech Retail Center.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65972334021924,
+      "lng": -117.71309503837618
+    }
+  },
+  {
+    "type": "office",
+    "name": "Freeway Technology Park",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Unleash your productive potential at Freeway Technology Park, a ten building mix of two-story campus-style and mid-tech offices with approximately 346,000 square feet of office space. From Irvine Company’s signature concierge-style services to Flex Workspace+® offices, productivity and efficiency is in Freeway Technology Park’s DNA. Essential time-saving conveniences minimize daily disruptions and WiFi-enabled outdoor workspaces power productivity beyond the everyday office. Exclusive building signage opportunities along Technology Drive elevate your brand. Recruit and retain top talent with a sought-after location in the heart of Irvine Spectrum®, Orange County’s premier master-planned community with a coveted mix of residential and retail. At Freeway Technology Park, your space is your success.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.66561977175183,
+      "lng": -117.75012021166992
+    }
+  },
+  {
+    "type": "office",
+    "name": "Hubble Industrial Park",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Four, single story industrial buildings offer a variety of suites for office and office/warehouse users to boost productivity and maximize space. Conveniently located near Irvine Center Drive and Bake Parkway, Hubble Industrial Park is located in the heart of Irvine Spectrum, a master-planned community that mixes residential, office and retail with abundant amenities and easy access to the 5, 405, and 133 Freeways and near the 241 Toll Road.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.64249774372748,
+      "lng": -117.73979134854886
+    }
+  },
+  {
+    "type": "office",
+    "name": "Innovation Office Park",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "With space for small to enterprise teams in a open-air, village-like setting, we’ve redefined the creative office to be a workplace where innovators experience more.&nbsp;",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.67753611053994,
+      "lng": -117.76011021180955
+    }
+  },
+  {
+    "type": "office",
+    "name": "Irvine Business Center",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Redefine efficiency at Irvine Business Center. Close to everything but far from standard, this collection of 10, two-story office buildings set in an energizing campus-style environment is just minutes from Irvine Spectrum Center®. Your guests will enjoy the convenience of the nearby Courtyard Marriott, while access to the 5, 405, 133, and 241 Toll Road makes commuting easy so you can attract top talent. At The Commons, Irvine Business Center’s vibrant outdoor workspace, your teams will discover productivity beyond the everyday office. Featuring flexible floorplans that bring your ideal workspace to life,&nbsp;Irvine Business Center has everything your company needs to redefine efficiency.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.6612462011335,
+      "lng": -117.75098564683533
+    }
+  },
+  {
+    "type": "office",
+    "name": "Irvine Business Park",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Ideally located on Alton Parkway, Irvine Business Park offers multi-tenant units from approximately 1,200 to 5,000 SF. Two mid-tech buildings offer an additional 100,000 SF of office space. The entire business park benefits from unique architectural details, beautiful landscaping, and ample surface parking. Minutes from Irvine Spectrum Center, Sand Canyon Plaza, Woodbridge Village Center and Oak Creek Golf Club.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65092616647888,
+      "lng": -117.72172330821228
+    }
+  },
+  {
+    "type": "office",
+    "name": "Jenner Business Park",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Your space, your success: discover Jenner Business Park, featuring an ideal mix of one- and two-story, single- and multi-tenant buildings for office and office/warehouse suites. Conveniently located near the 405 and 133 Freeways, sought-after building top signage opportunities boost brand visibility. Jenner Business Park provides office/R&amp;D/Manufacturing suites. Streamline your path to success with ample surface parking and freeway access.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65533728464487,
+      "lng": -117.76638157077828
+    }
+  },
+  {
+    "type": "office",
+    "name": "Jeronimo 5 &amp; 6",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Inspire your productive potential at 5 and 6 Jeronimo, a three-building industrial park offering 200,000+ SF of manufacturing and mid-tech facilities, suitable for combination office, R&amp;D manufacturing and warehouse. Ideally located on the corner of Bake and Jeronimo, coveted building top signage opportunities boost brand visibility. Beautifully landscaped grounds refresh your team for better results. Abundant surface parking and easy access to Irvine Station simplify commuting for heightened productivity.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.64751854626765,
+      "lng": -117.71642261111487
+    }
+  },
+  {
+    "type": "office",
+    "name": "Laguna Canyon",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "With a sought-after location near Irvine Center Drive and Sand Canyon Avenue, Laguna Canyon is an ideal choice for corporate headquarters. The property’s three-building arrangement is suitable for office, manufacturing and/or distribution and offers abundant surface parking, building top signage opportunities, and convenient access to the adjacent dining and retail amenities at<a href=\"http://www.shopneighborhoodcenters.com/NeighborhoodCenters/Center/Sand_Canyon_Plaza.aspx\"> Sand Canyon Plaza</a>. Enjoy the benefits of a prime business location in the heart of Irvine Spectrum.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.664267903776214,
+      "lng": -117.75980694442728
+    }
+  },
+  {
+    "type": "office",
+    "name": "Lakeview Business Center",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Lakeview Business Center is a productivity-enhancing campus in Irvine Spectrum® with a unique mix of 17 two-story business and mid-tech workspaces and transformed outdoor spaces coming in 2023.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.658374102255614,
+      "lng": -117.73946270765641
+    }
+  },
+  {
+    "type": "office",
+    "name": "Oak Canyon Business Center",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Every space counts at Oak Canyon Business Center, a four-building office park with approximately 418,000 SF of manufacturing space designed to power your productivity. &nbsp;Located on Sand Canyon Avenue, just off of the 5 Freeway, Oak Canyon Business Center is only minutes from <a href=\"http://www.shopneighborhoodcenters.com/NeighborhoodCenters/Center/Oak_Creek_Shopping_Center.aspx\">Oak Creek® Shopping Center</a> and<a href=\"http://www.oakcreekgolfclub.com/\"> Oak Creek Golf Club®</a>. Abundant surface parking and easy access to the 5, 405 and 133 Freeways, the 241 Toll Road and Irvine Station makes Oak Canyon Business Center an ideal business location.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.67564119504626,
+      "lng": -117.76213719105014
+    }
+  },
+  {
+    "type": "office",
+    "name": "Oak Creek Business Center",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Your space is your success at Oak Creek Business Center, a campus comprised of four, two-story buildings and is just minutes away from local amenities including Oak Creek Golf Course and Irvine Spectrum Center®, allowing customers and employees convenient access to 150+ shops, restaurants, and entertainment options. Abundant outdoor workspace, surface parking, and modern amenities keep your teams inspired and engaged.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.6757817728568,
+      "lng": -117.76778059001526
+    }
+  },
+  {
+    "type": "office",
+    "name": "One Technology Park",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Presenting an ideal mix of 10, one- and two-story buildings, One Technology Park is perfect for single- or multi-tenant users. Nestled in a park-like setting near the corner of Technology Drive and Alton Parkway, the property is freeway-close and sits near numerous retail amenities.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.64724736056925,
+      "lng": -117.73419451451088
+    }
+  },
+  {
+    "type": "office",
+    "name": "Parker Technology Center",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Parker Technology Center is a four-building business center featuring a unique mix of industrial and R&amp;D space, conveniently located at the intersection of Irvine Boulevard and Bake Parkway minutes from Irvine Spectrum Center.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.656799777356426,
+      "lng": -117.70278589549255
+    }
+  },
+  {
+    "type": "office",
+    "name": "Sand Canyon Business Center",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "At Sand Canyon Business Center, innovative and connected workplace design invites seamless work-life integration at the heart of Irvine Spectrum®. The campus features over 665,000 square feet of flexible office space over seven buildings. The indoor-outdoor building design brings the entire workplace community together in a social, creative, and inspiring environment. The collection of integrated amenity experiences seamlessly combines to build a workplace community that draws out the best in people and empower businesses to thrive.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.66870722299039,
+      "lng": -117.76897227514681
+    }
+  },
+  {
+    "type": "office",
+    "name": "Spectrum Court",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Striking architecture, plentiful amenities and an unbeatable Irvine Spectrum location make Spectrum Court a workplace that attracts talent and supports success.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65629412360511,
+      "lng": -117.7539462724917
+    }
+  },
+  {
+    "type": "office",
+    "name": "Spectrum Terrace",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Spectrum Terrace is a 1.1M SF connected campus designed for how teams work best. Indoor-outdoor experiences, resort-like amenities, vast outdoor spaces and elevated workplace wellness make coming to work worth it.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.647693462988286,
+      "lng": -117.76555682065587
+    }
+  },
+  {
+    "type": "office",
+    "name": "Technology Link",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Minutes from Irvine Spectrum Center, Technology Link offers a versatile mix of office and warehouse space enhanced with amenities like grab-and-go dining, outdoor workspace and a meeting and event space with adjoining lounge.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.65223670747764,
+      "lng": -117.73698604495237
+    }
+  },
+  {
+    "type": "office",
+    "name": "Tripointe",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Designed with productivity in mind, Tripointe’s industrial workspaces feature expansive warehouses and are enhanced by on-site dining, outdoor workspace and a convenient Irvine Spectrum location.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.6616244649643,
+      "lng": -117.70761013624566
+    }
+  },
+  {
+    "type": "office",
+    "name": "Market Place Center",
+    "image": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/office/3-readytopublish/miscellaneous/websitegraphics/TourYourWayFormHeader.jpg?&crop=155,955,2250,844&wid=450&iccEmbed=1&icc=AdobeRGB&resMode=sharp2&fmt=pjpeg&pscan=auto&imbypass=on&qlt=85",
+    "description": "Surround your business in success at Market Place Center, a&nbsp;22-building campus community&nbsp;with 1.3 million square feet of creative, vibrant workspace designed for efficiency. Conveniently located along the 5 freeway between Jamboree and Culver, this campus-office community offers convenient surface parking and easy access to John Wayne Airport. Freeway frontage and great visibility from the 5 are its hallmarks. Enjoy an energizing Cafe 350 breakfast or lunch in the revitalized soft-seating dining area, which features complimentary WiFi and shaded, outdoor lounge.",
+    "minRent": 2000,
+    "maxRent": 2500,
+    "coords": {
+      "lat": 33.7158056584151,
+      "lng": -117.78606685186764
+    }
+  },
+  {
+    "type": "special",
+    "name": "UC Irvine",
+    "description": "Fun Fact: In 1960, the Irvine Company sold UC Irvine's original 650 acres for a single dollar!",
+    "image": "https://images.squarespace-cdn.com/content/v1/5b60d4fa70e802968763e7f5/1541535694073-8OV0F18LINCDCSY9V6VA/Campus.jpg?format=1500w",
+    "minRent": 1,
+    "maxRent": 1,
+    "coords": [
+      {
+        "lat": 33.6546773,
+        "lng": -117.8447907
+      },
+      {
+        "lat": 33.6525697,
+        "lng": -117.8469793
+      },
+      {
+        "lat": 33.6511407,
+        "lng": -117.8501122
+      },
+      {
+        "lat": 33.6506049,
+        "lng": -117.8526013
+      },
+      {
+        "lat": 33.650069,
+        "lng": -117.8587381
+      },
+      {
+        "lat": 33.6498189,
+        "lng": -117.8611414
+      },
+      {
+        "lat": 33.6449603,
+        "lng": -117.8598539
+      },
+      {
+        "lat": 33.6423879,
+        "lng": -117.8592531
+      },
+      {
+        "lat": 33.6400299,
+        "lng": -117.8574078
+      },
+      {
+        "lat": 33.6373859,
+        "lng": -117.8544466
+      },
+      {
+        "lat": 33.634992,
+        "lng": -117.8516142
+      },
+      {
+        "lat": 33.6339558,
+        "lng": -117.8498547
+      },
+      {
+        "lat": 33.6314546,
+        "lng": -117.8420441
+      },
+      {
+        "lat": 33.6330268,
+        "lng": -117.8383104
+      },
+      {
+        "lat": 33.6338129,
+        "lng": -117.8347485
+      },
+      {
+        "lat": 33.6340273,
+        "lng": -117.8295986
+      },
+      {
+        "lat": 33.6345633,
+        "lng": -117.8274529
+      },
+      {
+        "lat": 33.6354565,
+        "lng": -117.8263371
+      },
+      {
+        "lat": 33.64028,
+        "lng": -117.8229897
+      },
+      {
+        "lat": 33.6422808,
+        "lng": -117.8222172
+      },
+      {
+        "lat": 33.644603,
+        "lng": -117.8221743
+      },
+      {
+        "lat": 33.6471396,
+        "lng": -117.8231184
+      },
+      {
+        "lat": 33.6498904,
+        "lng": -117.8246634
+      },
+      {
+        "lat": 33.6477469,
+        "lng": -117.8340189
+      },
+      {
+        "lat": 33.6475683,
+        "lng": -117.8355209
+      },
+      {
+        "lat": 33.6476755,
+        "lng": -117.8368942
+      },
+      {
+        "lat": 33.6483542,
+        "lng": -117.8389113
+      },
+      {
+        "lat": 33.6501405,
+        "lng": -117.8415291
+      },
+      {
+        "lat": 33.6511407,
+        "lng": -117.8422157
+      },
+      {
+        "lat": 33.6523911,
+        "lng": -117.8424303
+      },
+      {
+        "lat": 33.6536057,
+        "lng": -117.8432457
+      },
+      {
+        "lat": 33.6546773,
+        "lng": -117.8447907
       }
     ]
   }

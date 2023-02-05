@@ -22,7 +22,7 @@ const GameOver = ({ isGameOver, setGameOver, resetGame }: Props) => {
                 }}
                 className="absolute bg-gray-700 bg-opacity-70 top-0 left-0 font-josefin w-full h-full flex flex-col justify-center items-center">
                     <h2 className={"text-4xl text-white font-bold tracking-widest uppercase drop-shadow-lg transition duration-1000 ease-in-out "}>
-                            Game Over
+                            you lose.
                     </h2>
                     <span className="overflow-hidden">
                         <h2 className={"text-md text-white font-medium tracking-wider uppercase drop-shadow-lg transition delay-[500ms] duration-[1000ms] ease-in-out "}>you failed to escape the irvine company</h2>

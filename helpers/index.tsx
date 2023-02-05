@@ -1,6 +1,6 @@
 export const getCircleFill = (miles: number) : string => {
 	if (0 < miles && miles < 0.8) {
-        return "rgba(250,30,30)"; // red
+        return "rgba(250,120,30)"; // orange
     } else if (miles < 1.3) {
         return "rgba(250,250,30)"; // yellow
     }

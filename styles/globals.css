@@ -10,6 +10,12 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: "Josefin";
+    src: url('/fonts/JosefinSans-Italic.ttf');
+    font-weight: 300;
+    font-style: italic;
+}
 
 .c--clicked {
     transform: translate(-50%, -50%) scale(0.5);

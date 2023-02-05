@@ -126,7 +126,7 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 					strokeColor: "#FF0000",
 					strokeOpacity: 0,
 					strokeWeight: 2,
-					fillColor: "#000000",
+					fillColor: "#FF0000",
 					fillOpacity: 0,
 					radius: 400,
 					zIndex: zInd
@@ -158,6 +158,17 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 				shape.addListener("click", (mapsMouseEvent: any) => {					
 					setDrawerData(community);
 					setIsDrawerOpen(true);
+
+					const circle = new google.maps.Circle({
+						center: mapsMouseEvent.latLng,
+						map: map,
+						fillColor: "#FF0000",
+						fillOpacity: 0.7,
+						strokeOpacity: 0,
+						radius: 450,
+					});
+					// @ts-ignore
+					setSavedClicks(savedClicks => [...savedClicks, circle]);
 				});
 			}
 

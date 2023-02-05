@@ -1,14 +1,13 @@
 import React, { useRef, useState } from 'react'
 import { AnimatePresence, motion, useInView } from 'framer-motion';
-import Rules from './Rules';
 
 type Props = {
 	showGreeting: boolean
 	setShowGreeting: any
+	setShowRules: any
 }
 
-const Overlay = ({ showGreeting, setShowGreeting }: Props) => {
-    const [ showRules, setShowRules ] = useState(false);
+const Overlay = ({ showGreeting, setShowGreeting, setShowRules }: Props) => {
 	const sectionRef = useRef(null);
 	const isInView = useInView(sectionRef, {once: true});
 
@@ -19,10 +18,14 @@ const Overlay = ({ showGreeting, setShowGreeting }: Props) => {
 					<motion.div
 						initial={isInView ? { y: "100vh" } : false}
 						animate={{ y: 0, opacity: 1, transition: { duration: 1 , ease: 'easeInOut' } }}
-						exit={{ y: "-100vh", opacity: 0, transition: { duration: 1 , ease: 'easeInOut' } }}
+						exit={{ y: "-100vh", transition: { duration: 1 , ease: 'easeInOut' } }}
 						ref={sectionRef}
 						className="absolute bg-gray-700 bg-opacity-70 top-0 left-0 font-josefin w-full h-screen flex flex-col justify-center items-center" 
-						onClick={() => {setShowGreeting(false)}}>
+						onClick={() => {
+							setShowGreeting(false)
+							setShowRules(true)
+						}
+						}>
 							<div 
 								
 								className="text-center break-words flex flex-col items-center">

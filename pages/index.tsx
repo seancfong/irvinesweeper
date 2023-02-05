@@ -21,6 +21,7 @@ export default function Home({ irvineData }: Props) {
   const [ savedClicks, setSavedClicks ] = useState([]);
   const [ isDrawerOpen, setIsDrawerOpen ] = useState(false);
   const [ balanceDelta, setBalanceDelta ] = useState(0);
+  const [ showRules, setShowRules ] = useState(false);
 
   const changeBalance = (changeBy: number) => {
     setBalanceDelta(changeBy);
@@ -53,11 +54,11 @@ export default function Home({ irvineData }: Props) {
             setSavedClicks={setSavedClicks}
             isDrawerOpen={isDrawerOpen}
             setIsDrawerOpen={setIsDrawerOpen}
-            isActive={(!isGameOver && !showGreeting)}
+            isActive={(!(isGameOver || showGreeting || showRules))}
             showGreeting={showGreeting}
           />
-          <Overlay showGreeting={showGreeting} setShowGreeting={setShowGreeting}/> 
-          {/* <Rules isVisible={((!isGameOver && !showGreeting))}/> */}
+          <Overlay setShowRules={setShowRules} showGreeting={showGreeting} setShowGreeting={setShowGreeting}/> 
+          <Rules showRules={showRules} setShowRules={setShowRules} setShowGreeting={setShowGreeting}/>
           <GameOver isGameOver={isGameOver} setGameOver={setIsGameOver} resetGame={() => {
             setBalance(startingBalance) 
             setShowGreeting(true)
@@ -67,8 +68,8 @@ export default function Home({ irvineData }: Props) {
             setSavedClicks([])
           }}/>
           <div className={"absolute top-0 left-0 h-full w-full shadow-[inset_0px_0px_150px_50px_rgba(0,0,0,0.5)] pointer-events-none transition duration-1000 delay-500 " 
-          + ((!isGameOver && !showGreeting) ? "scale-100" : "scale-125")}/>
-          <Footer isVisible={(!isGameOver && !showGreeting)}/>
+          + ((!(isGameOver || showGreeting || showRules)) ? "scale-100" : "scale-125")}/>
+          <Footer isVisible={(!(isGameOver || showGreeting || showRules))}/>
 
         </div>
       </main>

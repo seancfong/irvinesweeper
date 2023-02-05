@@ -14,7 +14,7 @@ const Balance = ({ balance, delta }: Props) => {
   useEffect(() => {
     if (delta < 0 && balance < 10000) {
       deltaControls.start({ 
-        y: [10, 40, 60],
+        y: [-20, 40, 60],
         opacity: [0, 1, 1, 0],
         transition: {delay: 0.5, duration: 2.5, ease: 'easeInOut'} 
       })
@@ -27,7 +27,7 @@ const Balance = ({ balance, delta }: Props) => {
     else if(delta > 0){
       deltaControls.start({ 
         y: [20, -60],
-        rotate: [0, 30],
+        rotate: [0, 3],
         opacity: [0.5, 1, 1, 0],
         transition: {delay: 0.2, duration: 2, ease: 'easeInOut'} 
       })

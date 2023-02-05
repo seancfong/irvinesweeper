@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '@/styles/Home.module.css'
 import { GoogleMaps } from '@/components/Maps/GoogleMaps'
+import Overlay from '@/components/Overlay'
 
 export default function Home() {
   return (
@@ -13,7 +14,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <GoogleMaps/>
+        <div className="relative h-screen w-full">
+          <GoogleMaps/>
+          <Overlay/>
+        </div>
       </main>
     </>
   )

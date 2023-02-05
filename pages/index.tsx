@@ -11,7 +11,7 @@ type Props = {
   irvineData: any
 }
 
-const startingBalance = 2300; 
+const startingBalance = 10000; 
 
 export default function Home({ irvineData }: Props) {
   const [ balance, setBalance ] = useState(startingBalance);
@@ -21,7 +21,7 @@ export default function Home({ irvineData }: Props) {
   const [ isDrawerOpen, setIsDrawerOpen ] = useState(false);
   const [ balanceDelta, setBalanceDelta ] = useState(0);
 
-  const changeBalance = (changeBy : number) => {
+  const changeBalance = (changeBy: number) => {
     setBalanceDelta(changeBy);
     if(balance + changeBy > 0){
       setBalance((balance) => (balance + changeBy));
@@ -52,6 +52,8 @@ export default function Home({ irvineData }: Props) {
             setSavedClicks={setSavedClicks}
             isDrawerOpen={isDrawerOpen}
             setIsDrawerOpen={setIsDrawerOpen}
+            isActive={(!isGameOver && !showGreeting)}
+            showGreeting={showGreeting}
           />
           <Overlay showGreeting={showGreeting} setShowGreeting={setShowGreeting}/> 
           <GameOver isGameOver={isGameOver} setGameOver={setIsGameOver} resetGame={() => {

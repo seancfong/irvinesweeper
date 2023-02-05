@@ -13,7 +13,7 @@ const Footer = ({ isVisible }: Props) => {
                 initial={{ y: 100 }}
                 animate={{ y: 0 }}
                 exit={{ y: 100 }}
-                transition={{ type: 'spring', stiffness: 200, damping: 20}}
+                transition={{ delay: 0.7, type: 'spring', stiffness: 100, damping: 15}}
                 className="fixed bottom-0 left-0 z-50 px-10">
                 <img src="/bar.png" alt="bar" className="lg:w-[20vw] max-w-[10rem] pb-6"/>
             </motion.div>

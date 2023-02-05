@@ -1,6 +1,6 @@
 import { Status, Wrapper } from "@googlemaps/react-wrapper";
 import { MapContent } from "./MapContent";
-import { ReactElement, useState } from "react";
+import { ReactElement, useEffect, useState } from "react";
 import Drawer from 'react-modern-drawer';
 import 'react-modern-drawer/dist/index.css';
 import { currencyFormatter } from "@/helpers";
@@ -23,11 +23,15 @@ type Props = {
     setSavedClicks: () => {}
     isDrawerOpen: boolean
     setIsDrawerOpen: any
+    isActive: boolean
+    showGreeting: boolean
 }
 
 
-export function GoogleMaps({ changeBalance, savedClicks, setSavedClicks, isDrawerOpen, setIsDrawerOpen }: Props) {    
+export function GoogleMaps({ showGreeting, isActive, changeBalance, savedClicks, setSavedClicks, isDrawerOpen, setIsDrawerOpen }: Props) {    
     const [drawerData, setDrawerData] = useState({});
+    const [panControl, setPanControl ] = useState(null)
+
     const currencyFormatter = new Intl.NumberFormat('en-US', {
       style: 'currency',
       currency: 'USD',
@@ -36,10 +40,18 @@ export function GoogleMaps({ changeBalance, savedClicks, setSavedClicks, isDrawe
     
     const toggleDrawer = (community : any) => {
         setIsDrawerOpen((isDrawerOpen : any) => (!isDrawerOpen));
-        // setDrawerData(community);
+        setDrawerData(community);
     };
 
-    const center = { lat: 33.7, lng: -117.76 };
+    useEffect(() => {
+        if (panControl && !isActive) {
+            console.log('panning')
+            // @ts-ignore
+            panControl();
+        }
+    }, [ showGreeting, panControl ]);
+
+    const center = { lat: 33.686830, lng: -117.779413 };
     const zoom = 12;
 
     let mapsKey = process.env["NEXT_PUBLIC_GOOGLE_MAPS_KEY"];
@@ -50,32 +62,39 @@ export function GoogleMaps({ changeBalance, savedClicks, setSavedClicks, isDrawe
             open={isDrawerOpen} 
             onClose={() => {
                 // @ts-ignore
-                changeBalance(drawerData?.calc_minRent * -1);
+                changeBalance(drawerData?.minRent * -1);
                 toggleDrawer(drawerData);
             }} 
             direction='right' size={500} 
             style={{ backgroundColor: "rgba(0,0,0,0)"}}
             lockBackgroundScroll={true}
         >
-            <div className="text-white w-full h-full bg-[#ACBAC9] rounded-l-3xl flex-col items-center text-center font-xl py-20 px-20">
-            <img src={
-                /* @ts-ignore  */
-                drawerData?.image
-                } alt="???" />
-            <h1 className="text-6xl">drawerData?.name</h1>
-            <h2 className="py-5 text-lg">drawerData?.description</h2>
-            <h1 className="text-6xl uppercase">Type: drawerData?.type</h1>
+                <div className="text-white px-10 w-full h-full bg-[#161616] rounded-l-3xl flex flex-col justify-between items-center text-center font-xl py-10 uppercase">
+                    <div>
+                        <img src={
+                            /* @ts-ignore  */
+                            drawerData?.image
+                            } alt="???" className="shadow-xl border-4 border-white rounded-lg w-full h-40 object-cover" />
+                        {/* @ts-ignore */}
+                        <h1 className="pt-6 text-4xl drop-shadow-lg px-10">{drawerData?.name}</h1>
+                        {/* @ts-ignore */}
+                        <h2 className="text-md lowercase">{drawerData?.description}</h2>
 
-            <h1 className="text-2xl">
-                Starting at 
-                <span className="text-red-500 text-4xl font-bold">
-                    {/* @ts-ignore  */ 
-                        currencyFormatter.format(drawerData?.minRent)
-                    }
-                </span>
-            </h1>
-            
-            </div>
+                        <h1 className="py-6 text-2xl">
+                            Rent starting at <span className="text-[#FF311F] text-4xl font-bold">
+                            {/* @ts-ignore */}
+                            {currencyFormatter.format(drawerData?.minRent)}</span>
+                        </h1>
+                        <h1 className="text-2xl">oh no! this property is owned by the <span className="text-2xl text-[#FF311F]">Irvine Company</span>. Pay one month's rent!</h1>
+                    </div>
+                    <button 
+                    onClick={() => {
+                        // @ts-ignore
+                        changeBalance(drawerData?.minRent * -1);
+                        toggleDrawer(drawerData);
+                    }} 
+                    className="outline outline-[#FF311F] uppercase outline-4 rounded-full px-6 py-2 text-xl transition duration-50 ease-in-out bg-inherit hover:bg-[#FF311F] hover:text-white text-[#FF311F] hover:scale-110 hover:shadow-lg hover:shadow-[#FF311F]">keep exploring</button>
+                </div>
         </Drawer>
         <Wrapper apiKey={mapsKey ?? ""} render={render}>
             <MapContent 
@@ -85,6 +104,8 @@ export function GoogleMaps({ changeBalance, savedClicks, setSavedClicks, isDrawe
                 savedClicks={savedClicks}
                 setSavedClicks={setSavedClicks}
                 changeBalance={changeBalance}
+                isActive={isActive}
+                setPanControl={setPanControl}
             />
         </Wrapper>
       </>

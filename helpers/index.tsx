@@ -11,7 +11,7 @@ export const calculateMinimumDistance = (loc : any, irvineCommunities : any) => 
 	let r = 6371e3 
 	let clickLat = loc.lat*Math.PI/180
 	
-	var minDistance = -1	
+	let minDistance = -1	
 
 	irvineCommunities.forEach((element: any) => {
 		let tempLat = element.lat*Math.PI/180

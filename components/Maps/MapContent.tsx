@@ -1,16 +1,19 @@
 import { useEffect, useRef, useState } from "react";
 import { styledMapType, irvineBorder, irvineCommunities } from "./MapStyles";
-import { getCircleFill, calculateMinimumDistance, fetcher } from "@/helpers";
+import { getCircleFill, calculateMinimumDistance } from "@/helpers";
+import irvineData from "@/pages/api/data.json"
 
 type Props = {
     center: google.maps.LatLngLiteral;
     zoom: number;
 		setIsDrawerOpen: any;
+		setDrawerData: any;
+		savedClicks: any;
+		setSavedClicks: any;
 }
 
-export const MapContent = ({ center, zoom, setIsDrawerOpen }: Props) => {
+export const MapContent = ({ center, zoom, setIsDrawerOpen, setDrawerData, savedClicks, setSavedClicks }: Props) => {
     const ref = useRef();
-		const [savedClicks, setSavedClicks] = useState<Array<any>>([]);
 
     const mapOptions: google.maps.MapOptions = {
         center,
@@ -57,39 +60,55 @@ export const MapContent = ({ center, zoom, setIsDrawerOpen }: Props) => {
 				infoWindow.close();
 				
 				const locObj = { lat: mapsMouseEvent.latLng.lat(), lng: mapsMouseEvent.latLng.lng() }
-				setSavedClicks(savedClicks => [...savedClicks, locObj]);
 
 				const minDistance = calculateMinimumDistance(locObj, irvineCommunities)
 
 				const circleFill = getCircleFill(minDistance);
 
+				const maxRadius = 500;
+				let iRadius = 0;
+				let dRadius = 50;
+
 				let circle =  new window.google.maps.Circle({
 					map,
 					center: locObj,
-					strokeColor: "#FF0000",
+					strokeColor: "#333333",
 					strokeOpacity: 0,
-					strokeWeight: 2,
+					strokeWeight: 1.5,
 					fillColor: circleFill,
-					fillOpacity: 0.3,
-					radius: 500
+					fillOpacity: 0.5,
+					radius: iRadius
         });
 
+				const circleInterval = setInterval(() => {
+					if (iRadius < maxRadius) {
+						iRadius += dRadius;
+						circle.setRadius(iRadius);
+					} else {
+						clearInterval(circleInterval);
+					}
+				}, 20);
+				// @ts-ignore
+				setSavedClicks(savedClicks => [...savedClicks, circle]);
+
 				// Create a new InfoWindow.
-				infoWindow = new google.maps.InfoWindow({
-					position: mapsMouseEvent.latLng,
-				});
-				infoWindow.setContent(
-					minDistance.toString() + "mi"
-				);
-				infoWindow.open(map);
+				// infoWindow = new google.maps.InfoWindow({
+				// 	position: mapsMouseEvent.latLng,
+				// });
+				// infoWindow.setContent(
+				// 	minDistance.toString() + "mi"
+				// );
+				// infoWindow.open(map);
+
+
 			});
 
-			irvineCommunities.map((community: any) => {
-				console.log(community);
+			irvineData.map((community: any) => {
+				const { coords } = community;
 
 				let circle =  new window.google.maps.Circle({
 					map,
-					center: community,
+					center: coords,
 					strokeColor: "#FF0000",
 					strokeOpacity: 0,
 					strokeWeight: 2,
@@ -103,8 +122,9 @@ export const MapContent = ({ center, zoom, setIsDrawerOpen }: Props) => {
 					// Close the current InfoWindow.
 					infoWindow.close();
 
-					console.log('click right');
-			
+					console.log('click irvine company');
+					
+					setDrawerData(community);
 					setIsDrawerOpen(true);
 				});
 

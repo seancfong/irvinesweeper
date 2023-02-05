@@ -10,6 +10,34 @@
     font-style: normal;
 }
 
+
+.c--clicked {
+    transform: translate(-50%, -50%) scale(0.5);
+    background-color: #121212;
+ }
+ .cursor--link-hovered {
+    transform: translate(-50%, -50%) scale(1.25);
+ }
+ .cursor {
+    width: 15px;
+    height: 15px;
+    border: 2px solid black;
+    border-radius: 100%;
+    position: fixed;
+    transform: translate(-50%, -50%);
+    transition: all 100ms ease;
+    transition-property: opacity, background-color, transform;
+}
+html,body {
+    cursor: none
+  }
+  html *,body * {
+    cursor: none;
+  }
+  .c--hidden {
+     opacity: 0;
+  }
+
 @font-face {
     font-family: "Josefin";
     src: url('/fonts/JosefinSans-Regular.ttf');

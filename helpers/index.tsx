@@ -1,8 +1,8 @@
 export const getCircleFill = (miles: number) : string => {
 	if (0 < miles && miles < 0.8) {
-        return "rgba(250,30,30)";
+        return "rgba(250,30,30)"; // red
     } else if (miles < 1.3) {
-        return "rgba(250,250,30)";
+        return "rgba(250,250,30)"; // yellow
     }
     return "#eeeeee"
 }	
@@ -33,3 +33,9 @@ export const calculateMinimumDistance = (loc : any, irvineCommunities : any) => 
 }
 
 export const fetcher = (url: any) => fetch(url).then((res) => res.json());
+
+export const currencyFormatter = new Intl.NumberFormat('en-US', {
+    style: 'currency',
+    currency: 'USD',
+    maximumFractionDigits: 0
+});

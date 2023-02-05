@@ -3,6 +3,8 @@ import { MapContent } from "./MapContent";
 import { ReactElement, useState } from "react";
 import Drawer from 'react-modern-drawer';
 import 'react-modern-drawer/dist/index.css';
+import { currencyFormatter } from "@/helpers";
+import changeBalance from "../Layout/Header";
 
 export interface ProcessEnv {
     [key: string]: string;
@@ -16,15 +18,24 @@ const render = (status: Status): ReactElement => {
 };
 
 type Props = {
-    setIsDrawerOpen: any,
-    isDrawerOpen: boolean
+    changeBalance: any
+    savedClicks: Array<any>
+    setSavedClicks: () => {}
 }
 
-export function GoogleMaps({ setIsDrawerOpen, isDrawerOpen }: Props) {
-    const [isOpen, setisOpen] = useState(false);
+
+export function GoogleMaps({ changeBalance, savedClicks, setSavedClicks }: Props) {   
+    const [isDrawerOpen, setIsDrawerOpen] = useState(false); 
+    const [drawerData, setDrawerData] = useState({});
+    const currencyFormatter = new Intl.NumberFormat('en-US', {
+      style: 'currency',
+      currency: 'USD',
+      maximumFractionDigits: 0
+    });
     
-    const toggleDrawer = () => {
-        setisOpen(!isOpen);
+    const toggleDrawer = (community : any) => {
+        setIsDrawerOpen(!isDrawerOpen);
+        // setDrawerData(community);
     };
 
     const center = { lat: 33.7, lng: -117.76 };
@@ -34,15 +45,42 @@ export function GoogleMaps({ setIsDrawerOpen, isDrawerOpen }: Props) {
 
     return (
       <>
-        <Drawer open={isDrawerOpen} onClose={toggleDrawer} direction='right' size={500}>
-            <div className="flex-col items-center text-center font-xl py-20 px-20">
+        <Drawer 
+            open={isDrawerOpen} 
+            onClose={() => {
+                // @ts-ignore
+                changeBalance(drawerData?.calc_minRent);
+                toggleDrawer(drawerData);
+            }} 
+            direction='right' size={500} 
+            style={{ backgroundColor: "rgba(0,0,0,0)"}}
+            lockBackgroundScroll={true}
+        >
+            <div className="text-white w-full h-full bg-[#ACBAC9] rounded-l-3xl flex-col items-center text-center font-xl py-20 px-20">
             <h1 className="text-6xl">Oh No!</h1>
             <h2 className="py-5 text-2xl">This property is owned by the <span className="underline text-yellow-500">Irvine Company</span></h2>
-            <h1 className="text-2xl">Floorplans start at <span className="text-red-500 text-4xl font-bold">$1099</span></h1>
+            <h1 className="text-2xl">
+                Floorplans start at 
+                <span className="text-red-500 text-4xl font-bold">
+                    {/* @ts-ignore  */ 
+                        currencyFormatter.format(drawerData?.calc_minRent)
+                    }
+                </span>
+            </h1>
+            <img src={
+                /* @ts-ignore  */
+                drawerData?.communityHeroSqImage
+                } alt="irvine company didnt provide this image because they suck" />
             </div>
         </Drawer>
         <Wrapper apiKey={mapsKey ?? ""} render={render}>
-            <MapContent setIsDrawerOpen={setIsDrawerOpen} center={center} zoom={zoom}/>
+            <MapContent 
+                setIsDrawerOpen={setIsDrawerOpen} 
+                setDrawerData={setDrawerData}
+                center={center} zoom={zoom}
+                savedClicks={savedClicks}
+                setSavedClicks={setSavedClicks}
+            />
         </Wrapper>
       </>
     );

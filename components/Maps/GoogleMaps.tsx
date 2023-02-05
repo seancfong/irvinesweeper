@@ -69,7 +69,7 @@ export function GoogleMaps({ showGreeting, isActive, changeBalance, savedClicks,
             style={{ backgroundColor: "rgba(0,0,0,0)"}}
             lockBackgroundScroll={true}
         >
-                <div className="overflow-x-auto overflow-y-auto text-white px-10 w-full h-full bg-[#161616] rounded-l-3xl flex flex-col justify-between items-center text-center font-xl py-10 uppercase">
+                <div className="overflow-x-auto overflow-y-auto scrollbar-hide text-white px-10 w-full h-full bg-[#161616] rounded-l-3xl flex flex-col justify-between items-center text-center font-xl py-10 uppercase">
                     <div>
                         <img src={
                             /* @ts-ignore  */
@@ -78,7 +78,7 @@ export function GoogleMaps({ showGreeting, isActive, changeBalance, savedClicks,
                         {/* @ts-ignore */}
                         <h1 className="pt-6 text-4xl drop-shadow-lg px-10 uppercase">{drawerData?.name}</h1>
                         {/* @ts-ignore */}
-                        <h2 className="text-md italic lowercase">&quot;{drawerData?.status != "" ? drawerData.status : drawerData.description}&quot;</h2>
+                        <h2 className="text-md italic lowercase">&quot;{drawerData?.status != null && drawerData?.status != "" ? drawerData.status : drawerData.description}&quot;</h2>
 
                         <h1 className="pt-10 text-3xl">oh no! this property is owned by the <span className="text-6xl text-[#FF311F]">Irvine Company</span></h1>
 

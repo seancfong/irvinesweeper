@@ -1,16 +1,17 @@
-import { log } from "console";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import { styledMapType, irvineBorder, irvineCommunities } from "./MapStyles";
+import { getCircleFill, calculateMinimumDistance, fetcher } from "@/helpers";
 
 type Props = {
     center: google.maps.LatLngLiteral;
     zoom: number;
+		setIsDrawerOpen: any;
 }
 
-
-export const MapContent = ({ center, zoom }: Props) => {
+export const MapContent = ({ center, zoom, setIsDrawerOpen }: Props) => {
     const ref = useRef();
-    
+		const [savedClicks, setSavedClicks] = useState<Array<any>>([]);
+
     const mapOptions: google.maps.MapOptions = {
         center,
         zoom,
@@ -19,7 +20,7 @@ export const MapContent = ({ center, zoom }: Props) => {
             mapTypeIds: ["roadmap", "satellite", "hybrid", "terrain", "styled_map"],
         },
     }
-    
+
     useEffect(() => {
 			// Init map
 			/* @ts-ignore */
@@ -30,22 +31,13 @@ export const MapContent = ({ center, zoom }: Props) => {
 
       map.mapTypes.set("styled_map", styles);
       map.setMapTypeId("styled_map");
-
-	  let ic
-			
-			// let everythingElse = [
-			// 	{lat: 0, lng: -80},
-			// 	{lat: 0, lng: 80},
-			// 	{lat: 80, lng: -80},
-			// 	{lat: 80, lng: 80},
-			// ];
 			
 			let irvineRegion = new window.google.maps.Polygon({
 				map,
 				paths: [irvineBorder],
 				fillColor: "rgb(150,150,150)",
 				fillOpacity: 0.3,
-				strokeColor: "#FFD700",
+				strokeColor: "#EAB305",
 				strokeWeight: 8,
 			});
 
@@ -54,28 +46,47 @@ export const MapContent = ({ center, zoom }: Props) => {
 				position: {
 					lat: 33.64052,
 					lng: -117.715126
-			},
+				},
 			});
 		
-			infoWindow.open(map);
+			// infoWindow.open(map);
 
+			// Click not Irvine Company listener
 			irvineRegion.addListener("click", (mapsMouseEvent: any) => {
 				// Close the current InfoWindow.
 				infoWindow.close();
+				
+				const locObj = { lat: mapsMouseEvent.latLng.lat(), lng: mapsMouseEvent.latLng.lng() }
+				setSavedClicks(savedClicks => [...savedClicks, locObj]);
 
-				console.log('click wrong')
-		
+				const minDistance = calculateMinimumDistance(locObj, irvineCommunities)
+
+				const circleFill = getCircleFill(minDistance);
+
+				let circle =  new window.google.maps.Circle({
+					map,
+					center: locObj,
+					strokeColor: "#FF0000",
+					strokeOpacity: 0,
+					strokeWeight: 2,
+					fillColor: circleFill,
+					fillOpacity: 0.3,
+					radius: 500
+        });
+
 				// Create a new InfoWindow.
 				infoWindow = new google.maps.InfoWindow({
 					position: mapsMouseEvent.latLng,
 				});
 				infoWindow.setContent(
-					"You clicked wrong!"
+					minDistance.toString() + "mi"
 				);
 				infoWindow.open(map);
 			});
 
-			let icCommunities = irvineCommunities.map((community) => {
+			irvineCommunities.map((community: any) => {
+				console.log(community);
+
 				let circle =  new window.google.maps.Circle({
 					map,
 					center: community,
@@ -83,47 +94,29 @@ export const MapContent = ({ center, zoom }: Props) => {
 					strokeOpacity: 0,
 					strokeWeight: 2,
 					fillColor: "#FF0000",
-					fillOpacity: 0,
+					fillOpacity: 0.5,
 					radius: 500
         });
 
+				// Click on Irvine Company listener
 				circle.addListener("click", (mapsMouseEvent: any) => {
 					// Close the current InfoWindow.
 					infoWindow.close();
 
-					console.log('click right')
+					console.log('click right');
 			
-					// Create a new InfoWindow.
-					infoWindow = new google.maps.InfoWindow({
-						position: mapsMouseEvent.latLng,
-					});
-					infoWindow.setContent(
-						"You clicked on Irvine Company!"
-					);
-					infoWindow.open(map);
+					setIsDrawerOpen(true);
 				});
 
 				return circle;
-
-				// return new window.google.maps.Polygon({
-				// 	map,
-				// 	paths: [
-				// 		{lat: community.lat + 0.003, lng: community.lng - 0.003},
-				// 		{lat: community.lat + 0.003, lng: community.lng + 0.003},
-				// 		{lat: community.lat - 0.003, lng: community.lng + 0.003},
-				// 		{lat: community.lat - 0.003, lng: community.lng - 0.003},
-				// 		{lat: community.lat + 0.003, lng: community.lng - 0.003},
-				// 	]
-        // });
-
-				// return new window.google.maps.Marker({
-				// 	map,
-        //   position: community,
-        // });
       });
 			
-    });
-      
+    }, []);
+     
+		useEffect(() => {
+			console.log(savedClicks);
+		}, [savedClicks])
+
     return (
         /* @ts-ignore */
         <div ref={ref} id="map" className="w-full h-full"/>

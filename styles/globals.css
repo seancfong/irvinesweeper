@@ -1,3 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* HAHAHAHAHAHA BEAT THAT GOOGLE API SJDLFKJSDKJFLKSDJFK - sean*/
+@font-face {
+    font-family: "Josefin";
+    src: url('/fonts/JosefinSans-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Josefin";
+    src: url('/fonts/JosefinSans-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Josefin";
+    src: url('/fonts/JosefinSans-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}

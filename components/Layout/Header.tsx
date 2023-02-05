@@ -1,20 +1,34 @@
-import React from 'react'
+import {useState} from 'react'
 
-type Props = {}
+type Props = {
+};
 
 const Header = (props: Props) => {
+  const [balance, setBalance] = useState(10000);
+  const changeBalance = (changeBy : number) => {
+    if(balance - changeBy >= 0){
+      setBalance(balance - changeBy);
+    }
+    else{
+      
+    }
+  }
   return (
-    <div className="fixed z-50 top-0 left-0 w-full px-24 flex justify-center py-3 bg-gradient-to-b from-[rgba(100,100,100,0.9)] to-[rgba(250,250,250,0)] ">
+    <div className="fixed z-50 top-0 left-0 w-full px-16 flex justify-between py-6 bg-gradient-to-b from-[rgba(253,179,5,0.2)] to-[rgba(0,0,0,.05)] ">
         <a href="/">
-          <h1 className="font-josefin text-4xl">
-            <span className="text-green-500">
-              bRen
+          <h1 className="!font-josefin font-normal text-4xl">
+            <span className="drop-shadow-lg text-yellow-500">
+              irvine
             </span>
-            <span>
-              tals
+            <span className="text-white drop-shadow-lg">
+              sweeper
             </span>
           </h1>
         </a>
+        <h1 className='!font-josefin font-normal text-4xl text-white'>
+        ${balance}
+        </h1>
+        
     </div>
   )
 }

@@ -1,10 +1,16 @@
 import React from 'react'
 
-type Props = {}
+type Props = {
+    balance: number
+}
 
-const Balance = (props: Props) => {
+const Balance = ({ balance }: Props) => {
   return (
-    <div>Balance</div>
+    <div>
+        <span>
+            ${balance}
+        </span>
+    </div>
   )
 }
 

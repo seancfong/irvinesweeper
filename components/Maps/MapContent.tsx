@@ -113,15 +113,12 @@ export const MapContent = ({ changeBalance, center, zoom, setIsDrawerOpen, setDr
 					strokeOpacity: 0,
 					strokeWeight: 2,
 					fillColor: "#FF0000",
-					fillOpacity: 0,
+					fillOpacity: 0.5,
 					radius: 500
         });
 
 				// Click on Irvine Company listener
 				circle.addListener("click", (mapsMouseEvent: any) => {
-					// Close the current InfoWindow.
-					infoWindow.close();
-
 					console.log('click irvine company');
 					
 					setDrawerData(community);

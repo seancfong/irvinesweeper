@@ -21,11 +21,12 @@ type Props = {
     changeBalance: any
     savedClicks: Array<any>
     setSavedClicks: () => {}
+    isDrawerOpen: boolean
+    setIsDrawerOpen: any
 }
 
 
-export function GoogleMaps({ changeBalance, savedClicks, setSavedClicks }: Props) {   
-    const [isDrawerOpen, setIsDrawerOpen] = useState(false); 
+export function GoogleMaps({ changeBalance, savedClicks, setSavedClicks, isDrawerOpen, setIsDrawerOpen }: Props) {    
     const [drawerData, setDrawerData] = useState({});
     const currencyFormatter = new Intl.NumberFormat('en-US', {
       style: 'currency',
@@ -34,7 +35,7 @@ export function GoogleMaps({ changeBalance, savedClicks, setSavedClicks }: Props
     });
     
     const toggleDrawer = (community : any) => {
-        setIsDrawerOpen(!isDrawerOpen);
+        setIsDrawerOpen((isDrawerOpen : any) => (!isDrawerOpen));
         // setDrawerData(community);
     };
 
@@ -57,20 +58,23 @@ export function GoogleMaps({ changeBalance, savedClicks, setSavedClicks }: Props
             lockBackgroundScroll={true}
         >
             <div className="text-white w-full h-full bg-[#ACBAC9] rounded-l-3xl flex-col items-center text-center font-xl py-20 px-20">
-            <h1 className="text-6xl">Oh No!</h1>
-            <h2 className="py-5 text-2xl">This property is owned by the <span className="underline text-yellow-500">Irvine Company</span></h2>
+            <img src={
+                /* @ts-ignore  */
+                drawerData?.image
+                } alt="???" />
+            <h1 className="text-6xl">drawerData?.name</h1>
+            <h2 className="py-5 text-lg">drawerData?.description</h2>
+            <h1 className="text-6xl uppercase">Type: drawerData?.type</h1>
+
             <h1 className="text-2xl">
-                Floorplans start at 
+                Starting at 
                 <span className="text-red-500 text-4xl font-bold">
                     {/* @ts-ignore  */ 
-                        currencyFormatter.format(drawerData?.calc_minRent)
+                        currencyFormatter.format(drawerData?.minRent)
                     }
                 </span>
             </h1>
-            <img src={
-                /* @ts-ignore  */
-                drawerData?.communityHeroSqImage
-                } alt="irvine company didnt provide this image because they suck" />
+            
             </div>
         </Drawer>
         <Wrapper apiKey={mapsKey ?? ""} render={render}>

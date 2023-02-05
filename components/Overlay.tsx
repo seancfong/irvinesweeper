@@ -28,11 +28,11 @@ const Overlay = ({ showGreeting, setShowGreeting }: Props) => {
 									Welcome to Irvine.
 							</h2>
 							<span className="overflow-hidden">
-								<h2 className={"text-md text-white font-medium tracking-wider uppercase drop-shadow-lg transition delay-[500ms] duration-[1000ms] ease-in-out " + (isInView ? "opacity-[100%]" : "opacity-[0%] -translate-y-10")}>(NOT brought to you by the Irvine Company)</h2>
+								<h2 className={"text-md text-white font-medium tracking-wider uppercase drop-shadow-lg transition delay-[100ms] duration-[1000ms] ease-in-out " + (isInView ? "opacity-[100%]" : "opacity-[0%] -translate-y-10")}>(NOT brought to you by the Irvine Company)</h2>
 							</span>
 
 							<span className="py-5">							
-								<span className={"animate-pulse font-semibold text-gray-100 text-xl drop-shadow-lg transition delay-[1200ms] duration-[1000ms] " + (isInView ? "opacity-[100%]" : "opacity-[0%] -translate-y-10")}>
+								<span className={"animate-pulse font-semibold text-gray-100 text-xl drop-shadow-lg transition delay-[1200ms] duration-[1000ms] " + (isInView ? "opacity-[100%]" : "opacity-[0%] -translate-y-32")}>
 										click anywhere to begin
 								</span>
 							</span>

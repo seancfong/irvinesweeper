@@ -75,7 +75,7 @@ const Cursor = () => {
       style={{
         left: `${position.x}px`,
         top: `${position.y}px`,
-        zIndex: 100,
+        zIndex: 102,
         pointerEvents: 'none'
       }}
     />

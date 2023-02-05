@@ -17,11 +17,14 @@ export default function Home({ irvineData }: Props) {
   const [ balance, setBalance ] = useState(startingBalance);
   const [ isGameOver, setIsGameOver ] = useState(false);
   const [ showGreeting, setShowGreeting ] = useState(true);
-  const [savedClicks, setSavedClicks] = useState([]);
+  const [ savedClicks, setSavedClicks ] = useState([]);
+  const [ isDrawerOpen, setIsDrawerOpen ] = useState(false);
+  const [ balanceDelta, setBalanceDelta ] = useState(0);
 
   const changeBalance = (changeBy : number) => {
+    setBalanceDelta(changeBy);
     if(balance + changeBy > 0){
-      setBalance(balance + changeBy);
+      setBalance((balance) => (balance + changeBy));
     }
     else{
       setBalance(0);
@@ -40,13 +43,15 @@ export default function Home({ irvineData }: Props) {
       </Head>
       <Cursor />
       <main>
-        <Header balance={balance}/>
+        <Header balance={balance} balanceDelta={balanceDelta}/>
         <div className="!font-josefin relative h-screen w-full overflow-hidden">
           <GoogleMaps 
             changeBalance={changeBalance}
             savedClicks={savedClicks}
             // @ts-ignore
             setSavedClicks={setSavedClicks}
+            isDrawerOpen={isDrawerOpen}
+            setIsDrawerOpen={setIsDrawerOpen}
           />
           <Overlay showGreeting={showGreeting} setShowGreeting={setShowGreeting}/> 
           <GameOver isGameOver={isGameOver} setGameOver={setIsGameOver} resetGame={() => {
@@ -57,7 +62,7 @@ export default function Home({ irvineData }: Props) {
             });
             setSavedClicks([])
           }}/>
-          <div className={"absolute top-0 left-0 h-full w-full shadow-[inset_0px_0px_100px_35px_rgba(0,0,0,0.5)] pointer-events-none transition duration-1000 " 
+          <div className={"absolute top-0 left-0 h-full w-full shadow-[inset_0px_0px_150px_50px_rgba(0,0,0,0.5)] pointer-events-none transition duration-1000 delay-500 " 
           + ((!isGameOver && !showGreeting) ? "scale-100" : "scale-125")}/>
           <Footer isVisible={(!isGameOver && !showGreeting)}/>
 

@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { styledMapType, irvineBorder, irvineCommunities } from "./MapStyles";
+import { styledMapType, irvineBorder, irvineCommunities, ohCoords } from "./MapStyles";
 import { getCircleFill, calculateMinimumDistance } from "@/helpers";
 import irvineData from "@/pages/api/data.json"
 
@@ -10,9 +10,10 @@ type Props = {
 		setDrawerData: any;
 		savedClicks: any;
 		setSavedClicks: any;
+		changeBalance: any;
 }
 
-export const MapContent = ({ center, zoom, setIsDrawerOpen, setDrawerData, savedClicks, setSavedClicks }: Props) => {
+export const MapContent = ({ changeBalance, center, zoom, setIsDrawerOpen, setDrawerData, savedClicks, setSavedClicks }: Props) => {
     const ref = useRef();
 
     const mapOptions: google.maps.MapOptions = {
@@ -43,6 +44,13 @@ export const MapContent = ({ center, zoom, setIsDrawerOpen, setDrawerData, saved
 				strokeColor: "#EAB305",
 				strokeWeight: 8,
 			});
+			
+			let orchardHills = new window.google.maps.Polygon({
+				map,
+				paths: ohCoords,
+				fillColor: "rgb(255,0,0)",
+				fillOpacity: .3,
+			})
 
 			let infoWindow = new google.maps.InfoWindow({
 				content: "Click the map to get Lat/Lng!",
@@ -58,6 +66,8 @@ export const MapContent = ({ center, zoom, setIsDrawerOpen, setDrawerData, saved
 			irvineRegion.addListener("click", (mapsMouseEvent: any) => {
 				// Close the current InfoWindow.
 				infoWindow.close();
+				changeBalance(100);
+				console.log('not irvine company')
 				
 				const locObj = { lat: mapsMouseEvent.latLng.lat(), lng: mapsMouseEvent.latLng.lng() }
 
@@ -76,7 +86,7 @@ export const MapContent = ({ center, zoom, setIsDrawerOpen, setDrawerData, saved
 					strokeOpacity: 0,
 					strokeWeight: 1.5,
 					fillColor: circleFill,
-					fillOpacity: 0.5,
+					fillOpacity: 0.6,
 					radius: iRadius
         });
 
@@ -91,16 +101,6 @@ export const MapContent = ({ center, zoom, setIsDrawerOpen, setDrawerData, saved
 				// @ts-ignore
 				setSavedClicks(savedClicks => [...savedClicks, circle]);
 
-				// Create a new InfoWindow.
-				// infoWindow = new google.maps.InfoWindow({
-				// 	position: mapsMouseEvent.latLng,
-				// });
-				// infoWindow.setContent(
-				// 	minDistance.toString() + "mi"
-				// );
-				// infoWindow.open(map);
-
-
 			});
 
 			irvineData.map((community: any) => {
@@ -113,7 +113,7 @@ export const MapContent = ({ center, zoom, setIsDrawerOpen, setDrawerData, saved
 					strokeOpacity: 0,
 					strokeWeight: 2,
 					fillColor: "#FF0000",
-					fillOpacity: 0.5,
+					fillOpacity: 0,
 					radius: 500
         });
 

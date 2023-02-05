@@ -5,6 +5,7 @@ import React, { useState } from 'react'
 import Header from '@/components/Layout/Header'
 import GameOver from '@/components/GameOver'
 import Cursor from '@/components/Cursor'
+import Footer from '@/components/Footer'
 
 type Props = {
   irvineData: any
@@ -19,8 +20,8 @@ export default function Home({ irvineData }: Props) {
   const [savedClicks, setSavedClicks] = useState([]);
 
   const changeBalance = (changeBy : number) => {
-    if(balance - changeBy > 0){
-      setBalance(balance - changeBy);
+    if(balance + changeBy > 0){
+      setBalance(balance + changeBy);
     }
     else{
       setBalance(0);
@@ -40,7 +41,7 @@ export default function Home({ irvineData }: Props) {
       <Cursor />
       <main>
         <Header balance={balance}/>
-        <div className="!font-josefin relative h-screen w-full overflow-y-hidden">
+        <div className="!font-josefin relative h-screen w-full overflow-hidden">
           <GoogleMaps 
             changeBalance={changeBalance}
             savedClicks={savedClicks}
@@ -56,7 +57,10 @@ export default function Home({ irvineData }: Props) {
             });
             setSavedClicks([])
           }}/>
-          <div className="absolute top-0 left-0 h-full w-full shadow-[inset_0px_0px_100px_35px_rgba(0,0,0,0.5)] pointer-events-none"/>
+          <div className={"absolute top-0 left-0 h-full w-full shadow-[inset_0px_0px_100px_35px_rgba(0,0,0,0.5)] pointer-events-none transition duration-1000 " 
+          + ((!isGameOver && !showGreeting) ? "scale-100" : "scale-125")}/>
+          <Footer isVisible={(!isGameOver && !showGreeting)}/>
+
         </div>
       </main>
     </>

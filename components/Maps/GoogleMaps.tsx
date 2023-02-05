@@ -49,7 +49,7 @@ export function GoogleMaps({ changeBalance, savedClicks, setSavedClicks }: Props
             open={isDrawerOpen} 
             onClose={() => {
                 // @ts-ignore
-                changeBalance(drawerData?.calc_minRent);
+                changeBalance(drawerData?.calc_minRent * -1);
                 toggleDrawer(drawerData);
             }} 
             direction='right' size={500} 
@@ -80,6 +80,7 @@ export function GoogleMaps({ changeBalance, savedClicks, setSavedClicks }: Props
                 center={center} zoom={zoom}
                 savedClicks={savedClicks}
                 setSavedClicks={setSavedClicks}
+                changeBalance={changeBalance}
             />
         </Wrapper>
       </>

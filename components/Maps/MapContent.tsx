@@ -21,12 +21,18 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 
     const mapOptions: google.maps.MapOptions = {
         center,
-        zoom,
+		zoom,
 		minZoom: (zoom - 1),
         disableDefaultUI: true,
         mapTypeControlOptions: {
             mapTypeIds: ["roadmap", "satellite", "hybrid", "terrain", "styled_map"],
         },
+		restriction: {
+			latLngBounds: {
+				north: 33.9, south: 33.45, west: -118.15, east: -117.25
+			},
+			strictBounds: true
+		}
     }
 
 
@@ -47,14 +53,29 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 		map.setZoom(zoom)
 		})
 
+		let everythingElse = [
+			new google.maps.LatLng(34.14392,-118.9755), 
+			new google.maps.LatLng(33.08752,-118.89791), 
+			new google.maps.LatLng(33.12404,-116.96191), 
+			new google.maps.LatLng(34.35733,-117.05959), 
+		]
+
+		// Create a separate display so users can click on the irvine region with z index above it
+		let irvineRegionDisplay = new window.google.maps.Polygon({
+			map,
+			paths: [irvineBorder, everythingElse],
+			fillColor: "rgb(220,220,220)",
+			fillOpacity: 0.5,
+			strokeColor: "#ffffff",
+			strokeOpacity: 1,
+			strokeWeight: 4,
+		});
+
 		let irvineRegion = new window.google.maps.Polygon({
 			map,
 			paths: [irvineBorder],
-			fillColor: "rgb(150,150,150)",
 			fillOpacity: 0,
 			strokeColor: "#ffffff",
-			strokeOpacity: 1,
-			strokeWeight: 8,
 		});
 
 		// Click not Irvine Company listener

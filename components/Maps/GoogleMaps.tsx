@@ -3,7 +3,7 @@ import { MapContent } from "./MapContent";
 import { ReactElement, useEffect, useState } from "react";
 import Drawer from 'react-modern-drawer';
 import 'react-modern-drawer/dist/index.css';
-import { BrowserView, MobileView } from "react-device-detect";
+import DrawerContent from "../DrawerContent";
 
 export interface ProcessEnv {
     [key: string]: string;
@@ -54,87 +54,43 @@ export function GoogleMaps({ showGreeting, isActive, changeBalance, savedClicks,
     const zoom = 13;
 
     let mapsKey = process.env["NEXT_PUBLIC_GOOGLE_MAPS_KEY"];
+    
+    const closeCallback = () => {
+        // @ts-ignore
+        changeBalance(drawerData?.minRent * -1);
+        toggleDrawer(drawerData);  
+    }
 
     return (
+        
+
       <>
-        <BrowserView>
-        <Drawer 
-            open={isDrawerOpen} 
-            onClose={() => {
-                // @ts-ignore
-                changeBalance(drawerData?.minRent * -1);
-                toggleDrawer(drawerData);
-            }} 
-            direction='right' size={500} 
-            style={{ backgroundColor: "rgba(0,0,0,0)"}}
-            lockBackgroundScroll={true}
-        >
-                <div className="text-white px-10 h-full bg-[#161616] rounded-l-3xl flex flex-col justify-between items-center text-center font-xl py-10 uppercase">
-                    <div>
-                        <img src={
-                            /* @ts-ignore  */
-                            drawerData?.image
-                            } alt="???" className="shadow-xl border-4 border-white rounded-lg w-full h-40 object-cover" />
-                        {/* @ts-ignore */}
-                        <h1 className="pt-6 text-4xl drop-shadow-lg px-10 uppercase">{drawerData?.name}</h1>
-                        {/* @ts-ignore */}
-                        <h2 className="text-md italic lowercase">&quot;{drawerData?.status != null && drawerData?.status != "" ? drawerData.status : drawerData.description}&quot;</h2>
+        {/* Render this drawer on large */}
+        <div className="hidden sm:block">
+            <Drawer 
+                open={isDrawerOpen} 
+                onClose={closeCallback} 
+                direction='right' 
+                style={{ backgroundColor: "rgba(0,0,0,0)"}}
+                size={500}
+            >
+                <DrawerContent drawerData={drawerData} closeCallback={closeCallback}/>
+            </Drawer>
+        </div>
 
-                        <h1 className="pt-10 text-3xl">oh no! this property is owned by the <span className="text-6xl text-[#FF311F]">Irvine Company</span></h1>
-
-                        
-                        
-                    </div>
-                    <div className="flex flex-col gap-3">
-                        <h1 className="text-2xl">
-                            Rent starting at <span className="text-[#FF311F] text-4xl font-bold">
-                            {/* @ts-ignore */}
-                            {currencyFormatter.format(drawerData?.minRent)}</span>
-                        </h1>
-                        <button 
-                        onClick={() => {
-                            // @ts-ignore
-                            changeBalance(drawerData?.minRent * -1);
-                            toggleDrawer(drawerData);
-                        }} 
-                        className="outline outline-[#FF311F] uppercase outline-4 rounded-full px-6 py-2 text-xl transition duration-50 ease-in-out bg-inherit hover:bg-[#FF311F] hover:text-white text-[#FF311F] hover:scale-110 hover:shadow-lg hover:shadow-[#FF311F]">pay rent</button>
-                    </div>
-                </div>
-        </Drawer>
-        </BrowserView>
-        <MobileView>
-        <div className="text-white px-10 h-full bg-[#161616] rounded-l-3xl flex flex-col justify-between items-center text-center font-xl py-10 uppercase">
-                    <div>
-                        <img src={
-                            /* @ts-ignore  */
-                            drawerData?.image
-                            } alt="???" className="shadow-xl border-4 border-white rounded-lg w-full h-40 object-cover" />
-                        {/* @ts-ignore */}
-                        <h1 className="pt-6 text-4xl drop-shadow-lg px-10 uppercase">{drawerData?.name}</h1>
-                        {/* @ts-ignore */}
-                        <h2 className="text-md italic lowercase">&quot;{drawerData?.status != null && drawerData?.status != "" ? drawerData.status : drawerData.description}&quot;</h2>
-
-                        <h1 className="pt-10 text-3xl">oh no! this property is owned by the <span className="text-6xl text-[#FF311F]">Irvine Company</span></h1>
-
-                        
-                        
-                    </div>
-                    <div className="flex flex-col gap-3">
-                        <h1 className="text-2xl">
-                            Rent starting at <span className="text-[#FF311F] text-4xl font-bold">
-                            {/* @ts-ignore */}
-                            {currencyFormatter.format(drawerData?.minRent)}</span>
-                        </h1>
-                        <button 
-                        onClick={() => {
-                            // @ts-ignore
-                            changeBalance(drawerData?.minRent * -1);
-                            toggleDrawer(drawerData);
-                        }} 
-                        className="outline outline-[#FF311F] uppercase outline-4 rounded-full px-6 py-2 text-xl transition duration-50 ease-in-out bg-inherit hover:bg-[#FF311F] hover:text-white text-[#FF311F] hover:scale-110 hover:shadow-lg hover:shadow-[#FF311F]">pay rent</button>
-                    </div>
-                </div>
-        </MobileView>
+        {/* Render this drawer on small */}
+        <div className="block sm:hidden">
+            <Drawer 
+                open={isDrawerOpen} 
+                onClose={closeCallback} 
+                direction='right' 
+                style={{ backgroundColor: "rgba(0,0,0,0)"}}
+                size={"100vw"}
+            >
+                <DrawerContent drawerData={drawerData} closeCallback={closeCallback}/>
+            </Drawer>
+        </div>
+        
         <Wrapper apiKey={mapsKey ?? ""} render={render}>
             <MapContent 
                 setIsDrawerOpen={setIsDrawerOpen} 

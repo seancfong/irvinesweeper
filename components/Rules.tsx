@@ -16,11 +16,11 @@ type Props = {
 
 
 const ruleArray = [
-    <span key={1}>Trying to avoid the Irvine Company can feel like <span className="text-yellow-500"> walking through a minefield.</span></span>,
-    <span key={2}>We decided to illustrate that feeling.</span>,
-    <span key={3}>Click anywhere, and you&apos;ll gain <span className="text-green-400">$100.</span></span>,
-    <span key={4}>Click on a property owned by the Irvine Company, and you&apos;ll <span className="text-red-500">pay the price.</span></span>,
-    <span key={5}>Good luck surviving!</span>
+    <span key={'1'}>Trying to avoid the Irvine Company can feel like <span className="text-yellow-500"> walking through a minefield.</span></span>,
+    <span key={'2'}>We decided to illustrate that feeling.</span>,
+    <span key={'3'}>Click anywhere, and you&apos;ll gain <span className="text-green-400">$100.</span></span>,
+    <span key={'4'}>Click on a property owned by the Irvine Company, and you&apos;ll <span className="text-red-500">pay the price.</span></span>,
+    <span key={'5'}>Good luck surviving!</span>
 ]
 
 const Rules = ({showRules, setShowRules, setShowGreeting}: Props) => {
@@ -43,7 +43,7 @@ const Rules = ({showRules, setShowRules, setShowGreeting}: Props) => {
                     {
                         ruleArray.map((rule, index) => (
                             <motion.span 
-                            key={index} 
+                            key={-1 * index} 
                             className={"text-3xl"}
                             initial={{y: 150}}
                             animate={{y: 0, transition: {delay: index * 0.1, duration: 1, ease: 'easeOut'}}}

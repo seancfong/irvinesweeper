@@ -16,6 +16,7 @@ type Props = {
 }
 
 export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoom, setIsDrawerOpen, setDrawerData, savedClicks, setSavedClicks }: Props) => {
+	const _debugFillOpacity = 0;
     const ref = useRef();
 
     const mapOptions: google.maps.MapOptions = {
@@ -111,7 +112,7 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 					map,
 					paths: community.coords,
 					fillColor: "rgb(0,0,0)",
-					fillOpacity: 0,
+					fillOpacity: _debugFillOpacity,
 					strokeOpacity: 0,
 					zIndex: zInd
 				})
@@ -119,6 +120,9 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 			else if(community.type == "office"){
 				zInd = 1;
 				console.log("found office")
+
+				//  i have no idea about this one man
+				// if (community.name == "Oak Canyon Business Center")
 				shape = new window.google.maps.Circle({
 					// @ts-ignore
 					map,
@@ -127,7 +131,7 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 					strokeOpacity: 0,
 					strokeWeight: 2,
 					fillColor: "#FF0000",
-					fillOpacity: 0,
+					fillOpacity: _debugFillOpacity,
 					radius: 400,
 					zIndex: zInd
 				});
@@ -139,6 +143,7 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 				else{
 					zInd = 4;
 				}
+				let fillColor = ((community.type == "retail") ? "#00ff00": "#0000ff")
 				shape = new window.google.maps.Circle({
 					// @ts-ignore
 					map,
@@ -146,8 +151,8 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 					strokeColor: "#FF0000",
 					strokeOpacity: 0,
 					strokeWeight: 2,
-					fillColor: "#000000",
-					fillOpacity: 0,
+					fillColor: fillColor,
+					fillOpacity: _debugFillOpacity,
 					radius: 450,
 					zIndex: zInd
 				});

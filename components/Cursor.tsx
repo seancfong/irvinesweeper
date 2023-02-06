@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { BrowserView, MobileView } from 'react-device-detect';
+import { isBrowser } from 'react-device-detect';
 
 
 const Cursor = () => {
@@ -7,6 +7,12 @@ const Cursor = () => {
   const [hidden, setHidden] = useState(false);
   const [click, setClick] = useState(false);
   const [linkHover, setLinkHover] = useState(false);
+  const [renderCursor, setRenderCursor] = useState(false);
+
+  useEffect(() => {
+    setRenderCursor(isBrowser);
+    console.log(isBrowser)
+  }, [isBrowser]);
   
   useEffect(() => {
     const addEventListeners = () => {
@@ -64,22 +70,25 @@ const Cursor = () => {
 
 
   return (
-    <BrowserView>
-    <div
-    className={
-        'cursor ' +
-        (hidden ? 'c--hidden ' : ' ') + 
-        (click ? 'c--clicked ' : ' ') +
-        (linkHover ? 'c--hover ' : ' ')
-      }
-      style={{
-        left: `${position.x}px`,
-        top: `${position.y}px`,
-        zIndex: 102,
-        pointerEvents: 'none'
-      }}
-    />
-    </BrowserView>
+    <>
+    {/* Only render cursor on touchscreen devices */}
+    { renderCursor && 
+      <div
+      className={
+          'cursor ' +
+          (hidden ? 'c--hidden ' : ' ') + 
+          (click ? 'c--clicked ' : ' ') +
+          (linkHover ? 'c--hover ' : ' ')
+        }
+        style={{
+          left: `${position.x}px`,
+          top: `${position.y}px`,
+          zIndex: 102,
+          pointerEvents: 'none'
+        }}
+      />
+    }
+    </>
   );
 };
 

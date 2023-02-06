@@ -39,12 +39,12 @@ const Rules = ({showRules, setShowRules, setShowGreeting}: Props) => {
             onClick={() => {
                 setShowRules(false)
             }}>
-                <div className="text-2xl text-center max-w-5xl px-32 flex flex-col gap-8">
+                <div className="text-center max-w-5xl px-5 md:px-32 flex flex-col gap-8">
                     {
                         ruleArray.map((rule, index) => (
                             <motion.span 
                             key={-1 * index} 
-                            className={"text-3xl"}
+                            className={"text-2xl md:text-3xl"}
                             initial={{y: 150}}
                             animate={{y: 0, transition: {delay: index * 0.1, duration: 1, ease: 'easeOut'}}}
                             exit={{y: [0, 90, 0]}}

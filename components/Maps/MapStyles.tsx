@@ -75,10 +75,10 @@ export const styledMapType =
         "featureType": "poi",
         "stylers": [
             {
-                "color": "#f7c742"
+                "color": "#fcd56a"
             },
             {
-                "saturation": -20
+                "saturation": -38
             }
         ]
     },
@@ -106,7 +106,7 @@ export const styledMapType =
                 "color": "#f7c742"
             },
             {
-                "saturation": -20
+                "saturation": -30
             }
         ]
     },

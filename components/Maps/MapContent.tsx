@@ -90,8 +90,9 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 			const circleFill = getCircleFill(minDistance);
 
 			const maxRadius = 500;
-			let iRadius = 0;
-			let dRadius = 50;
+			
+			let circleAniIndex = 0;
+			let circleKeyframes = [0.0625, 0.09, 0.1225, 0.16, 0.2025, 0.25, 0.3, 0.36, 0.4225, 0.49, 0.5625, 0.64, 0.7225, 0.81, 0.9025, 1.0, 1.1025, 1.15, 1.18, 1.15, 1.1025, 0.98, 1.0];
 
 			let circle =  new window.google.maps.Circle({
 				map,
@@ -101,17 +102,17 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 				strokeWeight: 1.5,
 				fillColor: circleFill,
 				fillOpacity: 0.6,
-				radius: iRadius
+				radius: 0
 			});
 
 			const circleInterval = setInterval(() => {
-				if (iRadius < maxRadius) {
-					iRadius += dRadius;
-					circle.setRadius(iRadius);
+				if (circleAniIndex < circleKeyframes.length) {
+					circle.setRadius(circleKeyframes[circleAniIndex] * maxRadius);
+					circleAniIndex++;
 				} else {
 					clearInterval(circleInterval);
 				}
-			}, 20);
+			}, 1000/60);
 			// @ts-ignore
 			setSavedClicks(savedClicks => [...savedClicks, circle]);
 

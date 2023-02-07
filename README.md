@@ -1,38 +1,46 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# IrvineSweeper
 
-## Getting Started
+> *You can view the full devpost on [devpost.com](https://devpost.com/software/irvinesweeper)*
 
-First, run the development server:
+## Tech Stack
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Inspiration
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Every year, many of us fail to receive on-campus housing, forcing us into one of the most unrealistic housing markets in the country. The solution? For many coming from thousands of miles away, the only option is an Irvine Company apartment. Tenants face rising rental costs, negligent landlords, and predatory policies. Time and time again, young adults are exploited by a single entity with no other option in sight. And yet, Irvine is recognized nationwide as the perfect planned community, with most unaware of the true nature of that perfect appearance.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## What it does
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+IrvineSweeper illustrates the Irvine Company's chokehold on real estate in the city by asking it's users to engage in a game of classic minesweeper. Users are invited to explore a map of Irvine, clicking on locations while maintaining a healthy starting balance of $10,000. Just like our unknowing college students, users are blindsided as they eventually succumb to ridiculous rent prices and an overwhelming portfolio of residences, retail and office spaces. When the balance inevitably hits $0, it's game over.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## How we built it
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+At the core, IrvineSweeper operates on top of Google Cloud's "Google Maps Platform". By scraping internal APIs across numerous Irvine Company websites, we retrieve location data on various properties, including residence, retail and office spaces. Using a typescript frontend, we collect coordinate locations of users' clicks throughout the map and determine proximity using a haversine distance formula. If the distance is within a reasonable radius of the center of a property, we deduct a typical rent charge from the users' balance.
 
-## Learn More
+## Challenges we ran into
+- Interoperability between React and Google Maps API
+- Lack of public-facing Irvine Company data
+- Lack of public-facing Irvine Municipal data
+- Combining, cleaning and reformatting over 11000 lines of data into one consolidated schema, which was used in numerous facets across multiple APIs
 
-To learn more about Next.js, take a look at the following resources:
+## Accomplishments that we're proud of
+- Keeping it fun!
+- Playing to individual strengths while collaborating as a team
+- Maintaining a high standard for quality, even at the smallest details
+- Creating a fluid, consistent user interface that inherits the spirit of the project
+- Our schema, which required ~6-7 hours of scouring through hundreds of network requests across numerous websites, cleaning dozens of unneeded fields, and restructuring locations into a seamlessly integrate-able structure
+- Using small but effective animation to complement our fluid UI.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## What we learned
+- Even a trillion-dollar tech company can't deliver a perfect API!
+- When working with monstrous amounts of data, decide early on the layout of schema and integrate it into our application immediately.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## What's next for IrvineSweeper
+- Integration with CoStar Group services (Apartments.com & Houses.com listings)
+- Expand to other cities, pulling back the curtain on more real estate monopolies, and having a blast doing it!

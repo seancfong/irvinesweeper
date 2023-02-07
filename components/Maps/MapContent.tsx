@@ -21,12 +21,18 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 
     const mapOptions: google.maps.MapOptions = {
         center,
-        zoom,
+		zoom,
 		minZoom: (zoom - 1),
         disableDefaultUI: true,
         mapTypeControlOptions: {
             mapTypeIds: ["roadmap", "satellite", "hybrid", "terrain", "styled_map"],
         },
+		restriction: {
+			latLngBounds: {
+				north: 33.9, south: 33.45, west: -118.15, east: -117.25
+			},
+			strictBounds: true
+		}
     }
 
 
@@ -47,14 +53,29 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 		map.setZoom(zoom)
 		})
 
+		let everythingElse = [
+			new google.maps.LatLng(34.14392,-118.9755), 
+			new google.maps.LatLng(33.08752,-118.89791), 
+			new google.maps.LatLng(33.12404,-116.96191), 
+			new google.maps.LatLng(34.35733,-117.05959), 
+		]
+
+		// Create a separate display so users can click on the irvine region with z index above it
+		let irvineRegionDisplay = new window.google.maps.Polygon({
+			map,
+			paths: [irvineBorder, everythingElse],
+			fillColor: "rgb(220,220,220)",
+			fillOpacity: 0.5,
+			strokeColor: "#ffffff",
+			strokeOpacity: 1,
+			strokeWeight: 4,
+		});
+
 		let irvineRegion = new window.google.maps.Polygon({
 			map,
 			paths: [irvineBorder],
-			fillColor: "rgb(150,150,150)",
 			fillOpacity: 0,
 			strokeColor: "#ffffff",
-			strokeOpacity: 1,
-			strokeWeight: 8,
 		});
 
 		// Click not Irvine Company listener
@@ -69,8 +90,9 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 			const circleFill = getCircleFill(minDistance);
 
 			const maxRadius = 500;
-			let iRadius = 0;
-			let dRadius = 50;
+			
+			let circleAniIndex = 0;
+			let circleKeyframes = [0.0625, 0.09, 0.1225, 0.16, 0.2025, 0.25, 0.3, 0.36, 0.4225, 0.49, 0.5625, 0.64, 0.7225, 0.81, 0.9025, 1.0, 1.1025, 1.15, 1.18, 1.15, 1.1025, 0.98, 1.0];
 
 			let circle =  new window.google.maps.Circle({
 				map,
@@ -80,17 +102,17 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 				strokeWeight: 1.5,
 				fillColor: circleFill,
 				fillOpacity: 0.6,
-				radius: iRadius
+				radius: 0
 			});
 
 			const circleInterval = setInterval(() => {
-				if (iRadius < maxRadius) {
-					iRadius += dRadius;
-					circle.setRadius(iRadius);
+				if (circleAniIndex < circleKeyframes.length) {
+					circle.setRadius(circleKeyframes[circleAniIndex] * maxRadius);
+					circleAniIndex++;
 				} else {
 					clearInterval(circleInterval);
 				}
-			}, 20);
+			}, 1000/60);
 			// @ts-ignore
 			setSavedClicks(savedClicks => [...savedClicks, circle]);
 

@@ -84,7 +84,7 @@ export function GoogleMaps({ showGreeting, isActive, changeBalance, savedClicks,
                 open={isDrawerOpen} 
                 onClose={closeCallback} 
                 direction='right' 
-                style={{ backgroundColor: "rgba(0,0,0,0)"}}
+                style={{ backgroundColor: "rgba(0,0,0,0)", maxHeight: "100%"}}
                 size={"100vw"}
             >
                 <DrawerContent drawerData={drawerData} closeCallback={closeCallback}/>

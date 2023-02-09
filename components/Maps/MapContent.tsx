@@ -207,10 +207,6 @@ export const MapContent = ({ setPanControl, isActive, changeBalance, center, zoo
 			
     }, []);
      
-	// useEffect(() => {
-	// 	console.log(savedClicks);
-	// }, [savedClicks])
-
     return (
         /* @ts-ignore */
         <div ref={ref} id="map" className={"w-full h-full transition duration-[2000ms] ease-in-out " + (isActive ? "scale-[100%]" : "scale-[110%]")}/>
